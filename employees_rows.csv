@@ -1,0 +1,2011 @@
+employee_id,fullname,nik_baru,company_id,area_id,position_id,department_id,division_id,directorate_id,grade_id,education_id,major_id,years_of_service_months,nip
+DUP1942,Dewi Fadillah Hidayat,,4,4,1,4,1,1,2,2,2,79,325441
+DUP2096,Putri Wibowo,,3,3,4,4,2,2,1,3,4,49,149080
+DUP2722,Dewi Syahputra,,2,4,5,1,1,2,2,2,2,33,994257
+DUP3015,Bayu Kurniawan,,2,4,1,3,5,3,1,4,1,79,391102
+DUP3452,Fitri Anugrah Subekti,,1,4,3,3,5,3,3,1,5,50,890632
+DUP4177,Adi Ginting,,4,2,6,4,4,2,3,2,1,75,116115
+DUP5237,Fajar Fauziah,,1,4,4,6,1,3,2,1,6,8,165207
+DUP9015,Umar Maulana,,4,4,5,2,2,1,2,3,3,50,791731
+DUP9129,Nabila Dharma Salsabila,,3,3,6,5,3,2,3,4,2,50,446315
+DUP9801,Ayu Kusuma Santoso,,2,3,3,3,1,3,1,2,4,7,889823
+EMP100000,Rendra Pratama,,1,4,1,6,3,3,2,3,1,64,806137
+EMP100001,Wulan Setiawan,,4,4,4,5,5,3,1,1,2,16,476388
+EMP100002,Julia Jatmiko Situmorang,,1,3,5,1,1,3,1,3,1,58,941921
+EMP100003,Oka Halim,,1,3,4,2,1,1,2,2,5,15,751615
+EMP100004,Dwi Pratama,,3,4,6,5,3,3,1,1,5,34,443809
+EMP100005,Bayu Zulfikar,,1,1,5,2,3,1,1,3,1,66,590302
+EMP100006,Indra Santoso,,1,3,3,2,1,2,1,1,4,82,826406
+EMP100007,Rani Mahendra,,4,3,4,3,2,2,3,2,1,56,878510
+EMP100008,Gita Permadi,,2,4,3,1,5,1,1,4,1,40,189647
+EMP100009,Julia Anggara,,1,2,5,6,4,1,3,3,2,77,931718
+EMP100010,Maya Jatmiko Handayani,,2,3,4,3,2,2,3,1,4,29,967930
+EMP100011,Fajar Halim,,4,1,3,5,2,3,3,2,1,51,617452
+EMP100012,Rendra Tri Purnama,,1,2,2,3,2,1,2,4,6,3,457211
+EMP100013,Maya Mahendra,,4,4,6,2,1,2,3,1,4,3,656829
+EMP100014,Wahyu Indrawan,,3,3,6,1,3,1,2,4,2,65,503585
+EMP100015,Zahra Utama Setiawan,,4,2,3,4,5,2,3,2,1,28,155133
+EMP100016,Dinda Pramudita Ginting,,1,4,6,6,5,2,2,1,3,39,658786
+EMP100017,Fajar Mahendra,,2,1,4,3,1,2,3,2,2,95,583676
+EMP100018,Arif Ginting,,4,3,5,3,5,3,2,1,6,53,588205
+EMP100019,Rizki Iqbal Gunawan,,3,4,4,2,1,2,1,3,6,27,341900
+EMP100020,Yoga Erlangga Hartanto,,1,3,1,6,4,1,2,4,5,31,850478
+EMP100021,Oka Candra Kurniawan,,3,3,1,4,3,2,3,2,6,81,828497
+EMP100022,Oka Nugroho,,2,1,2,3,1,2,2,3,3,53,674733
+EMP100023,Adit Kurniawan,,4,2,3,2,1,2,2,4,1,49,555024
+EMP100024,Rendra Candra Maulida,,2,1,5,3,2,2,2,3,4,44,884289
+EMP100025,Rizky Dharma Purnama,,1,3,1,2,5,3,3,2,2,20,786831
+EMP100026,Wulan Yudhistira Tamba,,4,1,4,2,5,2,2,4,3,65,926498
+EMP100027,Oka Rohman,,3,3,2,1,5,1,3,3,2,132,176075
+EMP100028,Nadia Saputra,,3,1,3,3,4,1,2,4,5,22,373327
+EMP100029,Satya Adi Hasibuan,,3,3,5,6,5,1,1,1,5,32,491714
+EMP100030,Rizky Anugrah Permadi,,3,1,5,3,4,2,3,3,4,56,276288
+EMP100031,Julia Nabila Kurniawan,,4,4,3,2,4,3,2,4,2,34,379652
+EMP100032,Galih Mahardika Purnama,,2,1,3,6,3,3,1,4,2,34,980623
+EMP100033,Ahmad Simanjuntak,,2,2,5,3,1,3,2,4,3,37,846300
+EMP100034,Ari Adi Ginting,,1,4,6,5,5,2,1,4,1,86,510070
+EMP100035,Oka Tamba,,3,4,1,5,4,3,3,2,4,57,243414
+EMP100036,Ayunda Utama Lestari,,2,1,1,6,4,3,3,2,3,54,515963
+EMP100037,Nabila Ramadhan,,1,1,6,4,2,1,2,2,6,52,967856
+EMP100038,Bella Tri Setiawan,,3,3,6,5,3,2,3,4,2,50,446315
+EMP100039,Budi Adi Permadi,,2,2,4,3,2,2,1,3,4,65,476249
+EMP100040,Rifqi Putra,,3,1,4,2,2,3,2,4,2,81,751135
+EMP100041,Lestari Maulana,,4,2,3,6,2,1,1,2,4,99,135400
+EMP100042,Oka Lukman,,3,3,6,2,4,2,1,4,3,28,191210
+EMP100043,Nugroho Indrawan,,2,2,3,4,2,2,1,1,3,40,123837
+EMP100044,Indra Maulida,,4,4,5,3,1,2,1,2,6,8,742065
+EMP100045,Dimas Mahendra,,2,3,2,3,4,1,3,1,5,38,581488
+EMP100046,Fitri Lestari,,3,4,1,4,3,1,2,2,6,64,117913
+EMP100047,Hadi Pradana,,3,2,2,2,5,1,1,3,5,58,161695
+EMP100048,Adit Halim,,3,4,4,5,4,3,1,4,6,50,557326
+EMP100049,Rizki Halim Siregar,,1,4,5,1,1,1,3,4,6,35,453636
+EMP100050,Joko Ridwan,,4,3,4,3,5,3,1,2,2,69,411437
+EMP100051,Ari Mahardika Nugroho,,4,4,5,1,4,3,1,3,5,98,286318
+EMP100052,Sari Yudhistira Mahendra,,1,4,4,2,1,2,3,3,3,23,740192
+EMP100053,Anisa Pamungkas,,1,3,1,3,3,1,3,3,5,52,770602
+EMP100054,Nugroho Maulida,,2,4,4,3,5,1,1,2,3,22,239182
+EMP100055,Putri Nugroho,,1,2,6,1,4,1,2,4,5,42,153339
+EMP100056,Ayunda Ramadhan,,4,4,1,4,3,2,1,3,3,96,401856
+EMP100057,Nurlita Kusuma,,3,2,6,2,4,3,3,1,4,60,285929
+EMP100058,Adit Anugrah Halim,,3,3,2,4,1,2,3,2,4,66,827158
+EMP100059,Fajar Dharma Subekti,,2,3,3,2,4,1,3,4,6,75,404880
+EMP100060,Wulan Maulida,,1,4,3,4,1,3,2,2,2,44,302930
+EMP100061,Oktavia Anugrah Setiawan,,4,3,6,4,1,1,3,1,5,46,275683
+EMP100062,Valdo Jatmiko Mahendra,,3,3,4,6,3,2,2,3,2,40,249908
+EMP100063,Ayu Lestari Pradana,,2,1,1,4,2,1,1,3,5,42,461165
+EMP100064,Kurnia Purnama,,1,2,6,5,4,3,3,1,6,38,551120
+EMP100065,Rani Saputra,,1,4,1,1,4,2,2,1,4,24,240200
+EMP100066,Tania Lestari Setiawan,,1,4,3,1,2,1,1,1,1,65,378824
+EMP100067,Indra Zulfikar,,1,3,3,1,2,1,3,1,1,89,696462
+EMP100068,Nabila Qolbi Suharto,,4,1,3,2,5,2,1,4,1,68,671201
+EMP100069,Anisa Permadi,,1,3,4,2,4,3,1,2,2,61,252350
+EMP100070,Kartika Rachman Ramadhan,,3,4,6,2,4,3,1,1,5,47,855424
+EMP100071,Rafa Situmorang,,2,3,4,3,4,3,1,2,4,72,871247
+EMP100072,Nugroho Hartanto,,2,1,3,5,3,1,1,3,6,45,161630
+EMP100073,Dimas Halim Ananda,,2,3,3,3,5,1,3,3,1,85,972245
+EMP100074,Ari Utama Putra,,4,1,2,1,3,2,3,1,3,32,100945
+EMP100075,Rizki Halim Zulfikar,,3,1,5,4,5,3,1,4,4,24,290052
+EMP100076,Rizki Wijaya,,1,3,6,5,4,2,1,3,1,4,458782
+EMP100077,Novi Setiawan,,3,4,3,3,1,3,1,3,5,35,115692
+EMP100078,Indra Anggara,,1,1,6,3,1,3,3,4,1,39,811320
+EMP100079,Novi Hasibuan,,4,4,3,3,4,1,1,1,5,67,298849
+EMP100080,Andi Mahardika Handayani,,2,1,2,3,3,3,2,4,2,43,274945
+EMP100081,Ari Yulianto,,1,4,6,1,3,3,3,3,3,85,447230
+EMP100082,Budi Dharma Lukman,,3,4,1,3,2,3,3,4,1,63,247239
+EMP100083,Rizka Erlangga Subekti,,1,3,6,6,1,3,2,4,1,19,286153
+EMP100084,Dian Rachman Handayani,,1,3,6,2,1,3,2,1,2,16,735572
+EMP100085,Ahmad Rohman,,2,4,2,3,4,2,3,2,1,22,540638
+EMP100086,Rani Syahputra,,3,3,4,6,5,1,3,3,3,23,503804
+EMP100087,Rizka Ananda,,2,1,1,6,2,2,3,3,3,12,649357
+EMP100088,Nadia Saputra Mahendra,,2,4,3,2,4,1,1,3,6,38,192144
+EMP100089,Umar Simanjuntak,,1,2,5,4,3,3,3,2,4,56,179520
+EMP100090,Maya Pratomo,,2,4,6,5,4,2,2,2,5,27,304860
+EMP100091,Oka Candra Firmansyah,,4,1,3,3,1,1,2,3,1,10,109937
+EMP100092,Ahmad Indrawan,,2,1,2,4,1,3,3,2,2,68,810984
+EMP100093,Nadia Lestari Utami,,1,1,2,5,3,3,2,2,6,57,218189
+EMP100094,Nadia Utama Yulianto,,4,1,1,3,3,3,1,2,4,33,838236
+EMP100095,Fitri Pamungkas,,2,4,3,4,5,2,2,3,5,41,186709
+EMP100096,Rama Dharma Wibowo,,4,3,2,6,2,1,2,3,4,77,349891
+EMP100097,Valdo Subekti,,1,1,6,2,1,3,1,2,3,64,922054
+EMP100098,Indra Hidayat,,3,4,3,3,1,1,3,2,1,57,843650
+EMP100099,Tania Suharto,,3,4,4,4,2,2,1,2,6,46,635643
+EMP100100,Intan Rachman Suharto,,4,4,1,4,1,1,2,1,2,55,198295
+EMP100101,Yoga Pratomo,,3,1,4,1,1,2,3,4,5,51,264764
+EMP100102,Dinda Permadi,,1,2,3,6,1,3,1,3,3,22,342888
+EMP100103,Ayu Ginting,,4,1,2,3,1,3,2,1,1,32,310700
+EMP100104,Budi Pratama,,4,4,4,3,3,2,1,4,6,81,642860
+EMP100105,Maya Yulianto,,2,1,1,4,4,2,1,4,1,16,653381
+EMP100106,Valdo Wijaya Wijaya,,3,3,1,6,5,3,3,4,1,64,335938
+EMP100107,Dian Fauziah,,4,2,4,5,3,1,2,4,4,45,273235
+EMP100108,Dinda Erlangga Handayani,,4,2,3,3,5,3,2,2,6,58,455098
+EMP100109,Dinda Wibowo,,3,1,2,3,4,3,3,4,4,55,127614
+EMP100110,Citra Hartanto,,3,2,5,3,5,2,3,3,4,46,528735
+EMP100111,Rendra Herlambang,,2,2,3,6,4,1,3,3,5,44,510681
+EMP100112,Adit Mahardika Pratama,,4,4,3,1,4,3,1,1,3,36,874330
+EMP100113,Iman Rachman Rahmawati,,1,4,1,6,3,1,2,1,5,55,313238
+EMP100114,Vania Fadillah Fauziah,,2,2,4,4,5,2,2,4,2,15,475116
+EMP100115,Satya Yudhistira Lukman,,2,1,1,2,4,2,1,3,4,41,804211
+EMP100116,Bayu Ridwan,,2,2,6,4,3,2,3,2,5,50,747077
+EMP100117,Prasetyo Gunawan,,4,4,4,6,2,2,2,2,6,39,362939
+EMP100118,Julia Pramudita Hartanto,,4,4,4,2,5,3,3,2,4,53,244488
+EMP100119,Iman Ginting,,2,2,6,1,3,1,2,2,3,1,562438
+EMP100120,Iman Maulida,,4,2,2,1,2,1,2,1,3,52,949849
+EMP100121,Bayu Hidayat,,1,3,4,3,2,3,1,2,4,56,174665
+EMP100122,Rizki Simanjuntak,,2,3,6,4,1,3,3,2,2,10,580039
+EMP100123,Kurnia Jatmiko Permadi,,2,1,5,2,1,1,2,4,2,54,557929
+EMP100124,Maya Nabila Salsabila,,2,4,2,4,5,2,1,1,2,52,614276
+EMP100125,Nabila Lestari Santoso,,2,4,5,1,3,2,3,1,1,45,500320
+EMP100126,Vania Siregar,,3,4,5,5,1,3,3,3,3,67,549217
+EMP100127,Lestari Gunawan,,1,3,6,4,1,1,3,3,6,26,809952
+EMP100128,Ahmad Siregar,,1,1,4,6,4,2,2,2,3,58,282135
+EMP100129,Dian Utama Kusuma,,4,4,2,1,1,1,2,3,2,17,445242
+EMP100130,Citra Rahmawati,,2,3,1,1,2,3,1,4,3,68,328046
+EMP100131,Ayunda Adi Hartanto,,1,1,4,5,4,1,3,3,3,58,190746
+EMP100132,Maya Ramadhan,,1,2,2,5,4,2,3,2,6,46,378744
+EMP100133,Rendra Handayani,,2,2,4,2,1,3,1,3,1,30,851667
+EMP100134,Rifqi Wijaya,,4,2,5,3,5,2,1,1,5,61,526403
+EMP100135,Indra Wijaya Ridwan,,1,3,4,1,5,3,1,1,6,14,738691
+EMP100136,Maya Pradana,,3,2,2,2,2,1,1,1,6,76,517117
+EMP100137,Rizky Jatmiko Hasibuan,,1,2,1,5,4,2,1,1,1,124,553122
+EMP100138,Rani Zulfikar,,2,1,3,4,1,2,3,4,5,42,432483
+EMP100139,Nadia Herlambang,,1,2,4,4,2,3,3,2,3,78,982093
+EMP100140,Yuni Siregar,,4,2,6,3,2,1,1,4,6,54,998756
+EMP100141,Fitri Utami,,4,3,6,2,1,3,3,3,1,67,861763
+EMP100142,Indra Putra,,1,3,4,4,1,3,1,1,5,64,749034
+EMP100143,Nadia Pramudita Wibowo,,1,3,2,5,3,3,2,2,3,22,895607
+EMP100144,Bella Nabila Purnama,,2,2,4,2,1,3,2,2,6,20,423266
+EMP100145,Novi Purnama,,3,1,5,1,4,1,1,4,5,41,148545
+EMP100146,Maya Wijaya,,2,4,5,5,1,2,1,1,5,35,249743
+EMP100147,Hana Ridwan,,4,3,6,2,5,1,2,2,6,7,335078
+EMP100148,Galih Zulfikar Hasibuan,,2,1,1,5,4,1,1,4,2,100,703594
+EMP100149,Teguh Saputra Hasibuan,,4,2,4,5,2,3,1,4,3,60,512914
+EMP100150,Hadi Hasibuan,,3,3,1,5,1,1,3,3,6,69,207057
+EMP100151,Wahyu Permadi,,4,1,3,6,5,3,1,4,1,42,332971
+EMP100152,Satya Siregar,,3,4,2,2,5,3,3,2,5,59,645559
+EMP100153,Arif Herlambang,,4,1,3,2,3,3,1,3,6,66,692402
+EMP100154,Kurnia Maulida,,1,2,2,1,1,2,2,4,4,39,876199
+EMP100155,Citra Jatmiko Siregar,,1,3,3,4,3,3,1,4,2,74,846042
+EMP100156,Yoga Anugrah Lestari,,2,1,4,3,2,3,1,4,1,66,302014
+EMP100157,Maya Zulfikar Purnama,,2,1,1,2,2,2,3,1,2,15,229728
+EMP100158,Lestari Syahputra,,3,1,4,3,5,1,3,2,6,20,659507
+EMP100159,Nabila Mahendra,,4,3,4,1,5,2,3,1,5,45,773399
+EMP100160,Nugroho Rachman Salsabila,,4,1,1,6,1,2,2,4,4,83,260531
+EMP100161,Wulan Saputra Pratama,,4,2,6,3,5,3,1,2,4,78,937812
+EMP100162,Eko Adi Permadi,,3,2,5,5,3,1,2,4,5,38,635327
+EMP100163,Oktavia Pramudita Sinaga,,2,4,2,6,2,3,1,3,2,74,411227
+EMP100164,Wahyu Iqbal Pratomo,,4,4,2,3,5,2,1,2,5,81,906701
+EMP100165,Kurnia Nugroho,,4,4,6,1,5,1,3,3,6,18,272376
+EMP100166,Wahyu Yulianto,,2,3,4,4,3,3,1,3,3,34,212302
+EMP100167,Eko Zulfikar,,3,2,4,2,5,3,1,3,2,84,595197
+EMP100168,Wahyu Rachman Utami,,1,2,3,2,4,1,3,2,3,77,459611
+EMP100169,Intan Permadi,,2,4,4,3,3,2,2,2,6,55,292727
+EMP100170,Dinda Wijaya Zulfikar,,4,4,1,4,1,3,1,1,5,103,889308
+EMP100171,Nadia Yulianto,,1,1,2,3,5,3,3,3,2,44,164530
+EMP100172,Dinda Ridwan,,3,4,6,3,2,1,3,3,6,15,746866
+EMP100173,Ahmad Wijaya,,4,3,6,6,5,2,3,3,1,81,181237
+EMP100174,Ayunda Nabila Ramadhan,,3,4,5,4,3,2,2,3,5,74,137718
+EMP100175,Budi Hasibuan,,1,2,2,5,4,1,1,4,6,28,757262
+EMP100176,Fajar Firmansyah,,3,3,6,3,3,1,1,1,4,10,952140
+EMP100177,Rama Mahardika Wijaya,,2,1,5,6,4,1,3,3,4,19,228799
+EMP100178,Nurlita Siregar,,3,3,4,1,2,3,1,2,3,56,371453
+EMP100179,Andi Santoso,,2,1,5,4,5,2,3,3,3,41,255408
+EMP100180,Evi Kurniawan,,2,1,1,1,1,2,1,4,4,44,281925
+EMP100181,Dewi Mahardika Salsabila,,1,2,4,4,5,1,1,4,3,63,564954
+EMP100182,Joko Kusuma Maulana,,3,3,4,4,5,3,1,2,6,49,980488
+EMP100183,Valdo Herlambang,,1,1,2,4,5,2,3,4,6,16,212000
+EMP100184,Rizka Pamungkas,,4,3,3,1,5,2,3,3,2,62,270387
+EMP100185,Yuni Anugrah Subekti,,3,1,6,2,4,2,2,3,1,59,360441
+EMP100186,Rizki Halim,,3,4,3,5,3,3,2,2,6,59,489939
+EMP100187,Ayu Tamba,,2,4,6,6,5,2,1,2,1,39,561710
+EMP100188,Novi Pramudita Syahputra,,3,3,1,1,4,3,3,3,1,7,711579
+EMP100189,Andi Ganesha Hartanto,,3,3,1,3,2,2,3,4,6,78,355817
+EMP100190,Kartika Santoso,,2,1,5,6,3,3,1,3,6,45,820251
+EMP100191,Cahyo Wijaya,,3,1,5,1,4,1,1,2,4,61,731090
+EMP100192,Yoga Handayani,,3,1,5,2,5,3,2,3,6,86,437723
+EMP100193,Kurnia Anugrah Kurniawan,,4,2,5,2,1,1,1,4,1,38,263702
+EMP100194,Arif Hasibuan,,3,2,1,3,1,1,2,1,2,41,345752
+EMP100195,Fitri Purnama,,3,3,3,6,1,1,2,4,3,29,395742
+EMP100196,Kurnia Situmorang,,3,3,2,4,4,1,3,4,3,34,229790
+EMP100197,Fitri Santoso,,1,4,4,5,4,1,3,1,3,15,895048
+EMP100198,Citra Baskara Suharto,,2,4,1,2,1,3,2,1,4,66,693575
+EMP100199,Valdo Zulfikar Halim,,1,3,1,5,2,3,2,3,4,70,571816
+EMP100200,Lestari Pratomo,,4,1,5,2,2,2,2,2,3,46,560557
+EMP100201,Gita Ganesha Santoso,,4,2,1,5,4,3,3,2,5,29,960157
+EMP100202,Rizky Anugrah Suharto,,3,3,4,3,2,1,1,1,3,26,899344
+EMP100203,Teguh Kusuma Siregar,,1,3,1,5,3,2,1,1,4,46,261676
+EMP100204,Utami Candra Ginting,,1,4,4,4,5,2,1,2,3,75,744103
+EMP100205,Vania Adi Nugroho,,4,3,3,2,4,1,3,2,5,12,360370
+EMP100206,Sari Pratomo,,1,4,4,6,1,2,3,1,3,38,360509
+EMP100207,Lestari Qolbi Setiawan,,1,2,1,1,4,3,2,1,3,54,214779
+EMP100208,Hadi Tri Maulida,,3,3,1,6,2,3,2,1,2,79,256506
+EMP100209,Nugroho Pamungkas,,2,2,6,6,1,2,1,4,5,45,244390
+EMP100210,Zaki Jatmiko Sinaga,,1,4,4,4,1,3,2,4,3,56,141771
+EMP100211,Dian Tri Pratomo,,3,1,1,3,4,3,1,4,5,38,642425
+EMP100212,Galih Kurniawan,,3,1,5,5,5,3,3,3,4,14,286882
+EMP100213,Rizky Permadi,,4,2,4,6,2,2,3,3,1,59,636241
+EMP100214,Oktavia Subekti,,1,1,5,4,4,2,3,2,1,16,709787
+EMP100215,Valdo Wijaya,,2,2,1,1,3,1,1,3,4,97,822227
+EMP100216,Sari Ananda,,4,1,5,6,5,1,2,4,4,10,408721
+EMP100217,Luthfi Purnama,,2,3,1,5,4,3,1,1,2,35,738931
+EMP100218,Ayu Lukman,,4,4,2,6,1,2,2,3,1,35,945788
+EMP100219,Julia Kusuma Santoso,,3,1,5,5,3,2,2,1,4,14,398604
+EMP100220,Rizka Adi Setiawan,,2,2,6,6,3,3,1,4,5,63,454642
+EMP100221,Dimas Qolbi Maulana,,4,4,2,3,3,3,1,1,1,3,565432
+EMP100222,Luthfi Wijaya,,2,3,1,1,4,2,2,3,1,88,476268
+EMP100223,Utami Mahardika Rohman,,4,3,2,3,4,3,3,4,3,2,812910
+EMP100224,Rafa Maulida,,1,2,4,2,1,1,3,1,4,75,414878
+EMP100225,Fajar Purnama,,3,1,6,3,1,1,3,3,2,48,410679
+EMP100226,Nabila Simanjuntak,,2,1,4,3,1,1,1,2,4,11,407321
+EMP100227,Wulan Suharto,,2,4,1,6,4,3,2,2,4,61,836120
+EMP100228,Satya Candra Handayani,,4,2,2,2,4,1,2,2,4,53,827729
+EMP100229,Rizki Putra,,2,2,6,5,5,3,3,3,5,22,636376
+EMP100230,Eko Indrawan,,4,4,1,2,1,3,2,2,4,91,222544
+EMP100231,Satya Halim Hidayat,,3,4,1,3,5,1,2,2,3,17,732788
+EMP100232,Zaki Ridwan,,1,1,1,4,4,3,3,3,2,65,501019
+EMP100233,Utami Iqbal Gunawan,,2,4,6,5,4,3,2,4,6,66,240856
+EMP100234,Galih Jatmiko Maulana,,4,2,6,3,2,3,2,4,5,19,213578
+EMP100235,Bayu Maulida,,4,3,6,6,2,1,2,3,2,36,886319
+EMP100236,Teguh Santoso,,1,3,4,5,4,3,1,3,4,20,274035
+EMP100237,Sari Halim Siregar,,4,3,2,5,5,3,3,3,1,36,225799
+EMP100238,Dewi Siregar,,1,3,1,4,3,1,1,3,1,98,729851
+EMP100239,Dimas Sinaga,,1,2,1,4,3,1,2,3,6,16,307781
+EMP100240,Oktavia Hartanto,,1,3,1,2,5,3,1,3,1,19,589164
+EMP100241,Sari Saputra Lukman,,4,2,6,4,2,1,2,1,6,81,692319
+EMP100242,Rifqi Pamungkas,,4,1,2,5,2,2,2,2,3,52,761064
+EMP100243,Sari Yudhistira Setiawan,,2,3,2,2,2,2,1,4,5,40,828379
+EMP100244,Zaki Suharto,,1,2,3,3,4,1,2,3,4,85,107836
+EMP100245,Budi Kurniawan,,2,1,3,4,1,2,2,2,4,79,773435
+EMP100246,Rizky Subekti,,1,1,3,3,3,3,1,2,2,28,415281
+EMP100247,Hadi Ganesha Wijaya,,1,1,1,3,1,3,3,1,5,59,546699
+EMP100248,Ahmad Erlangga Siregar,,2,3,1,5,1,2,2,3,4,7,937306
+EMP100249,Evi Ridwan,,4,4,2,6,2,3,1,1,5,82,878002
+EMP100250,Arif Mahardika Kusuma,,4,2,1,1,4,1,3,4,6,56,284620
+EMP100251,Vania Halim Santoso,,1,3,3,3,5,3,2,2,5,25,686738
+EMP100252,Wulan Adi Mahendra,,2,2,6,5,3,3,1,1,5,65,178638
+EMP100253,Putri Kusuma,,2,2,2,5,5,2,2,2,6,83,728438
+EMP100254,Wulan Salsabila,,1,4,1,3,2,3,1,1,6,55,372212
+EMP100255,Cahyo Anggara,,3,3,2,2,1,2,2,2,4,49,299456
+EMP100256,Maya Dharma Pamungkas,,3,4,2,6,3,1,2,3,2,54,372471
+EMP100257,Zahra Aji Zulfikar,,2,1,3,4,1,2,3,4,6,85,761892
+EMP100258,Fitri Adi Maulana,,1,3,4,5,3,1,1,1,1,4,987651
+EMP100259,Gita Ridwan,,2,1,6,5,3,3,3,1,6,52,873855
+EMP100260,Ahmad Pramudita Siregar,,4,4,2,5,1,2,2,1,4,88,774643
+EMP100261,Valdo Gunawan,,1,1,1,5,5,3,1,2,1,42,998529
+EMP100262,Iman Baskara Saputra,,1,2,4,2,4,1,2,3,1,55,712560
+EMP100263,Maya Handayani,,2,4,1,6,2,1,2,2,4,70,335338
+EMP100264,Citra Utami,,2,1,1,5,5,3,2,3,3,95,662357
+EMP100265,Citra Yulianto,,4,1,3,3,4,3,1,3,5,47,688712
+EMP100266,Prasetyo Firmansyah,,2,1,6,2,5,1,3,1,4,49,672031
+EMP100267,Nurlita Saputra Sinaga,,4,1,4,4,1,1,2,2,2,61,872771
+EMP100268,Nadia Tri Fauziah,,1,3,5,2,2,1,1,1,3,73,935756
+EMP100269,Zahra Pramudita Kusuma,,2,1,1,1,3,2,2,1,3,81,772941
+EMP100270,Rani Aji Setiawan,,2,1,5,3,2,1,2,2,4,53,325137
+EMP100271,Rani Nugroho,,2,3,4,6,1,1,2,4,2,102,504606
+EMP100272,Yoga Qolbi Herlambang,,1,1,6,5,5,1,3,3,2,60,509363
+EMP100273,Rani Wibowo,,4,1,1,4,3,2,2,2,3,48,313299
+EMP100274,Nabila Anugrah Gunawan,,2,1,6,5,5,3,2,3,4,34,489184
+EMP100275,Evi Maulana,,1,3,5,3,2,1,2,2,3,58,622572
+EMP100276,Maya Fauziah,,3,2,2,4,4,1,1,1,1,47,204779
+EMP100277,Nadia Handayani,,3,2,1,5,2,3,1,1,1,31,161543
+EMP100278,Tania Qolbi Lukman,,2,3,2,6,3,3,1,1,2,57,392035
+EMP100279,Julia Wibowo,,2,2,1,1,2,1,1,3,6,73,344811
+EMP100280,Yuni Nabila Handayani,,3,2,4,2,2,3,3,1,6,72,934524
+EMP100281,Bella Qolbi Ridwan,,3,3,5,5,1,3,2,1,6,29,924171
+EMP100282,Indra Siregar,,4,4,4,1,4,2,3,2,4,35,149631
+EMP100283,Wahyu Anggara,,3,3,5,5,3,1,1,4,2,39,567119
+EMP100284,Julia Maulana,,3,2,1,2,2,3,2,4,5,27,793398
+EMP100285,Adi Mahardika Setiawan,,3,2,4,3,1,3,2,2,4,15,651681
+EMP100286,Hana Wijaya Anggara,,4,1,3,2,4,3,3,2,3,24,712677
+EMP100287,Bella Mahendra,,1,4,2,5,5,3,1,3,1,18,574973
+EMP100288,Budi Rachman Ramadhan,,4,2,5,3,3,2,2,3,3,54,264342
+EMP100289,Teguh Hasibuan,,4,1,1,2,4,1,2,3,5,6,306961
+EMP100290,Ahmad Mahardika Firmansyah,,4,4,1,5,3,2,2,1,2,19,971323
+EMP100291,Cahyo Pratomo,,3,2,1,2,4,1,1,1,5,20,508086
+EMP100292,Wahyu Halim Zulfikar,,4,4,4,6,2,3,2,2,3,2,883265
+EMP100293,Sari Fadillah Mahendra,,2,1,5,6,3,3,2,1,2,88,992880
+EMP100294,Fitri Dharma Hidayat,,2,2,5,6,5,1,3,3,5,65,354680
+EMP100295,Hadi Dharma Siregar,,3,3,5,3,5,3,1,2,3,33,759978
+EMP100296,Bayu Nugroho,,1,3,3,3,1,3,2,2,3,49,234846
+EMP100297,Yoga Salsabila,,1,2,6,5,5,2,3,1,1,65,139161
+EMP100298,Yuni Iqbal Saputra,,3,2,5,3,5,3,2,3,3,65,364358
+EMP100299,Fajar Rachman Ridwan,,2,1,3,3,5,3,3,2,1,13,970290
+EMP100300,Rama Lukman,,3,1,6,2,5,3,2,1,5,25,997537
+EMP100301,Rama Zulfikar,,2,1,4,6,3,3,2,2,6,31,994634
+EMP100302,Rizky Ginting,,2,2,6,3,5,2,3,4,2,3,742035
+EMP100303,Bayu Wijaya Maulida,,2,4,6,2,5,3,3,2,1,95,548503
+EMP100304,Valdo Halim,,2,4,3,4,1,2,2,1,4,49,860350
+EMP100305,Indra Herlambang,,1,2,5,6,2,2,1,3,3,68,561242
+EMP100306,Dinda Kusuma Ananda,,4,4,2,1,3,2,1,4,2,24,169031
+EMP100307,Sari Indrawan,,4,3,4,4,4,3,2,3,2,29,969311
+EMP100308,Nugroho Subekti,,2,2,3,5,2,3,3,1,2,52,490001
+EMP100309,Valdo Ridwan,,4,3,2,5,5,3,3,3,5,61,581369
+EMP100310,Rendra Pradana,,4,3,4,2,2,1,3,4,1,49,470444
+EMP100311,Maya Pramudita Zulfikar,,4,3,6,3,4,2,3,4,3,62,192380
+EMP100312,Maya Lestari,,1,1,6,4,1,2,2,4,5,20,273935
+EMP100313,Budi Qolbi Hidayat,,1,3,2,3,4,3,1,3,4,50,928862
+EMP100314,Yuni Herlambang,,4,1,2,3,4,3,1,1,4,14,183351
+EMP100315,Rama Kusuma,,1,2,2,1,5,3,1,4,4,70,705053
+EMP100316,Joko Siregar,,3,1,6,5,4,3,1,1,3,40,586510
+EMP100317,Budi Herlambang,,4,4,6,5,1,3,2,3,6,76,982097
+EMP100318,Rafa Lestari Fauziah,,3,3,3,4,1,3,1,4,1,31,189958
+EMP100319,Valdo Anugrah Ramadhan,,4,3,5,1,4,3,2,4,4,101,956018
+EMP100320,Budi Hartanto,,2,4,3,3,3,3,2,1,3,25,684733
+EMP100321,Wulan Iqbal Herlambang,,2,1,1,3,5,2,3,3,1,42,615567
+EMP100322,Rizka Pramudita Suharto,,2,3,6,2,5,2,2,3,2,56,975189
+EMP100323,Umar Indrawan,,4,1,2,1,1,3,3,2,6,8,930718
+EMP100324,Intan Halim,,2,4,4,2,3,3,1,3,5,48,519062
+EMP100325,Wahyu Kusuma Hartanto,,1,3,2,5,5,1,3,4,2,34,242437
+EMP100326,Rizka Qolbi Mahendra,,2,4,4,5,2,3,1,3,6,55,978884
+EMP100327,Vania Rachman Utami,,4,1,3,1,4,3,1,3,5,86,230456
+EMP100328,Tania Yudhistira Simanjuntak,,2,1,6,1,3,3,2,2,6,37,949570
+EMP100329,Galih Iqbal Pamungkas,,1,1,5,5,2,1,3,2,4,41,896333
+EMP100330,Kartika Gunawan,,3,2,3,6,4,3,2,3,5,25,729686
+EMP100331,Julia Tri Hartanto,,1,4,1,5,3,1,1,3,1,39,217008
+EMP100332,Dewi Maulida,,4,1,1,5,5,2,1,1,2,58,537866
+EMP100333,Mahendra Putra,,4,1,5,5,5,3,3,4,6,47,554252
+EMP100334,Sari Maulana,,3,2,4,4,1,1,3,3,3,42,857262
+EMP100335,Mahendra Pramudita Purnama,,4,2,4,5,3,3,1,3,2,66,567404
+EMP100336,Evi Pratomo,,3,4,1,5,4,3,3,1,6,26,873097
+EMP100337,Anisa Situmorang,,1,4,2,3,4,2,1,4,1,87,434979
+EMP100338,Galih Halim,,2,1,4,4,3,3,1,3,5,123,376354
+EMP100339,Rafa Pramudita Purnama,,3,4,1,3,1,2,1,4,6,53,506956
+EMP100340,Rifqi Ginting,,4,2,5,4,5,2,1,2,2,59,213811
+EMP100341,Lestari Handayani,,4,3,6,6,2,3,2,4,1,30,929554
+EMP100342,Luthfi Utama Pradana,,1,1,1,2,4,1,3,2,1,66,161705
+EMP100343,Adit Tamba,,3,2,2,6,2,3,3,2,4,80,959800
+EMP100344,Iman Wijaya Ginting,,3,2,1,4,1,3,2,2,3,112,303395
+EMP100345,Arif Jatmiko Wibowo,,3,1,6,6,1,3,2,4,3,7,904691
+EMP100346,Ari Ridwan,,2,4,3,1,1,1,1,3,3,64,772854
+EMP100347,Rizky Nabila Fauziah,,2,1,2,4,5,1,2,4,4,53,746531
+EMP100348,Indra Ananda,,4,2,4,2,1,3,2,1,3,65,608424
+EMP100349,Dwi Ridwan,,2,4,3,4,5,3,3,1,1,97,417624
+EMP100350,Galih Ganesha Fauziah,,2,2,4,4,3,2,3,1,4,98,574728
+EMP100351,Cahyo Jatmiko Wibowo,,3,1,6,6,5,3,1,4,1,62,342607
+EMP100352,Gita Wijaya Lestari,,4,1,6,1,3,1,3,2,5,24,360837
+EMP100353,Wahyu Kusuma,,3,4,2,6,4,1,3,4,3,24,461785
+EMP100354,Wahyu Setiawan,,4,4,3,4,4,2,2,4,5,52,635548
+EMP100355,Dimas Erlangga Yulianto,,2,2,2,5,3,1,3,1,4,86,225016
+EMP100356,Adi Baskara Subekti,,2,3,4,4,5,3,3,1,4,18,895426
+EMP100357,Adit Siregar,,1,2,2,6,2,3,2,1,1,90,197677
+EMP100358,Rizki Handayani,,1,4,3,5,3,3,2,4,3,97,634957
+EMP100359,Vania Baskara Pratama,,2,1,1,6,3,1,1,4,2,24,674316
+EMP100360,Rizka Rachman Wijaya,,1,4,5,3,1,2,1,2,5,6,652331
+EMP100361,Eko Baskara Ananda,,3,3,3,2,5,1,1,4,1,52,812639
+EMP100362,Adit Ginting,,4,3,1,5,4,3,3,4,1,32,333391
+EMP100363,Zahra Salsabila,,3,2,5,5,5,1,2,3,4,44,134265
+EMP100364,Utami Kusuma,,3,4,6,2,2,3,2,4,2,60,705134
+EMP100365,Maya Syahputra,,1,1,6,3,2,1,1,3,4,37,620897
+EMP100366,Zaki Qolbi Tamba,,3,3,4,3,3,1,3,2,2,65,989990
+EMP100367,Utami Utama Maulana,,1,2,5,5,5,3,2,3,2,63,294905
+EMP100368,Dewi Indrawan,,2,4,2,1,2,2,3,3,3,111,472478
+EMP100369,Wahyu Halim,,4,1,3,2,2,1,3,1,2,51,487988
+EMP100370,Bayu Tamba,,3,1,4,3,5,1,3,2,6,34,645731
+EMP100371,Ahmad Yudhistira Pratama,,2,1,1,3,4,1,2,3,6,71,909147
+EMP100372,Andi Baskara Pamungkas,,1,2,5,5,5,2,3,2,3,20,653084
+EMP100373,Gita Lestari,,1,1,1,1,5,2,3,1,6,73,338577
+EMP100374,Utami Tamba,,3,4,1,6,2,1,1,2,4,14,674491
+EMP100375,Intan Setiawan,,2,4,3,1,2,2,1,3,2,58,232284
+EMP100376,Evi Iqbal Syahputra,,2,4,4,4,1,2,3,3,3,25,924611
+EMP100377,Mahendra Pramudita Sinaga,,1,3,2,1,5,1,1,3,5,91,371193
+EMP100378,Hana Halim,,4,2,5,6,4,2,1,4,2,27,321596
+EMP100379,Ayu Mahardika Simanjuntak,,3,2,5,4,4,3,1,3,4,64,840629
+EMP100380,Evi Maulida,,4,2,2,4,2,2,3,3,3,32,878062
+EMP100381,Cahyo Halim Siregar,,3,2,4,5,2,2,3,1,5,43,908213
+EMP100382,Utami Erlangga Tamba,,2,4,5,4,4,2,2,2,4,65,208071
+EMP100383,Eko Mahendra,,4,1,5,1,1,3,1,3,4,66,161541
+EMP100384,Dimas Saputra Utami,,1,4,1,5,3,2,1,4,5,98,827380
+EMP100385,Hana Ananda,,1,2,4,1,5,2,3,4,5,44,303038
+EMP100386,Tania Santoso,,1,3,3,6,4,2,3,2,5,76,675878
+EMP100387,Ari Tri Hartanto,,2,3,6,5,3,2,3,3,4,50,981132
+EMP100388,Rani Qolbi Zulfikar,,1,4,1,1,1,3,1,3,1,33,541183
+EMP100389,Fajar Pratama,,2,3,5,3,1,2,3,4,6,74,434915
+EMP100390,Bayu Tri Simanjuntak,,2,3,1,1,3,3,1,2,4,35,454485
+EMP100391,Rizka Adi Anggara,,1,4,3,3,3,3,3,2,5,51,731323
+EMP100392,Tania Herlambang,,1,3,6,2,3,3,1,1,6,20,129384
+EMP100393,Oktavia Ramadhan,,4,2,2,3,2,1,3,1,1,61,782437
+EMP100394,Hadi Jatmiko Kurniawan,,3,1,4,5,5,3,1,3,3,44,222371
+EMP100395,Joko Nabila Santoso,,3,3,1,2,1,1,3,4,4,54,564871
+EMP100396,Zaki Anugrah Nugroho,,4,1,6,3,3,2,3,4,6,36,875084
+EMP100397,Yuni Iqbal Putra,,4,3,5,5,2,1,2,1,5,90,741949
+EMP100398,Joko Wijaya Wijaya,,1,3,2,3,4,1,3,2,5,94,399540
+EMP100399,Zaki Ramadhan,,1,3,5,5,1,2,3,3,3,56,526292
+EMP100400,Luthfi Herlambang,,4,1,4,3,2,2,3,3,2,53,517255
+EMP100401,Dwi Wijaya Halim,,4,2,1,4,2,1,1,3,6,74,744205
+EMP100402,Fajar Candra Maulida,,1,3,6,3,3,3,1,1,5,91,589960
+EMP100403,Prasetyo Lestari,,2,2,2,1,2,1,1,4,2,46,468763
+EMP100404,Anisa Tri Anggara,,3,3,4,3,5,3,2,2,5,25,182223
+EMP100405,Teguh Erlangga Setiawan,,2,4,1,3,5,1,1,4,4,55,537895
+EMP100406,Vania Lestari Subekti,,4,2,4,3,4,2,1,1,5,25,418303
+EMP100407,Arif Rachman Suharto,,2,2,1,3,3,1,1,4,3,94,625383
+EMP100408,Rafa Anugrah Kusuma,,1,3,3,3,1,3,1,2,2,26,310594
+EMP100409,Rani Ginting,,2,2,4,2,3,3,2,2,4,24,248563
+EMP100410,Adit Saputra Wijaya,,2,1,4,1,2,3,1,1,4,64,670362
+EMP100411,Rani Fauziah,,2,2,3,6,3,3,1,4,1,29,266657
+EMP100412,Tania Syahputra,,4,4,1,5,4,1,2,2,4,26,610532
+EMP100413,Zahra Utama Pratomo,,2,1,3,6,5,2,1,1,6,46,376539
+EMP100414,Citra Hasibuan,,1,2,4,6,4,2,3,3,4,70,184175
+EMP100415,Hadi Lukman,,1,1,2,2,2,2,1,1,4,38,306853
+EMP100416,Cahyo Ganesha Handayani,,4,3,2,6,4,1,3,3,4,38,763802
+EMP100417,Adi Situmorang,,2,1,1,4,1,1,1,4,3,32,212203
+EMP100418,Oktavia Ganesha Fauziah,,4,4,4,4,4,2,2,4,4,29,361013
+EMP100419,Lestari Hidayat,,4,1,1,4,1,2,2,2,5,49,143661
+EMP100420,Vania Hartanto,,4,4,2,2,4,1,2,3,3,81,857131
+EMP100421,Adit Anggara,,4,2,2,2,2,2,1,2,2,51,122593
+EMP100422,Ari Handayani,,4,2,1,6,5,3,1,1,6,54,412819
+EMP100423,Valdo Fauziah,,2,3,1,4,1,1,1,2,6,83,504461
+EMP100424,Valdo Ramadhan,,4,4,5,5,3,1,2,1,6,23,583793
+EMP100425,Novi Baskara Sinaga,,4,1,2,1,3,3,2,4,6,53,948537
+EMP100426,Dimas Pamungkas,,4,2,1,4,1,3,1,2,5,50,182205
+EMP100427,Dimas Adi Mahendra,,4,2,4,5,3,1,2,3,1,42,824622
+EMP100428,Umar Pamungkas,,4,4,5,4,3,2,1,3,2,61,651268
+EMP100429,Gita Candra Situmorang,,1,1,3,3,4,3,1,4,6,31,373545
+EMP100430,Valdo Nabila Rohman,,1,1,5,3,4,2,1,1,4,39,152410
+EMP100431,Novi Wijaya Putra,,4,3,3,5,5,1,2,4,6,119,672623
+EMP100432,Rani Fadillah Rahmawati,,4,2,3,4,1,3,2,1,6,94,816269
+EMP100433,Dian Ridwan,,4,1,3,5,4,3,2,1,6,9,953498
+EMP100434,Hadi Wibowo,,3,4,3,2,5,1,3,3,5,59,529665
+EMP100435,Intan Syahputra,,1,3,5,5,1,1,1,3,6,34,846697
+EMP100436,Zahra Wijaya,,2,1,4,6,1,3,2,1,2,94,344400
+EMP100437,Indra Hartanto,,3,4,6,4,1,3,1,2,5,86,694645
+EMP100438,Bayu Yudhistira Santoso,,1,4,3,3,5,3,3,1,5,50,890632
+EMP100439,Intan Tamba,,3,1,5,1,2,2,3,2,6,54,951570
+EMP100440,Cahyo Utama Sinaga,,1,3,6,6,2,2,1,1,5,3,982586
+EMP100441,Kartika Herlambang,,2,1,1,6,3,1,1,1,3,24,110921
+EMP100442,Andi Qolbi Hidayat,,3,4,3,5,1,2,3,2,2,29,115176
+EMP100443,Bayu Qolbi Hidayat,,3,2,5,5,3,3,3,3,5,49,515233
+EMP100444,Dimas Purnama,,1,3,2,3,3,3,3,1,5,80,741385
+EMP100445,Kurnia Wijaya,,1,3,5,6,2,1,2,3,6,31,613214
+EMP100446,Rifqi Iqbal Ginting,,2,1,2,5,3,1,2,4,3,75,433489
+EMP100447,Rendra Zulfikar Lestari,,1,3,3,3,3,3,3,2,4,23,608514
+EMP100448,Gita Jatmiko Santoso,,4,1,2,4,4,2,1,4,3,66,564093
+EMP100449,Ari Ramadhan,,1,3,2,6,1,2,1,1,1,120,776021
+EMP100450,Indra Lestari,,4,3,5,3,5,1,1,3,1,19,249957
+EMP100451,Fitri Qolbi Simanjuntak,,3,1,4,2,5,3,3,4,6,63,143626
+EMP100452,Zahra Zulfikar Ramadhan,,3,1,3,2,4,3,3,4,1,52,908586
+EMP100453,Yuni Subekti,,1,3,2,2,5,3,3,2,6,27,595092
+EMP100454,Nadia Iqbal Maulana,,1,1,3,6,3,1,2,2,5,0,711345
+EMP100455,Zaki Siregar,,4,2,4,4,3,2,1,2,4,71,932585
+EMP100456,Rama Gunawan,,2,1,3,4,2,1,1,3,1,51,604540
+EMP100457,Nurlita Maulana,,1,1,3,6,3,2,3,3,4,63,759462
+EMP100458,Fajar Mahardika Handayani,,4,2,3,5,2,2,3,1,6,70,876151
+EMP100459,Zahra Syahputra,,1,1,1,3,3,1,3,3,5,81,906970
+EMP100460,Joko Sinaga,,4,2,4,3,3,2,2,1,4,45,551128
+EMP100461,Novi Suharto,,3,1,3,2,3,2,1,3,3,37,854545
+EMP100462,Lestari Anggara,,4,3,5,6,2,1,1,3,3,28,802474
+EMP100463,Arif Kurniawan,,4,4,4,3,3,1,3,2,4,91,514863
+EMP100464,Anisa Erlangga Lukman,,4,4,1,3,2,3,1,4,4,104,604118
+EMP100465,Eko Pamungkas,,1,2,5,1,4,3,2,1,1,48,583584
+EMP100466,Gita Nabila Indrawan,,2,4,6,2,4,1,3,3,5,48,483945
+EMP100467,Lestari Mahardika Suharto,,1,4,6,6,2,3,1,1,3,10,700106
+EMP100468,Dinda Erlangga Indrawan,,1,1,3,3,1,2,1,3,5,26,926889
+EMP100469,Sari Suharto,,3,4,6,5,3,2,3,1,3,57,606506
+EMP100470,Wulan Saputra Santoso,,1,2,3,4,3,2,3,2,4,64,569255
+EMP100471,Indra Zulfikar Rahmawati,,2,3,5,3,2,2,3,1,1,32,660922
+EMP100472,Rani Zulfikar Ginting,,4,4,1,4,5,1,1,3,3,44,858143
+EMP100473,Zaki Zulfikar Salsabila,,4,2,1,2,2,1,2,4,5,6,529714
+EMP100474,Vania Iqbal Fauziah,,1,3,2,5,1,3,2,4,2,45,308819
+EMP100475,Rizky Setiawan,,1,1,4,3,4,1,1,2,1,47,269930
+EMP100476,Sari Hartanto,,3,3,3,1,4,2,2,3,4,96,161209
+EMP100477,Gita Wibowo,,2,2,4,1,4,3,2,3,6,98,493852
+EMP100478,Nurlita Kusuma Pratama,,4,4,5,2,4,1,1,2,2,66,460826
+EMP100479,Rendra Yudhistira Herlambang,,2,1,2,1,2,2,3,3,2,82,444419
+EMP100480,Dimas Maulana,,3,1,3,4,1,1,1,4,6,28,947073
+EMP100481,Rama Salsabila,,3,1,2,1,4,3,1,1,6,90,569010
+EMP100482,Rani Rachman Setiawan,,1,4,2,5,5,3,3,4,6,38,287204
+EMP100483,Intan Nabila Pamungkas,,1,3,6,4,4,3,1,2,6,23,691951
+EMP100484,Citra Nabila Handayani,,4,1,4,4,2,3,3,2,3,35,406686
+EMP100485,Galih Aji Saputra,,1,3,6,5,2,2,3,3,4,20,244322
+EMP100486,Joko Simanjuntak,,4,3,3,5,3,2,1,3,4,22,962324
+EMP100487,Joko Lukman,,4,3,6,5,4,2,2,4,3,24,777470
+EMP100488,Luthfi Pratama,,3,1,3,6,2,2,2,2,5,64,575047
+EMP100489,Vania Adi Setiawan,,2,2,1,5,5,1,2,3,4,12,404889
+EMP100490,Cahyo Suharto,,1,1,5,5,3,1,2,3,5,44,876642
+EMP100491,Gita Anggara,,1,1,3,6,5,2,1,1,4,85,373972
+EMP100492,Ahmad Lestari Handayani,,4,1,4,6,3,3,1,4,2,74,133776
+EMP100493,Nurlita Wijaya,,3,1,6,5,3,2,1,4,4,47,387766
+EMP100494,Dwi Mahardika Anggara,,1,4,4,3,1,2,2,1,3,30,597410
+EMP100495,Gita Ganesha Zulfikar,,1,3,4,3,5,3,2,3,3,64,169722
+EMP100496,Intan Wijaya Pratomo,,2,2,1,4,2,3,2,1,5,74,896918
+EMP100497,Oka Syahputra,,1,1,4,2,1,2,3,3,4,38,629244
+EMP100498,Fitri Situmorang,,1,1,4,1,5,2,2,4,4,58,983548
+EMP100499,Adit Herlambang,,1,3,2,4,1,1,1,3,3,43,579047
+EMP100500,Yoga Mahardika Gunawan,,3,3,6,3,5,3,1,4,2,16,848425
+EMP100501,Rifqi Rachman Santoso,,1,3,5,5,4,3,1,4,6,36,940942
+EMP100502,Wahyu Hasibuan,,2,2,6,5,5,3,2,4,5,59,753133
+EMP100503,Prasetyo Ganesha Ramadhan,,4,3,4,2,1,3,1,2,4,44,125536
+EMP100504,Kartika Halim Ginting,,3,2,2,6,5,3,2,1,2,47,809245
+EMP100505,Intan Pramudita Maulida,,1,1,5,2,4,3,3,3,6,66,741605
+EMP100506,Cahyo Iqbal Suharto,,2,3,1,1,3,1,1,4,6,82,749189
+EMP100507,Dewi Rahmawati,,2,1,1,5,3,3,2,3,6,44,878742
+EMP100508,Sari Nabila Halim,,4,4,3,3,4,2,1,4,3,41,125862
+EMP100509,Zaki Tri Lestari,,2,4,1,1,2,3,2,2,2,47,431599
+EMP100510,Rizky Lestari Situmorang,,2,1,4,3,4,3,2,2,6,46,384721
+EMP100511,Nugroho Saputra,,2,1,5,1,2,2,3,1,3,29,370041
+EMP100512,Valdo Ginting,,3,4,2,6,4,3,3,2,5,52,923589
+EMP100513,Nabila Fadillah Setiawan,,1,1,6,6,1,1,3,1,2,59,450065
+EMP100514,Fitri Saputra Yulianto,,2,4,4,5,4,2,3,2,1,64,844504
+EMP100515,Cahyo Handayani,,1,3,3,3,5,1,1,3,6,65,509749
+EMP100516,Yoga Nugroho,,2,2,1,6,2,1,1,3,4,37,815764
+EMP100517,Rendra Wibowo,,4,3,6,4,1,2,3,2,3,27,748583
+EMP100518,Hana Erlangga Gunawan,,1,3,1,6,3,1,3,3,5,83,250311
+EMP100519,Teguh Indrawan,,2,3,5,6,1,1,2,4,1,56,782845
+EMP100520,Rifqi Kusuma Wibowo,,3,1,1,1,1,3,2,3,3,74,265403
+EMP100521,Nadia Gunawan,,2,3,2,6,2,3,3,1,6,35,928685
+EMP100522,Nabila Yudhistira Salsabila,,1,1,6,4,5,1,3,3,5,63,963792
+EMP100523,Indra Adi Hartanto,,3,1,4,1,1,3,3,1,4,33,926943
+EMP100524,Hadi Nugroho,,2,2,2,1,4,2,3,3,2,23,214245
+EMP100525,Umar Fauziah,,4,1,4,3,4,2,2,4,6,79,505954
+EMP100526,Kartika Maulana,,4,1,5,3,3,2,3,4,6,82,497248
+EMP100527,Rendra Situmorang,,3,4,6,6,2,2,2,4,5,50,420241
+EMP100528,Lestari Suharto,,3,4,5,2,4,3,1,3,3,18,657020
+EMP100529,Anisa Lukman,,2,4,4,1,2,2,1,1,1,46,868144
+EMP100530,Rizki Lestari Suharto,,2,2,2,4,1,2,3,2,1,56,567757
+EMP100531,Bella Erlangga Pratama,,4,4,1,2,5,2,3,1,2,1,286789
+EMP100532,Umar Baskara Gunawan,,3,1,2,1,4,2,1,1,3,41,265182
+EMP100533,Fajar Ananda,,1,3,1,4,5,1,3,4,6,19,208101
+EMP100534,Rama Kurniawan,,4,1,4,6,2,3,2,3,6,20,280618
+EMP100535,Wahyu Nabila Saputra,,2,3,6,2,5,3,2,3,1,57,448793
+EMP100536,Eko Gunawan,,4,4,5,5,5,3,2,1,1,79,354263
+EMP100537,Iman Yulianto,,2,1,2,6,1,2,1,3,2,34,641586
+EMP100538,Maya Gunawan,,2,1,2,6,3,2,2,4,4,39,761826
+EMP100539,Teguh Dharma Indrawan,,3,3,4,6,5,3,1,4,2,21,632475
+EMP100540,Anisa Halim Ramadhan,,2,2,3,3,2,1,3,3,5,47,179922
+EMP100541,Dinda Candra Pamungkas,,3,1,6,6,5,2,2,4,1,30,585878
+EMP100542,Ahmad Situmorang,,3,1,2,5,3,3,3,2,6,78,108424
+EMP100543,Teguh Fadillah Ramadhan,,3,2,4,1,4,2,3,4,2,57,514092
+EMP100544,Citra Putra,,4,2,5,4,1,1,3,3,2,50,512663
+EMP100545,Adit Firmansyah,,1,2,4,4,4,2,1,4,6,54,424202
+EMP100546,Nadia Saputra Kusuma,,2,4,4,5,1,1,3,4,5,77,767202
+EMP100547,Nabila Anggara,,4,1,3,3,1,2,1,2,1,28,508164
+EMP100548,Fajar Suharto,,4,4,2,4,1,1,2,3,3,88,452688
+EMP100549,Lestari Aji Subekti,,1,3,4,4,2,1,3,4,3,22,559744
+EMP100550,Hadi Hartanto,,3,1,3,3,3,2,2,3,5,68,391464
+EMP100551,Mahendra Aji Permadi,,3,4,1,2,5,3,3,3,2,33,124271
+EMP100552,Vania Syahputra,,4,3,3,5,3,1,3,1,3,69,394697
+EMP100553,Lestari Kurniawan,,3,2,2,3,4,1,2,1,1,31,989565
+EMP100554,Intan Saputra,,4,1,4,4,5,3,3,1,2,83,233259
+EMP100555,Rani Anugrah Ridwan,,4,4,6,5,2,1,1,1,5,2,236227
+EMP100556,Hadi Rohman,,3,1,2,5,5,2,1,3,4,61,110531
+EMP100557,Rizka Subekti,,2,1,1,6,4,2,2,2,1,59,442226
+EMP100558,Joko Kurniawan,,3,1,6,2,2,2,1,4,4,79,881556
+EMP100559,Ayunda Anggara,,3,2,6,6,5,3,2,4,2,26,293095
+EMP100560,Adit Zulfikar Hidayat,,3,4,1,6,4,2,2,1,2,63,473938
+EMP100561,Valdo Santoso,,3,4,6,5,3,1,1,1,3,0,689781
+EMP100562,Utami Suharto,,1,2,1,6,4,3,1,4,4,24,666114
+EMP100563,Dinda Maulida,,3,2,2,3,5,2,2,2,4,9,347632
+EMP100564,Maya Candra Lukman,,2,4,2,2,3,2,3,4,3,27,394860
+EMP100565,Anisa Pramudita Maulana,,2,1,3,5,3,2,3,1,2,28,911583
+EMP100566,Rendra Setiawan,,1,1,6,4,2,3,2,1,4,95,661335
+EMP100567,Nurlita Ananda,,2,4,1,3,5,3,1,4,1,79,391102
+EMP100568,Hana Dharma Gunawan,,2,3,6,5,4,3,1,2,3,61,151270
+EMP100569,Zaki Anggara,,4,3,6,1,5,1,1,3,3,30,401004
+EMP100570,Dewi Mahardika Purnama,,2,3,6,4,4,2,3,3,6,72,529446
+EMP100571,Yuni Setiawan,,4,1,4,5,3,2,3,3,2,40,809305
+EMP100572,Rama Pradana,,3,1,2,1,5,1,2,1,3,53,621816
+EMP100573,Arif Pramudita Syahputra,,1,3,2,3,3,2,1,1,2,15,979823
+EMP100574,Kartika Putra,,2,3,2,5,1,1,3,3,2,64,698987
+EMP100575,Prasetyo Handayani,,3,3,4,6,5,2,2,2,6,10,978825
+EMP100576,Andi Wijaya Kusuma,,3,2,4,1,2,2,1,4,6,48,344402
+EMP100577,Umar Anugrah Hidayat,,4,3,2,3,1,2,1,3,3,79,169857
+EMP100578,Teguh Anggara,,4,1,5,1,4,2,1,1,2,72,367278
+EMP100579,Yoga Sinaga,,3,1,6,3,1,1,2,3,1,55,451139
+EMP100580,Adi Lukman,,1,3,3,2,3,3,3,3,4,39,469086
+EMP100581,Wahyu Dharma Santoso,,4,1,5,3,5,3,3,1,3,41,990199
+EMP100582,Wulan Nabila Fauziah,,2,1,4,2,2,3,3,1,2,58,620375
+EMP100583,Dinda Zulfikar Herlambang,,4,1,6,1,4,2,3,4,5,75,775302
+EMP100584,Satya Ananda,,2,3,3,3,1,3,2,1,1,80,506260
+EMP100585,Indra Rohman,,4,1,6,6,3,3,1,3,4,18,388751
+EMP100586,Adit Hartanto,,1,2,4,6,2,3,3,1,1,33,923680
+EMP100587,Nabila Syahputra,,1,3,4,3,3,1,3,2,1,54,173877
+EMP100588,Intan Rohman,,1,4,5,5,4,2,3,1,3,84,185888
+EMP100589,Anisa Tri Pamungkas,,2,3,2,4,2,1,1,1,1,41,832493
+EMP100590,Putri Rachman Hartanto,,2,1,5,4,3,2,2,2,3,59,651557
+EMP100591,Kurnia Ginting,,4,3,5,3,3,3,2,2,4,52,535552
+EMP100592,Galih Handayani,,2,1,6,4,3,1,3,4,6,51,454909
+EMP100593,Hadi Santoso,,4,2,1,2,4,3,1,4,4,12,718540
+EMP100594,Teguh Sinaga,,4,2,4,2,3,2,1,1,3,73,615125
+EMP100595,Lestari Saputra,,2,1,2,4,2,2,3,1,6,84,347680
+EMP100596,Dimas Aji Hidayat,,1,4,6,4,4,1,3,3,4,50,171964
+EMP100597,Fajar Maulana,,1,1,1,6,2,3,1,3,2,58,810974
+EMP100598,Adit Aji Tamba,,1,4,6,5,2,1,1,2,6,39,330408
+EMP100599,Dimas Kurniawan,,2,1,2,2,1,1,3,4,1,16,545270
+EMP100600,Zaki Wijaya,,4,4,4,2,3,1,3,4,5,12,183834
+EMP100601,Nurlita Subekti,,4,2,3,2,2,2,2,2,2,70,916084
+EMP100602,Rifqi Ananda,,4,4,1,2,1,3,2,1,1,53,804854
+EMP100603,Ahmad Handayani,,3,1,6,1,5,3,3,4,2,71,490479
+EMP100604,Yoga Lukman,,3,2,4,4,5,3,1,3,5,1,218375
+EMP100605,Dwi Anggara,,1,3,1,4,5,2,3,3,3,73,969799
+EMP100606,Wulan Candra Saputra,,2,1,1,6,1,3,1,2,3,52,597645
+EMP100607,Rifqi Halim,,2,4,5,6,3,2,3,1,6,77,676526
+EMP100608,Rani Kurniawan,,1,4,6,6,4,1,3,4,2,17,984426
+EMP100609,Oktavia Nabila Ginting,,4,2,6,3,2,1,3,3,5,45,886572
+EMP100610,Hana Rohman,,2,4,1,5,5,1,3,3,4,71,363463
+EMP100611,Indra Sinaga,,1,2,6,1,2,3,1,1,6,83,461530
+EMP100612,Adit Utami,,1,4,5,1,3,1,3,2,1,87,645697
+EMP100613,Cahyo Nabila Situmorang,,2,3,6,1,4,3,2,2,6,24,117437
+EMP100614,Cahyo Pratama,,4,2,3,1,3,1,2,2,1,25,887756
+EMP100615,Ahmad Halim Nugroho,,2,1,4,5,1,3,1,4,1,86,980688
+EMP100616,Nadia Ramadhan,,2,4,3,2,2,2,2,4,2,46,954078
+EMP100617,Eko Rahmawati,,4,1,1,1,3,1,3,4,5,32,649579
+EMP100618,Arif Ramadhan,,1,4,2,1,4,3,1,1,3,81,343530
+EMP100619,Adi Candra Firmansyah,,3,2,1,2,3,1,2,4,1,49,655260
+EMP100620,Oka Kusuma,,4,2,3,5,4,1,2,4,3,76,908837
+EMP100621,Zahra Fauziah,,3,2,6,1,1,3,1,4,5,77,482321
+EMP100622,Ahmad Anugrah Anggara,,1,3,2,5,2,3,1,1,1,20,858526
+EMP100623,Hadi Simanjuntak,,1,1,3,3,3,1,3,1,2,53,213338
+EMP100624,Luthfi Firmansyah,,2,4,4,6,4,1,3,1,4,38,839593
+EMP100625,Dwi Utami,,4,2,4,2,2,3,3,3,3,83,851937
+EMP100626,Arif Nugroho,,2,1,4,2,3,1,3,2,6,8,716358
+EMP100627,Hadi Handayani,,3,3,6,5,4,2,2,3,2,19,462656
+EMP100628,Fitri Dharma Siregar,,2,4,5,6,5,3,1,2,1,12,777098
+EMP100629,Mahendra Subekti,,2,3,1,6,2,1,3,2,1,34,197973
+EMP100630,Maya Candra Maulida,,1,1,5,4,2,3,3,1,2,8,606823
+EMP100631,Zahra Dharma Zulfikar,,3,3,4,6,3,1,2,4,6,58,722067
+EMP100632,Rani Pramudita Suharto,,1,4,3,4,2,3,2,3,1,77,898636
+EMP100633,Dewi Setiawan,,1,4,5,3,4,1,3,4,2,54,932462
+EMP100634,Nugroho Pratama,,3,1,1,5,3,2,2,1,3,55,340616
+EMP100635,Umar Dharma Fauziah,,1,1,4,5,1,3,2,1,4,19,809242
+EMP100636,Rama Aji Wibowo,,2,2,3,2,1,3,3,1,6,76,416363
+EMP100637,Rani Adi Simanjuntak,,3,2,4,6,1,1,3,3,4,52,701057
+EMP100638,Budi Yudhistira Permadi,,2,1,3,4,5,1,3,1,2,64,264996
+EMP100639,Iman Pratama,,2,2,5,2,4,2,2,3,1,54,299914
+EMP100640,Dewi Yudhistira Putra,,2,1,5,5,4,2,2,1,3,7,180730
+EMP100641,Julia Simanjuntak,,2,3,4,4,4,2,2,3,1,70,446470
+EMP100642,Umar Halim Pradana,,3,4,6,6,2,1,1,2,1,69,851298
+EMP100643,Dewi Yulianto,,4,4,3,3,5,2,1,2,5,64,762480
+EMP100644,Ayunda Hartanto,,2,2,3,3,3,3,1,4,2,69,178777
+EMP100645,Yoga Iqbal Santoso,,1,1,5,5,4,3,2,4,5,26,928180
+EMP100646,Oktavia Ananda,,4,2,5,3,3,1,1,3,2,62,994852
+EMP100647,Vania Ganesha Ananda,,3,4,2,5,2,2,1,2,6,82,989531
+EMP100648,Sari Mahardika Firmansyah,,1,2,3,4,5,2,1,2,4,72,573542
+EMP100649,Wahyu Dharma Handayani,,2,1,1,1,4,2,2,2,6,48,181669
+EMP100650,Rifqi Kurniawan,,1,4,2,4,5,3,2,3,3,23,965520
+EMP100651,Novi Pamungkas,,3,1,1,3,5,2,3,4,3,56,926032
+EMP100652,Eko Mahardika Lukman,,3,4,6,3,1,2,1,4,4,58,840203
+EMP100653,Intan Pratama,,1,1,4,6,5,1,2,3,5,0,581062
+EMP100654,Prasetyo Hidayat,,3,4,5,5,3,3,1,1,6,29,821489
+EMP100655,Novi Lestari,,4,2,5,4,2,1,3,2,2,88,704863
+EMP100656,Joko Herlambang,,2,4,5,3,3,1,1,1,6,92,405944
+EMP100657,Rendra Anugrah Maulida,,1,2,4,1,2,1,3,1,4,76,664536
+EMP100658,Nurlita Jatmiko Salsabila,,2,1,1,6,4,2,1,4,6,149,604659
+EMP100659,Bella Utami,,3,4,4,2,3,3,2,4,6,26,693802
+EMP100660,Anisa Putra,,2,1,6,6,1,2,2,2,1,36,254748
+EMP100661,Budi Siregar,,2,3,3,5,2,3,3,4,6,69,148430
+EMP100662,Utami Pratama,,4,4,1,3,5,3,1,2,2,67,461079
+EMP100663,Rifqi Jatmiko Indrawan,,2,2,3,5,3,2,1,4,3,55,654291
+EMP100664,Zaki Rachman Putra,,4,3,5,2,4,1,1,2,6,19,577970
+EMP100665,Rendra Ridwan,,3,2,5,2,2,3,3,3,3,42,418258
+EMP100666,Evi Sinaga,,3,2,6,1,1,3,1,2,1,36,272544
+EMP100667,Rifqi Handayani,,4,2,5,6,1,1,3,1,2,109,921140
+EMP100668,Luthfi Yudhistira Rohman,,1,1,2,1,4,2,3,1,6,20,255953
+EMP100669,Adi Suharto,,3,1,4,3,1,2,1,2,2,79,916342
+EMP100670,Rama Tamba,,2,1,3,4,3,3,2,4,6,70,263555
+EMP100671,Fajar Baskara Rohman,,1,1,2,2,4,2,3,2,2,82,353393
+EMP100672,Rani Ridwan,,3,1,4,3,3,2,3,2,6,76,660871
+EMP100673,Citra Siregar,,2,2,4,2,4,3,1,1,4,18,621920
+EMP100674,Valdo Handayani,,2,3,6,5,5,1,2,4,6,31,643626
+EMP100675,Fajar Permadi,,2,3,4,3,3,3,2,4,6,63,732697
+EMP100676,Rifqi Simanjuntak,,3,3,3,5,1,2,2,3,2,54,471025
+EMP100677,Rani Halim Saputra,,3,3,1,3,1,1,1,4,5,13,199272
+EMP100678,Julia Jatmiko Nugroho,,2,1,2,4,5,1,2,3,3,80,822401
+EMP100679,Gita Sinaga,,3,4,4,2,3,1,2,2,3,39,507462
+EMP100680,Nugroho Ramadhan,,4,3,1,5,3,1,1,2,5,47,877201
+EMP100681,Kurnia Simanjuntak,,1,4,4,6,3,2,3,1,3,28,734848
+EMP100682,Tania Zulfikar,,1,4,3,3,2,1,2,1,3,39,293915
+EMP100683,Rani Qolbi Nugroho,,1,4,2,6,2,2,2,3,2,50,638316
+EMP100684,Dian Rahmawati,,2,4,6,4,3,1,1,3,5,125,552672
+EMP100685,Budi Wijaya Wijaya,,2,3,6,4,2,1,1,2,4,73,957704
+EMP100686,Satya Utami,,2,3,3,6,2,2,1,2,6,56,518513
+EMP100687,Gita Erlangga Herlambang,,2,2,2,5,4,3,1,2,4,36,249746
+EMP100688,Adit Iqbal Kurniawan,,3,4,4,1,2,2,3,1,3,40,441262
+EMP100689,Evi Zulfikar,,4,3,4,1,1,2,1,2,1,10,465532
+EMP100690,Dian Tri Zulfikar,,1,2,5,5,3,3,1,3,2,93,954330
+EMP100691,Dian Utama Hasibuan,,2,2,6,4,4,3,2,2,3,38,760968
+EMP100692,Lestari Halim Purnama,,3,2,1,5,4,3,2,2,6,35,675109
+EMP100693,Hadi Pramudita Zulfikar,,3,3,3,2,3,2,2,2,2,39,702997
+EMP100694,Julia Hartanto,,3,1,1,5,4,2,2,3,2,48,655096
+EMP100695,Joko Erlangga Subekti,,2,4,2,6,5,1,1,1,2,4,141046
+EMP100696,Adi Halim Ananda,,1,4,1,4,5,3,3,3,3,80,996098
+EMP100697,Teguh Zulfikar Siregar,,2,3,4,1,4,3,3,3,5,61,352728
+EMP100698,Hadi Permadi,,2,4,4,1,5,2,1,1,2,18,368125
+EMP100699,Kartika Rachman Suharto,,4,4,3,6,4,2,2,3,2,15,844275
+EMP100700,Nugroho Ananda,,1,1,6,1,2,2,1,2,1,51,993097
+EMP100701,Rani Fadillah Kusuma,,1,3,2,2,1,2,3,3,5,86,224104
+EMP100702,Kurnia Utami,,2,3,1,2,5,2,2,4,5,76,693362
+EMP100703,Dian Simanjuntak,,1,1,5,3,3,1,3,1,4,30,814302
+EMP100704,Kartika Halim Wijaya,,2,2,3,3,2,2,3,1,2,44,707120
+EMP100705,Gita Halim,,3,2,2,5,5,3,2,3,2,31,296748
+EMP100706,Eko Jatmiko Mahendra,,4,2,6,1,1,1,2,1,3,76,657209
+EMP100707,Adit Fauziah,,4,1,6,6,1,1,3,2,2,86,967234
+EMP100708,Dian Hidayat,,4,4,4,5,3,3,3,1,5,85,736986
+EMP100709,Citra Pramudita Ginting,,2,4,3,1,3,1,2,1,5,33,665076
+EMP100710,Adi Wijaya,,1,3,5,1,5,3,1,4,1,43,624872
+EMP100711,Wulan Lestari,,2,3,6,1,4,3,1,1,6,13,717974
+EMP100712,Dinda Tamba,,3,1,2,4,2,1,2,4,6,84,982174
+EMP100713,Iman Indrawan,,1,4,5,2,4,1,1,2,6,51,346078
+EMP100714,Anisa Fadillah Mahendra,,1,2,6,2,5,2,2,1,5,35,498187
+EMP100715,Novi Yudhistira Herlambang,,2,3,4,3,5,2,1,3,4,37,410178
+EMP100716,Rizka Iqbal Firmansyah,,3,1,2,4,4,1,3,1,2,30,947891
+EMP100717,Nabila Utama Ananda,,4,4,1,6,5,3,2,3,3,28,144294
+EMP100718,Ayunda Mahardika Utami,,3,1,6,5,3,2,1,4,3,72,466766
+EMP100719,Dimas Gunawan,,4,3,5,4,5,1,3,4,5,10,579299
+EMP100720,Bayu Lukman,,2,1,4,5,1,2,3,1,2,44,688968
+EMP100721,Nadia Rachman Maulana,,1,4,1,4,1,1,3,1,2,54,369106
+EMP100722,Nadia Zulfikar,,3,1,6,5,3,3,1,1,4,68,906870
+EMP100723,Ayu Aji Permadi,,4,2,5,1,1,3,2,1,2,35,601705
+EMP100724,Iman Fadillah Pratama,,3,1,6,6,4,3,1,4,1,26,562248
+EMP100725,Evi Baskara Suharto,,3,4,6,4,2,3,3,3,1,46,891924
+EMP100726,Fajar Pradana,,2,2,3,1,3,1,2,1,1,76,756675
+EMP100727,Sari Utama Hidayat,,2,4,3,1,2,3,2,4,6,41,408415
+EMP100728,Rani Pradana,,4,1,4,1,3,1,2,4,1,75,909546
+EMP100729,Ayunda Zulfikar,,2,2,3,2,3,1,2,3,2,102,119515
+EMP100730,Iman Yudhistira Gunawan,,4,3,6,6,1,1,3,1,2,54,364991
+EMP100731,Adi Maulana,,1,3,5,1,2,1,1,3,5,7,507025
+EMP100732,Ayunda Setiawan,,3,2,5,6,1,2,2,1,6,68,468868
+EMP100733,Utami Purnama,,4,4,6,3,2,1,1,3,5,46,310018
+EMP100734,Dimas Utami,,4,3,3,3,3,2,2,1,5,14,618258
+EMP100735,Oka Suharto,,4,1,5,2,3,1,2,4,5,87,542553
+EMP100736,Oktavia Situmorang,,3,2,6,6,4,2,2,2,2,17,895851
+EMP100737,Dwi Mahardika Lukman,,4,4,2,4,2,3,1,1,2,18,994469
+EMP100738,Ahmad Halim,,3,4,6,3,1,1,1,4,4,48,431087
+EMP100739,Prasetyo Halim Wijaya,,4,2,4,6,5,1,1,3,3,32,485042
+EMP100740,Cahyo Herlambang,,4,4,4,2,4,1,1,2,1,91,437384
+EMP100741,Zaki Pratomo,,3,3,3,3,3,2,1,3,6,37,303814
+EMP100742,Adi Dharma Rohman,,1,2,2,6,2,1,1,3,3,67,629703
+EMP100743,Nabila Wijaya,,3,3,1,6,4,2,2,4,2,16,323880
+EMP100744,Zaki Situmorang,,1,4,5,1,2,3,3,2,6,58,563399
+EMP100745,Mahendra Utama Hartanto,,1,2,6,6,5,2,1,2,2,40,124854
+EMP100746,Rizka Mahardika Indrawan,,4,3,1,6,5,2,1,2,3,55,504260
+EMP100747,Tania Pratama,,3,3,6,2,2,1,1,4,6,41,601549
+EMP100748,Nurlita Utami,,1,4,3,4,1,2,1,1,2,92,569358
+EMP100749,Ayunda Indrawan,,2,1,1,2,1,3,1,3,6,62,175671
+EMP100750,Joko Qolbi Hasibuan,,3,4,2,6,2,2,3,2,2,36,417724
+EMP100751,Hana Indrawan,,1,1,3,2,5,2,3,3,6,36,449367
+EMP100752,Intan Salsabila,,3,2,1,6,4,2,2,3,4,28,513523
+EMP100753,Luthfi Fadillah Fauziah,,1,3,1,6,3,1,2,1,3,25,533963
+EMP100754,Dian Iqbal Permadi,,4,1,5,3,2,1,2,4,4,91,468328
+EMP100755,Iman Utami,,2,2,1,3,4,2,2,2,5,127,242416
+EMP100756,Ari Herlambang,,2,3,3,1,2,1,2,1,4,68,988312
+EMP100757,Prasetyo Rohman,,4,1,4,1,3,1,3,4,2,71,753757
+EMP100758,Dwi Adi Maulana,,3,3,3,5,3,2,3,4,4,73,397584
+EMP100759,Rendra Nabila Maulida,,1,1,6,5,2,2,2,1,4,42,387493
+EMP100760,Cahyo Tri Herlambang,,1,3,2,5,5,3,2,1,6,62,287273
+EMP100761,Maya Situmorang,,2,2,3,6,5,1,2,2,3,57,471450
+EMP100762,Valdo Kusuma Tamba,,2,1,6,1,1,1,2,3,1,41,591148
+EMP100763,Budi Pamungkas,,1,3,1,1,2,2,1,1,4,40,438980
+EMP100764,Nugroho Pradana,,4,1,5,6,1,1,1,4,1,19,108908
+EMP100765,Utami Hidayat,,1,1,1,1,4,1,2,1,5,80,140307
+EMP100766,Zaki Adi Utami,,3,4,2,6,5,2,1,4,5,12,757908
+EMP100767,Zahra Hasibuan,,1,3,6,5,3,2,1,2,5,47,460906
+EMP100768,Nurlita Fadillah Kusuma,,3,2,5,6,1,1,2,3,4,79,934059
+EMP100769,Ari Halim,,2,1,6,1,5,3,3,2,5,24,756507
+EMP100770,Arif Qolbi Saputra,,1,3,2,1,1,3,3,1,4,59,948555
+EMP100771,Rani Aji Herlambang,,1,2,5,4,5,2,3,2,4,68,583706
+EMP100772,Ayunda Subekti,,3,4,4,6,3,2,2,1,1,26,761115
+EMP100773,Ayu Hidayat,,3,4,3,2,3,2,3,3,3,21,596588
+EMP100774,Maya Sinaga,,3,3,1,5,5,3,3,1,4,41,138097
+EMP100775,Kartika Anggara,,4,3,3,5,1,2,1,3,3,61,828890
+EMP100776,Yuni Gunawan,,2,1,2,6,1,2,2,4,3,62,274662
+EMP100777,Ahmad Fadillah Pratama,,1,3,3,1,3,2,2,3,5,87,659628
+EMP100778,Arif Qolbi Suharto,,3,4,5,3,5,2,1,1,6,77,325400
+EMP100779,Ari Dharma Utami,,1,3,2,3,4,2,3,1,6,79,434694
+EMP100780,Luthfi Pamungkas,,3,2,5,3,2,2,3,2,5,12,669187
+EMP100781,Bayu Yulianto,,2,4,2,2,3,2,2,3,6,76,397917
+EMP100782,Adit Utama Siregar,,4,1,1,4,3,1,3,4,6,113,977063
+EMP100783,Kartika Wijaya Permadi,,1,3,2,5,4,1,3,3,2,86,451608
+EMP100784,Rendra Yulianto,,4,1,3,1,5,1,3,4,2,37,374213
+EMP100785,Umar Fadillah Handayani,,1,2,2,3,5,3,2,4,4,63,252368
+EMP100786,Nadia Baskara Halim,,3,4,5,3,5,3,3,2,3,62,164008
+EMP100787,Iman Lestari Tamba,,3,4,3,5,5,1,1,1,6,107,257912
+EMP100788,Bayu Kusuma Hidayat,,2,2,1,1,1,1,2,4,2,97,790848
+EMP100789,Oka Halim Setiawan,,3,3,4,3,5,2,3,1,3,72,683608
+EMP100790,Joko Tri Lestari,,4,1,1,6,4,3,3,4,5,78,819024
+EMP100791,Rizki Saputra,,3,3,2,5,4,2,1,4,2,55,271921
+EMP100792,Budi Yudhistira Pratama,,2,1,4,1,1,1,1,4,3,15,264181
+EMP100793,Zahra Rohman,,3,1,4,6,3,1,1,1,6,89,251478
+EMP100794,Wulan Kusuma Mahendra,,3,4,1,2,1,1,3,4,5,56,685446
+EMP100795,Nugroho Nugroho,,4,4,3,3,3,2,2,3,3,37,532943
+EMP100796,Adi Ridwan,,4,4,6,1,5,2,3,3,1,31,899205
+EMP100797,Rani Maulida,,1,4,5,6,2,3,3,1,2,67,366951
+EMP100798,Valdo Rachman Wibowo,,2,4,6,5,5,3,2,3,5,55,730135
+EMP100799,Fitri Ganesha Yulianto,,1,4,5,3,3,1,2,4,2,72,891424
+EMP100800,Intan Wibowo,,3,2,6,5,5,2,2,3,4,19,249320
+EMP100801,Umar Ridwan,,3,3,4,5,1,2,3,3,1,41,542243
+EMP100802,Dimas Kusuma Indrawan,,3,1,1,3,1,2,3,3,4,82,654387
+EMP100803,Maya Kusuma Putra,,3,2,5,6,2,3,2,4,1,97,443934
+EMP100804,Luthfi Hidayat,,3,2,5,4,5,2,3,1,3,40,248479
+EMP100805,Oktavia Pratama,,4,4,5,3,5,2,2,1,6,33,216219
+EMP100806,Dwi Kurniawan,,4,1,5,2,1,1,1,3,1,2,514696
+EMP100807,Cahyo Pradana,,3,3,1,4,3,3,2,1,6,36,477470
+EMP100808,Mahendra Firmansyah,,2,3,4,3,3,2,2,1,2,114,231145
+EMP100809,Dian Nugroho,,2,3,5,3,4,2,2,3,1,69,902891
+EMP100810,Mahendra Tri Permadi,,1,3,4,4,4,3,3,2,3,65,749713
+EMP100811,Tania Aji Ramadhan,,4,2,2,3,3,1,1,1,3,49,354747
+EMP100812,Lestari Herlambang,,4,3,3,6,5,2,2,2,3,63,547706
+EMP100813,Vania Baskara Utami,,3,4,3,2,4,3,3,3,4,26,777333
+EMP100814,Vania Setiawan,,4,3,3,1,4,1,1,2,2,75,318344
+EMP100815,Andi Dharma Saputra,,1,1,5,2,5,1,2,4,2,77,807035
+EMP100816,Bella Aji Ginting,,2,1,1,4,4,3,2,4,5,89,143050
+EMP100817,Oka Handayani,,2,1,6,6,4,2,1,4,4,37,314334
+EMP100818,Fajar Qolbi Rahmawati,,2,4,5,6,1,3,1,2,3,85,975724
+EMP100819,Prasetyo Kusuma Putra,,1,1,6,1,2,1,2,1,6,54,173085
+EMP100820,Rizky Pratama,,2,4,6,3,3,2,2,1,1,17,139647
+EMP100821,Kartika Saputra,,1,4,1,6,5,3,3,4,5,35,371346
+EMP100822,Maya Lukman,,4,4,6,3,2,1,3,2,3,42,477693
+EMP100823,Hana Aji Hidayat,,4,2,6,1,2,2,3,4,4,10,566077
+EMP100824,Intan Suharto,,3,3,6,3,1,1,3,3,2,54,139658
+EMP100825,Yuni Handayani,,1,3,6,6,3,2,1,4,1,58,521141
+EMP100826,Ayu Rachman Subekti,,4,2,5,1,5,1,3,1,1,99,870402
+EMP100827,Oktavia Candra Kurniawan,,1,4,2,2,2,2,2,3,2,55,652484
+EMP100828,Umar Hidayat,,4,2,5,6,1,1,2,1,2,15,833986
+EMP100829,Bayu Wibowo,,4,2,2,2,1,2,2,4,5,50,440734
+EMP100830,Hana Herlambang,,4,4,1,5,2,1,3,4,1,13,341835
+EMP100831,Dwi Iqbal Halim,,2,2,1,6,1,3,3,1,1,29,238220
+EMP100832,Eko Suharto,,4,3,3,4,2,1,1,4,2,58,801927
+EMP100833,Andi Wijaya,,4,2,2,5,2,2,1,4,3,18,481437
+EMP100834,Nadia Rachman Pratomo,,3,3,6,5,5,3,3,3,6,16,597203
+EMP100835,Nurlita Purnama,,1,1,1,5,5,2,2,4,6,52,556380
+EMP100836,Luthfi Simanjuntak,,3,1,1,5,3,1,3,4,6,57,978546
+EMP100837,Nadia Ananda,,1,2,1,2,3,2,3,1,4,7,403863
+EMP100838,Nurlita Permadi,,4,3,1,1,3,2,2,4,2,36,482966
+EMP100839,Yuni Rohman,,4,1,2,3,1,3,3,2,2,85,377570
+EMP100840,Sari Halim Ramadhan,,1,1,5,4,4,3,1,1,1,77,896146
+EMP100841,Zaki Syahputra,,4,2,6,2,4,2,3,3,5,58,926304
+EMP100842,Umar Candra Siregar,,2,3,1,6,5,1,3,1,1,90,506253
+EMP100843,Dinda Kurniawan,,2,2,2,2,2,3,1,3,2,63,155769
+EMP100844,Rizka Gunawan,,4,3,3,1,4,3,3,3,2,81,955930
+EMP100845,Rama Qolbi Maulana,,1,4,3,4,2,1,3,4,5,29,381768
+EMP100846,Zaki Rahmawati,,4,3,6,3,2,2,1,1,6,61,278390
+EMP100847,Oka Saputra Sinaga,,2,3,4,1,1,3,2,4,1,54,258801
+EMP100848,Rifqi Hartanto,,4,3,1,2,1,3,3,1,3,41,757470
+EMP100849,Yuni Purnama,,2,2,3,3,2,2,1,2,6,49,504839
+EMP100850,Eko Mahardika Suharto,,3,1,2,4,3,1,1,2,4,57,999346
+EMP100851,Ari Pratama,,2,3,2,2,2,2,2,2,4,57,283189
+EMP100852,Anisa Siregar,,4,3,2,2,3,1,1,4,5,33,724119
+EMP100853,Umar Zulfikar,,2,3,2,3,5,1,3,1,6,67,510862
+EMP100854,Rama Putra,,3,4,4,5,1,1,2,4,1,87,868452
+EMP100855,Satya Tamba,,1,2,5,2,2,1,3,4,5,13,932222
+EMP100856,Ahmad Pratama,,2,3,6,5,3,3,2,4,2,77,914030
+EMP100857,Ayu Aji Maulida,,1,4,4,1,5,1,1,1,6,27,738616
+EMP100858,Maya Fadillah Utami,,1,1,5,6,4,2,3,1,3,63,666703
+EMP100859,Vania Indrawan,,1,4,1,4,3,3,3,4,2,81,818532
+EMP100860,Bella Anugrah Rohman,,4,4,1,6,3,2,2,3,1,67,450731
+EMP100861,Yoga Putra,,2,4,3,6,4,2,2,2,6,44,431882
+EMP100862,Ayu Saputra,,4,3,2,3,5,3,2,4,4,85,733070
+EMP100863,Zaki Lestari Rohman,,2,1,2,5,1,2,1,3,5,21,408761
+EMP100864,Ayu Rohman,,4,1,4,6,2,2,1,2,3,53,350422
+EMP100865,Anisa Pramudita Pamungkas,,1,4,6,6,2,3,1,4,1,15,406215
+EMP100866,Ayunda Rachman Utami,,1,2,4,6,2,1,1,3,5,34,481802
+EMP100867,Umar Suharto,,1,4,3,3,2,2,3,4,3,74,855097
+EMP100868,Ayunda Iqbal Situmorang,,3,1,2,3,1,3,1,4,6,56,600195
+EMP100869,Budi Wibowo,,4,3,3,5,1,2,1,1,5,64,495005
+EMP100870,Dwi Halim Subekti,,1,1,4,2,1,2,2,4,4,43,321383
+EMP100871,Rizka Anggara,,3,3,2,5,3,2,1,2,5,23,833271
+EMP100872,Citra Maulana,,1,1,1,6,4,1,1,2,3,38,937631
+EMP100873,Teguh Wijaya,,4,3,6,4,3,3,3,4,5,14,312752
+EMP100874,Putri Fadillah Sinaga,,2,2,6,4,1,2,2,4,3,59,942486
+EMP100875,Teguh Zulfikar Rahmawati,,1,3,1,5,1,1,1,2,2,61,421141
+EMP100876,Nugroho Lestari,,3,4,5,2,4,3,3,4,2,73,842584
+EMP100877,Bella Herlambang,,4,2,4,4,5,3,2,1,3,31,383433
+EMP100878,Citra Purnama,,2,3,4,1,5,1,3,4,1,26,182343
+EMP100879,Evi Mahendra,,4,4,1,5,2,2,2,4,5,18,821251
+EMP100880,Zahra Siregar,,2,1,2,6,3,1,2,3,5,64,245329
+EMP100881,Kartika Purnama,,3,3,5,6,2,2,3,2,6,20,563394
+EMP100882,Dinda Wijaya,,2,4,6,1,3,3,2,2,4,19,484278
+EMP100883,Dian Lestari,,2,1,3,4,2,1,3,2,6,83,481592
+EMP100884,Rizki Utama Kurniawan,,3,3,4,1,5,1,1,1,5,64,373163
+EMP100885,Gita Yudhistira Mahendra,,4,3,6,3,3,3,3,1,6,59,172770
+EMP100886,Galih Utami,,2,3,1,1,1,1,3,1,1,32,332102
+EMP100887,Fitri Halim Firmansyah,,1,4,5,4,5,2,2,2,5,61,540329
+EMP100888,Anisa Wijaya Ginting,,2,2,5,1,1,2,3,3,6,65,369024
+EMP100889,Dwi Baskara Rohman,,4,1,4,5,5,1,1,3,4,74,939709
+EMP100890,Valdo Anggara,,2,2,2,2,5,1,2,3,5,0,411067
+EMP100891,Rendra Maulida,,4,2,1,3,5,1,2,1,6,80,291074
+EMP100892,Joko Jatmiko Maulida,,3,2,5,1,1,2,3,1,4,18,205489
+EMP100893,Nabila Maulida,,1,2,4,6,2,2,1,2,4,63,226709
+EMP100894,Arif Aji Utami,,4,3,2,6,4,2,2,4,4,3,812456
+EMP100895,Wahyu Tri Subekti,,2,4,4,6,5,2,2,3,5,43,434348
+EMP100896,Rizka Setiawan,,1,3,2,5,4,2,3,2,3,51,859373
+EMP100897,Galih Saputra Siregar,,3,4,5,3,4,3,3,3,1,38,856508
+EMP100898,Dewi Permadi,,1,4,1,2,5,3,3,4,6,66,291967
+EMP100899,Vania Handayani,,1,2,4,2,1,2,2,1,4,56,669591
+EMP100900,Prasetyo Hartanto,,4,2,5,5,3,3,2,4,1,31,542670
+EMP100901,Valdo Siregar,,2,2,3,2,3,3,3,2,1,50,458232
+EMP100902,Eko Iqbal Mahendra,,4,4,6,5,3,2,3,4,1,29,821751
+EMP100903,Budi Ridwan,,2,1,1,6,3,3,1,4,1,56,778882
+EMP100904,Julia Zulfikar,,3,1,3,2,2,1,3,2,4,19,913144
+EMP100905,Hadi Yudhistira Subekti,,3,3,2,1,4,1,2,1,3,49,467531
+EMP100906,Oka Salsabila,,4,1,2,4,4,1,3,4,6,43,653296
+EMP100907,Yuni Aji Wijaya,,4,2,6,4,4,3,1,2,3,26,140899
+EMP100908,Ahmad Utama Mahendra,,3,4,2,4,1,1,1,1,1,42,135388
+EMP100909,Valdo Wijaya Syahputra,,1,1,4,4,5,3,3,2,2,54,258027
+EMP100910,Hadi Iqbal Pratama,,3,4,4,1,3,1,3,3,2,66,866432
+EMP100911,Prasetyo Halim Syahputra,,2,2,3,3,5,1,2,4,3,11,487057
+EMP100912,Mahendra Tamba,,3,1,2,5,4,1,2,1,1,37,759155
+EMP100913,Wahyu Ginting,,1,1,4,3,3,1,1,4,2,28,424479
+EMP100914,Fitri Firmansyah,,2,4,4,3,3,1,3,2,3,47,584729
+EMP100915,Fajar Setiawan,,4,1,4,2,4,1,3,1,3,46,455423
+EMP100916,Utami Ginting,,4,3,4,3,2,3,3,1,5,56,759783
+EMP100917,Arif Santoso,,4,1,2,5,5,2,2,1,3,49,923641
+EMP100918,Yuni Lestari,,1,3,4,1,3,3,3,3,3,72,361114
+EMP100919,Vania Kusuma,,1,4,1,2,4,2,3,3,5,65,708766
+EMP100920,Rifqi Tamba,,1,4,2,1,3,2,3,3,2,2,985610
+EMP100921,Lestari Mahendra,,4,4,2,4,3,3,3,2,4,15,682307
+EMP100922,Hana Hasibuan,,3,4,5,3,2,1,2,1,4,66,655699
+EMP100923,Arif Qolbi Fauziah,,1,3,4,6,1,1,1,1,2,18,387168
+EMP100924,Julia Yudhistira Lukman,,1,1,5,6,3,1,3,3,5,52,989748
+EMP100925,Yuni Putra,,3,2,3,6,1,2,3,3,6,39,376915
+EMP100926,Intan Candra Rahmawati,,2,2,5,1,5,3,3,3,5,78,341655
+EMP100927,Maya Kusuma,,2,2,4,1,2,3,3,2,4,65,155081
+EMP100928,Zaki Yudhistira Rohman,,2,4,4,1,5,3,2,1,1,34,817371
+EMP100929,Anisa Mahardika Utami,,1,1,2,5,4,2,3,3,2,71,504248
+EMP100930,Intan Aji Hartanto,,2,3,3,4,1,1,2,1,6,114,951577
+EMP100931,Rani Wijaya,,1,1,2,4,1,2,3,1,2,39,530785
+EMP100932,Ahmad Kurniawan,,4,3,3,5,1,1,2,4,2,95,744513
+EMP100933,Ahmad Anggara,,3,2,3,2,1,1,3,3,6,22,306651
+EMP100934,Rifqi Salsabila,,1,1,4,4,1,3,2,1,6,68,366343
+EMP100935,Evi Erlangga Herlambang,,2,4,5,5,5,3,1,4,4,43,932485
+EMP100936,Sari Wijaya,,4,2,6,4,4,3,3,3,3,16,952635
+EMP100937,Joko Mahardika Ananda,,4,1,6,4,5,2,3,3,5,54,165495
+EMP100938,Anisa Hasibuan,,3,2,3,5,3,1,3,3,5,36,283342
+EMP100939,Rizka Lukman,,4,1,4,1,5,3,3,1,4,48,696192
+EMP100940,Intan Mahendra,,3,4,3,1,4,2,3,1,2,12,441058
+EMP100941,Joko Firmansyah,,3,3,2,4,5,2,3,2,1,61,866301
+EMP100942,Citra Wijaya Sinaga,,4,3,6,5,3,1,1,1,2,34,131238
+EMP100943,Rama Aji Purnama,,2,4,5,2,5,3,3,3,6,34,119711
+EMP100944,Adit Utama Wijaya,,4,2,6,1,4,3,3,1,3,86,775814
+EMP100945,Tania Dharma Siregar,,4,3,4,1,4,3,1,3,6,60,751060
+EMP100946,Andi Tamba,,1,4,4,4,1,1,1,2,5,32,293400
+EMP100947,Maya Herlambang,,2,1,2,3,4,1,3,1,5,49,163487
+EMP100948,Iman Permadi,,2,3,2,4,4,1,3,2,4,56,103820
+EMP100949,Joko Saputra Ramadhan,,4,2,1,2,2,2,1,3,6,14,864161
+EMP100950,Budi Rohman,,4,2,4,3,4,2,2,1,2,70,739792
+EMP100951,Rama Rachman Wijaya,,2,2,2,1,5,3,2,1,1,20,278658
+EMP100952,Yuni Lukman,,1,1,3,3,2,2,1,4,2,20,305151
+EMP100953,Hadi Anugrah Yulianto,,3,2,4,2,5,3,2,1,3,51,794999
+EMP100954,Ayu Yudhistira Ridwan,,3,2,5,3,3,3,2,2,3,3,464247
+EMP100955,Evi Lestari Wibowo,,1,4,4,2,5,2,2,2,1,48,857867
+EMP100956,Anisa Suharto,,1,3,2,3,3,2,3,3,5,39,511921
+EMP100957,Julia Zulfikar Saputra,,1,3,2,1,3,2,1,4,6,43,561156
+EMP100958,Arif Wijaya Pamungkas,,4,4,1,4,1,1,2,2,2,79,325441
+EMP100959,Mahendra Fadillah Ananda,,1,4,5,1,5,2,2,1,3,35,484361
+EMP100960,Bayu Nabila Maulida,,4,2,4,2,1,1,1,2,5,29,688451
+EMP100961,Dinda Siregar,,3,1,3,6,2,1,3,1,5,29,524821
+EMP100962,Kartika Wibowo,,4,3,5,1,3,2,3,1,6,40,465320
+EMP100963,Ahmad Permadi,,3,2,4,4,1,2,3,3,3,56,841211
+EMP100964,Cahyo Ginting,,2,1,4,4,5,1,2,1,5,62,759272
+EMP100965,Intan Dharma Suharto,,2,3,3,5,1,2,1,4,4,37,579307
+EMP100966,Ayu Wijaya Hasibuan,,2,2,4,6,4,2,1,2,2,59,619858
+EMP100967,Joko Lestari,,4,2,5,3,5,1,1,1,4,42,493467
+EMP100968,Vania Yudhistira Wibowo,,2,4,1,3,5,1,2,3,5,30,335514
+EMP100969,Nugroho Lukman,,3,1,5,5,1,2,2,2,6,53,282088
+EMP100970,Zaki Candra Ramadhan,,4,2,3,6,5,1,2,4,1,26,506635
+EMP100971,Lestari Ananda,,1,2,4,2,5,2,3,4,1,22,480581
+EMP100972,Dian Lukman,,4,2,2,4,5,3,2,3,6,72,620442
+EMP100973,Anisa Wijaya,,1,3,1,3,4,2,2,1,6,45,231132
+EMP100974,Luthfi Lestari,,2,4,2,4,2,3,1,1,4,43,203287
+EMP100975,Dwi Maulida,,3,2,1,6,2,1,3,4,1,75,454327
+EMP100976,Budi Suharto,,1,2,3,2,5,3,2,4,1,72,489743
+EMP100977,Rifqi Syahputra,,3,4,3,4,4,1,3,1,6,49,522498
+EMP100978,Ari Aji Pratama,,4,1,3,5,4,3,3,2,6,8,944946
+EMP100979,Anisa Mahardika Pradana,,3,4,3,5,1,2,3,4,5,87,249918
+EMP100980,Evi Nabila Siregar,,1,4,6,1,3,2,2,1,3,39,634952
+EMP100981,Bayu Anugrah Sinaga,,1,2,3,3,2,1,1,2,3,66,919986
+EMP100982,Hana Wijaya,,3,2,5,6,5,3,3,1,1,15,209571
+EMP100983,Iman Mahardika Utami,,1,4,3,1,2,3,3,1,2,67,573134
+EMP100984,Wulan Zulfikar Lestari,,4,2,2,2,1,2,1,3,1,33,434006
+EMP100985,Sari Halim Fauziah,,3,4,3,3,1,3,1,4,3,27,364648
+EMP100986,Novi Tamba,,4,2,3,2,1,3,3,3,5,65,893147
+EMP100987,Prasetyo Purnama,,2,3,1,4,1,1,3,2,2,44,105970
+EMP100988,Prasetyo Zulfikar,,2,2,2,6,3,2,2,3,1,40,195840
+EMP100989,Hadi Yudhistira Siregar,,4,1,5,5,2,1,1,3,2,38,213873
+EMP100990,Oka Ananda,,4,3,6,4,2,3,1,1,6,59,789945
+EMP100991,Lestari Lukman,,4,4,6,4,2,2,1,1,2,35,391389
+EMP100992,Kurnia Tamba,,2,2,2,5,3,2,1,1,6,50,705683
+EMP100993,Wulan Purnama,,1,4,2,5,5,3,3,3,3,36,997446
+EMP100994,Rizka Kusuma Rahmawati,,2,1,4,2,2,1,2,3,5,80,632384
+EMP100995,Anisa Ramadhan,,1,4,2,2,2,1,3,3,5,90,964845
+EMP100996,Anisa Saputra,,2,1,1,2,2,1,2,1,4,56,218963
+EMP100997,Dwi Setiawan,,4,3,6,6,2,1,1,1,6,88,675998
+EMP100998,Citra Pratama,,1,1,1,5,2,2,2,4,4,60,311233
+EMP100999,Rani Pratama,,4,3,5,1,4,3,1,3,3,7,752447
+EMP101000,Eko Maulida,,1,1,3,6,4,3,2,2,5,27,230470
+EMP101001,Maya Siregar,,2,3,2,1,5,2,2,4,3,42,771179
+EMP101002,Hadi Pratama,,2,1,2,2,4,2,1,4,4,72,731877
+EMP101003,Bella Utama Zulfikar,,2,3,5,3,1,2,1,2,4,55,991012
+EMP101004,Kurnia Ananda,,4,2,4,5,5,3,2,4,3,76,928551
+EMP101005,Eko Ganesha Kurniawan,,2,3,5,1,3,2,1,3,5,25,616390
+EMP101006,Yuni Pratama,,1,4,5,2,5,3,1,4,5,68,942625
+EMP101007,Prasetyo Subekti,,4,2,2,2,5,3,3,4,3,55,794481
+EMP101008,Oka Putra,,4,1,1,2,3,1,1,4,3,98,257490
+EMP101009,Lestari Dharma Herlambang,,4,3,3,1,3,3,1,4,3,46,708873
+EMP101010,Nabila Santoso,,4,3,1,6,1,1,3,4,3,97,749823
+EMP101011,Wahyu Jatmiko Siregar,,2,3,1,2,2,3,3,4,4,42,828769
+EMP101012,Prasetyo Ginting,,2,1,4,4,3,2,2,1,3,56,549422
+EMP101013,Putri Pratomo,,1,4,4,2,1,3,2,1,2,69,779125
+EMP101014,Nurlita Salsabila,,2,1,1,2,1,1,1,2,3,35,338900
+EMP101015,Umar Wijaya,,3,3,4,1,5,3,1,4,4,28,547334
+EMP101016,Vania Pratomo,,2,2,3,3,3,2,1,4,3,80,117075
+EMP101017,Nugroho Lestari Gunawan,,2,3,3,2,4,2,3,2,2,0,578511
+EMP101018,Rani Kusuma,,2,2,6,6,2,1,1,2,5,41,393025
+EMP101019,Hadi Mahardika Ridwan,,1,3,1,5,2,2,1,3,6,39,906909
+EMP101020,Wahyu Hidayat,,1,4,4,2,4,1,3,1,4,68,148986
+EMP101021,Rani Fadillah Maulana,,3,4,5,6,3,3,3,4,3,8,379798
+EMP101022,Hadi Siregar,,2,1,6,4,5,3,3,3,5,65,134033
+EMP101023,Yuni Ginting,,2,4,3,1,1,3,2,1,6,33,460178
+EMP101024,Citra Situmorang,,4,2,6,6,5,1,2,1,6,30,688308
+EMP101025,Tania Lestari Indrawan,,3,1,5,5,4,1,2,4,4,29,297587
+EMP101026,Eko Santoso,,1,4,6,4,2,3,3,4,1,83,739417
+EMP101027,Kartika Anugrah Halim,,2,3,4,3,2,3,1,1,4,47,720859
+EMP101028,Dwi Sinaga,,2,4,4,3,2,3,2,1,3,45,365169
+EMP101029,Ayunda Situmorang,,1,1,5,6,4,2,3,2,2,31,443416
+EMP101030,Dimas Ananda,,2,4,3,4,2,2,1,1,5,56,999361
+EMP101031,Putri Wijaya,,2,2,5,3,2,3,3,3,4,36,150376
+EMP101032,Zaki Utama Pratomo,,4,2,2,2,3,1,2,2,4,41,536520
+EMP101033,Citra Saputra,,2,2,6,2,2,3,2,3,4,27,659460
+EMP101034,Citra Rohman,,3,2,3,5,4,3,3,4,2,34,578591
+EMP101035,Luthfi Zulfikar,,2,2,3,3,3,1,1,1,4,48,777863
+EMP101036,Mahendra Santoso,,3,1,3,1,3,3,3,1,5,37,631368
+EMP101037,Rani Utama Gunawan,,1,4,5,1,3,1,3,2,5,2,326021
+EMP101038,Ayunda Lestari Sinaga,,3,1,5,6,4,1,1,1,3,43,121286
+EMP101039,Fajar Pamungkas,,2,4,6,5,4,1,2,4,5,31,347604
+EMP101040,Ayunda Hidayat,,1,2,3,4,3,2,3,3,1,73,518158
+EMP101041,Hana Dharma Hidayat,,2,3,1,2,5,3,3,3,6,50,980204
+EMP101042,Lestari Utami,,4,3,4,4,1,1,1,2,1,5,888516
+EMP101043,Joko Rachman Setiawan,,3,3,4,4,1,1,3,4,2,37,431590
+EMP101044,Nabila Lestari Sinaga,,4,4,4,2,1,2,2,3,5,58,100965
+EMP101045,Putri Mahendra,,4,4,1,5,1,2,3,3,4,59,461838
+EMP101046,Rama Wibowo,,4,1,6,3,4,3,2,2,6,56,612536
+EMP101047,Lestari Ganesha Fauziah,,4,1,4,1,2,3,3,3,6,55,420981
+EMP101048,Rama Nabila Hasibuan,,2,4,6,3,3,1,2,3,2,51,330012
+EMP101049,Teguh Subekti,,1,2,5,4,3,2,3,3,2,25,870495
+EMP101050,Dimas Saputra Herlambang,,2,2,4,6,1,3,3,1,2,23,210438
+EMP101051,Bella Permadi,,3,2,6,3,5,2,3,1,2,74,533982
+EMP101052,Nadia Zulfikar Sinaga,,3,3,6,2,5,3,2,4,5,102,467066
+EMP101053,Evi Hartanto,,4,1,6,1,3,3,2,2,5,28,759542
+EMP101054,Yuni Erlangga Subekti,,3,3,5,3,4,3,3,1,3,12,656817
+EMP101055,Yoga Candra Hartanto,,2,1,5,5,3,2,2,3,4,38,296785
+EMP101056,Umar Hartanto,,2,2,3,4,3,3,3,2,5,33,880589
+EMP101057,Dinda Anggara,,2,2,4,6,2,1,1,4,1,44,818913
+EMP101058,Umar Yulianto,,4,2,2,1,2,3,1,2,4,31,532927
+EMP101059,Tania Fadillah Firmansyah,,3,3,1,5,3,3,3,1,5,78,699881
+EMP101060,Galih Fauziah,,4,2,3,1,3,1,3,3,6,52,408249
+EMP101061,Ayu Handayani,,4,2,6,4,3,2,3,3,3,53,435734
+EMP101062,Rifqi Jatmiko Wijaya,,1,3,4,4,1,3,1,4,2,4,768212
+EMP101063,Rendra Kusuma Siregar,,2,2,2,2,5,3,1,1,1,35,560159
+EMP101064,Oktavia Mahendra,,2,2,1,5,4,1,1,2,5,78,497662
+EMP101065,Nabila Kusuma Gunawan,,3,3,6,1,1,3,3,2,2,13,570985
+EMP101066,Novi Hartanto,,1,4,6,6,4,3,1,3,1,27,827793
+EMP101067,Galih Kusuma Ramadhan,,2,1,1,6,4,2,2,4,2,1,392448
+EMP101068,Kurnia Erlangga Maulana,,1,2,1,4,3,2,1,3,1,52,966314
+EMP101069,Ayu Erlangga Kurniawan,,3,2,2,5,5,1,2,1,5,52,898560
+EMP101070,Nugroho Hasibuan,,1,3,2,2,2,1,3,3,1,52,503961
+EMP101071,Wulan Pratama,,2,4,6,3,2,1,3,1,6,29,156923
+EMP101072,Adi Pramudita Indrawan,,2,3,4,1,3,1,1,3,4,15,534445
+EMP101073,Nabila Utami,,4,4,5,4,4,2,3,1,1,56,250951
+EMP101074,Nabila Aji Kusuma,,2,3,1,4,4,2,2,4,5,63,566059
+EMP101075,Hadi Wijaya Gunawan,,4,3,6,6,4,1,1,3,2,97,494272
+EMP101076,Satya Pamungkas,,3,4,5,5,3,3,3,3,5,63,796070
+EMP101077,Hana Dharma Maulida,,4,4,6,6,3,1,1,2,3,46,117103
+EMP101078,Satya Saputra,,3,1,5,6,4,1,1,4,1,97,669054
+EMP101079,Bayu Sinaga,,2,3,5,6,2,3,2,1,3,5,463325
+EMP101080,Galih Zulfikar Ramadhan,,1,2,1,1,4,2,1,2,1,29,785890
+EMP101081,Putri Nabila Rohman,,4,2,1,1,1,1,1,4,5,53,898136
+EMP101082,Rani Permadi,,1,4,1,5,5,3,1,2,3,43,212470
+EMP101083,Adit Salsabila,,4,1,4,4,5,1,2,4,5,29,826082
+EMP101084,Fitri Hartanto,,4,3,3,6,2,2,2,3,2,47,471131
+EMP101085,Rendra Maulana,,2,1,5,5,2,1,3,4,2,120,629636
+EMP101086,Nugroho Maulana,,2,4,2,6,1,3,1,1,5,3,638811
+EMP101087,Rendra Saputra Gunawan,,3,4,1,5,5,1,2,2,2,86,318120
+EMP101088,Rama Jatmiko Gunawan,,3,4,5,5,4,3,3,1,3,54,861774
+EMP101089,Nabila Salsabila,,3,1,4,2,5,3,1,2,1,33,983417
+EMP101090,Bella Fauziah,,3,2,2,3,4,1,1,3,1,74,674936
+EMP101091,Ari Saputra Pamungkas,,1,2,5,6,4,1,1,4,4,11,393266
+EMP101092,Rani Gunawan,,2,2,1,5,3,1,1,1,2,57,988740
+EMP101093,Joko Iqbal Lestari,,3,1,3,4,4,2,1,4,3,60,679557
+EMP101094,Novi Zulfikar Handayani,,1,3,5,3,1,3,1,1,4,27,891088
+EMP101095,Nadia Simanjuntak,,4,1,5,5,5,1,1,3,3,9,398502
+EMP101096,Rizka Wijaya,,1,2,2,4,5,3,3,1,3,43,240175
+EMP101097,Bayu Mahendra,,4,4,3,4,4,3,1,3,6,38,480143
+EMP101098,Utami Firmansyah,,4,4,3,3,3,3,2,2,5,46,271832
+EMP101099,Nabila Kusuma,,1,2,5,2,5,3,1,2,2,84,776725
+EMP101100,Fitri Jatmiko Setiawan,,2,3,4,3,2,3,3,2,3,43,520933
+EMP101101,Nugroho Yudhistira Lukman,,3,4,3,4,5,2,1,2,3,9,912199
+EMP101102,Novi Sinaga,,1,3,2,3,2,3,1,3,4,81,822577
+EMP101103,Wulan Lestari Saputra,,2,4,5,1,3,3,3,2,6,39,166683
+EMP101104,Oktavia Lestari,,2,2,3,2,5,1,3,4,6,65,317370
+EMP101105,Kartika Saputra Siregar,,2,1,3,4,4,2,1,3,4,36,488506
+EMP101106,Sari Siregar,,1,1,1,4,5,3,1,2,3,59,773738
+EMP101107,Mahendra Fadillah Pradana,,2,3,4,6,4,1,3,2,3,51,295435
+EMP101108,Dewi Pradana,,4,2,6,3,4,2,3,2,4,21,432798
+EMP101109,Bella Suharto,,2,4,2,2,3,2,3,4,4,43,907952
+EMP101110,Rani Simanjuntak,,4,3,4,6,3,1,3,3,1,63,779428
+EMP101111,Bella Firmansyah,,3,2,2,4,5,2,1,1,3,98,851783
+EMP101112,Budi Firmansyah,,2,1,1,5,1,1,1,2,1,52,316948
+EMP101113,Evi Syahputra,,3,1,4,2,5,3,3,3,2,30,182862
+EMP101114,Tania Fauziah,,3,1,1,5,3,1,1,1,5,38,852501
+EMP101115,Valdo Putra,,2,3,6,6,3,1,3,1,6,34,996287
+EMP101116,Dimas Tri Zulfikar,,4,1,4,2,2,1,1,2,1,36,446942
+EMP101117,Rendra Indrawan,,3,3,5,4,2,1,3,4,1,57,719870
+EMP101118,Maya Dharma Kurniawan,,2,4,4,3,2,3,3,2,3,1,391229
+EMP101119,Utami Lestari,,1,1,1,4,3,1,1,2,3,40,375473
+EMP101120,Gita Rahmawati,,1,1,2,2,5,3,3,1,3,52,792016
+EMP101121,Gita Hasibuan,,3,1,5,2,1,1,3,1,1,28,685201
+EMP101122,Maya Utami,,3,1,1,5,3,2,2,1,2,48,793959
+EMP101123,Dian Kurniawan,,2,4,2,6,3,2,1,3,4,50,810966
+EMP101124,Cahyo Tri Maulida,,1,3,1,6,3,3,1,3,6,77,585533
+EMP101125,Nabila Halim,,3,4,6,6,2,2,3,2,6,18,783923
+EMP101126,Ayunda Jatmiko Zulfikar,,2,2,3,3,1,3,2,2,5,61,345007
+EMP101127,Valdo Hasibuan,,4,4,1,3,5,1,3,3,2,48,852759
+EMP101128,Kartika Setiawan,,4,3,5,1,1,1,3,2,6,78,188469
+EMP101129,Rendra Purnama,,1,2,4,3,5,1,2,2,1,72,714217
+EMP101130,Rifqi Kusuma,,2,1,1,6,4,3,3,4,5,24,406965
+EMP101131,Lestari Candra Nugroho,,2,1,3,3,2,3,2,2,1,42,617499
+EMP101132,Umar Pradana,,4,1,3,3,5,2,3,1,3,39,787781
+EMP101133,Rendra Subekti,,4,2,5,2,1,3,1,2,1,62,726724
+EMP101134,Kurnia Dharma Putra,,2,3,6,3,3,1,1,4,3,96,373876
+EMP101135,Adit Rohman,,4,2,2,5,5,3,3,3,1,28,237031
+EMP101136,Arif Saputra Halim,,4,1,1,6,4,1,1,3,2,55,482588
+EMP101137,Nabila Putra,,3,1,2,4,2,3,3,4,1,25,798738
+EMP101138,Rizka Kusuma,,4,1,6,3,1,3,3,1,4,39,232522
+EMP101139,Rendra Gunawan,,1,2,5,4,3,1,3,4,3,65,158180
+EMP101140,Wahyu Nabila Purnama,,3,2,2,1,5,1,2,2,6,61,814462
+EMP101141,Dwi Hartanto,,1,3,3,1,1,3,1,3,3,95,381939
+EMP101142,Rani Kusuma Putra,,4,1,1,6,3,3,3,2,1,76,163215
+EMP101143,Ayunda Purnama,,3,2,5,1,2,3,3,1,2,65,415143
+EMP101144,Rifqi Maulida,,3,2,1,2,5,3,2,3,6,37,852503
+EMP101145,Yoga Adi Halim,,3,4,1,5,2,1,3,3,5,46,998773
+EMP101146,Ayu Suharto,,4,1,1,4,3,1,1,4,6,37,900824
+EMP101147,Anisa Kusuma,,2,1,4,6,2,3,1,2,6,70,996039
+EMP101148,Ahmad Hartanto,,1,2,5,3,4,2,2,3,3,81,139833
+EMP101149,Utami Zulfikar Siregar,,2,4,1,1,5,2,3,2,3,46,750675
+EMP101150,Wahyu Pramudita Indrawan,,2,1,3,6,4,2,3,3,3,56,311789
+EMP101151,Dwi Adi Wijaya,,3,1,4,2,5,1,1,1,1,28,220434
+EMP101152,Dewi Nabila Hasibuan,,1,1,1,4,3,1,2,1,1,74,615852
+EMP101153,Ayunda Siregar,,1,2,2,2,1,2,1,4,5,112,555882
+EMP101154,Gita Aji Simanjuntak,,3,2,6,6,2,2,1,4,1,78,375738
+EMP101155,Rizki Baskara Permadi,,4,3,2,4,2,2,1,2,6,128,292332
+EMP101156,Adi Halim,,2,3,4,1,3,3,1,3,1,55,465053
+EMP101157,Galih Iqbal Pradana,,4,1,1,2,3,2,2,1,3,61,191007
+EMP101158,Putri Saputra Sinaga,,2,4,2,3,4,2,1,4,3,56,217650
+EMP101159,Vania Maulana,,1,1,3,1,4,1,3,3,1,111,265389
+EMP101160,Oka Lestari Wijaya,,3,4,3,4,1,2,1,4,2,52,825453
+EMP101161,Fajar Ramadhan,,2,2,3,2,2,3,1,3,6,1,776343
+EMP101162,Hadi Lestari,,1,3,3,6,1,3,2,2,4,61,362076
+EMP101163,Maya Suharto,,1,2,3,2,1,1,3,2,3,32,589918
+EMP101164,Nabila Subekti,,2,4,2,5,3,1,3,2,6,89,612413
+EMP101165,Kartika Iqbal Gunawan,,4,4,3,3,3,3,1,3,3,21,660208
+EMP101166,Utami Qolbi Halim,,4,3,3,1,5,3,1,4,5,71,342257
+EMP101167,Rama Utami,,4,2,3,6,4,2,2,3,2,44,659007
+EMP101168,Oka Permadi,,3,1,4,2,3,3,2,3,5,24,161330
+EMP101169,Anisa Wijaya Maulana,,2,2,1,1,5,2,1,2,4,73,320601
+EMP101170,Dewi Jatmiko Indrawan,,2,4,2,2,3,1,1,3,5,19,928249
+EMP101171,Maya Baskara Suharto,,3,2,4,5,4,3,3,2,3,74,904432
+EMP101172,Arif Purnama,,2,3,2,4,3,3,1,4,4,81,991633
+EMP101173,Rizki Dharma Rahmawati,,3,2,2,2,4,3,2,2,3,58,892411
+EMP101174,Yoga Saputra Mahendra,,2,2,5,4,3,2,2,3,1,53,645748
+EMP101175,Anisa Yulianto,,2,4,5,1,5,1,2,3,6,56,451140
+EMP101176,Dimas Tri Pratama,,3,1,4,1,3,2,1,1,4,75,360330
+EMP101177,Mahendra Siregar,,2,1,1,4,4,3,2,4,1,82,580158
+EMP101178,Galih Rahmawati,,4,3,1,5,3,3,2,3,6,106,911718
+EMP101179,Rani Jatmiko Indrawan,,1,3,6,5,4,2,3,1,6,76,638523
+EMP101180,Hana Suharto,,4,2,6,4,4,3,1,4,5,29,368968
+EMP101181,Putri Ananda,,2,1,3,1,5,2,3,1,2,34,206791
+EMP101182,Valdo Zulfikar Santoso,,1,3,1,6,2,1,2,3,3,11,714731
+EMP101183,Gita Adi Wibowo,,3,1,3,2,5,2,2,2,6,86,628069
+EMP101184,Mahendra Dharma Yulianto,,3,4,2,2,4,2,2,3,3,62,141920
+EMP101185,Wahyu Utami,,4,3,3,1,1,1,1,3,1,23,699212
+EMP101186,Citra Halim Wijaya,,2,1,1,2,4,2,2,3,6,21,233129
+EMP101187,Prasetyo Ananda,,2,1,2,1,4,2,3,3,5,45,473323
+EMP101188,Julia Utami,,3,1,4,4,1,1,1,2,3,54,707058
+EMP101189,Prasetyo Pradana,,4,4,6,1,1,2,2,1,5,46,931299
+EMP101190,Kurnia Dharma Kurniawan,,1,2,2,2,3,2,2,3,5,9,378022
+EMP101191,Wulan Nugroho,,3,3,4,2,2,2,3,3,6,21,371567
+EMP101192,Galih Aji Permadi,,2,1,5,3,4,3,2,1,2,46,266196
+EMP101193,Dwi Utama Handayani,,1,1,3,5,1,1,3,1,2,55,464141
+EMP101194,Prasetyo Candra Subekti,,4,3,4,2,2,2,3,1,6,37,465002
+EMP101195,Hana Aji Setiawan,,2,3,3,4,4,2,3,4,6,10,299626
+EMP101196,Satya Firmansyah,,2,4,3,2,2,3,3,2,3,0,985085
+EMP101197,Cahyo Pamungkas,,4,2,2,5,4,3,2,1,1,55,178707
+EMP101198,Nadia Pratomo,,1,1,6,2,4,2,1,2,5,39,303735
+EMP101199,Umar Rachman Hidayat,,3,3,1,6,2,1,1,3,5,26,997320
+EMP101200,Anisa Ridwan,,2,2,3,2,1,3,3,4,5,68,810873
+EMP101201,Valdo Sinaga,,3,2,3,5,3,1,1,2,4,43,426674
+EMP101202,Valdo Utami,,4,2,3,4,4,1,1,1,2,15,940810
+EMP101203,Dwi Lestari,,4,2,5,3,5,2,3,1,3,84,829065
+EMP101204,Kartika Nugroho,,2,1,3,4,4,2,2,2,5,96,540300
+EMP101205,Nurlita Qolbi Tamba,,4,2,3,4,1,2,2,2,1,27,590638
+EMP101206,Utami Siregar,,3,1,2,4,4,1,2,2,1,58,945451
+EMP101207,Adi Salsabila,,1,3,3,5,3,2,1,2,6,47,241402
+EMP101208,Dimas Siregar,,1,1,1,5,5,2,1,1,5,92,713613
+EMP101209,Zaki Indrawan,,3,2,4,2,3,2,1,4,6,22,555197
+EMP101210,Luthfi Lestari Rahmawati,,1,3,3,2,2,1,3,1,3,72,886056
+EMP101211,Valdo Ananda,,4,1,1,1,2,3,2,3,5,92,859454
+EMP101212,Galih Suharto,,1,1,6,2,3,3,2,3,2,63,238106
+EMP101213,Bayu Erlangga Hidayat,,2,3,5,6,5,3,1,4,3,85,292489
+EMP101214,Intan Ridwan,,2,1,5,6,2,3,3,3,5,36,682167
+EMP101215,Ayu Kusuma,,4,4,1,2,1,2,3,3,4,58,455669
+EMP101216,Galih Candra Ridwan,,4,2,6,2,5,1,1,2,1,32,471701
+EMP101217,Luthfi Lestari Kusuma,,2,3,4,6,4,3,2,3,5,59,852720
+EMP101218,Dian Gunawan,,3,2,5,1,1,3,3,2,6,46,834704
+EMP101219,Dinda Lestari Setiawan,,2,4,3,1,3,3,2,1,5,62,239907
+EMP101220,Hadi Pramudita Saputra,,1,3,2,2,1,1,2,1,5,65,908418
+EMP101221,Bayu Adi Handayani,,1,2,6,5,5,3,3,3,3,40,831482
+EMP101222,Sari Rahmawati,,4,1,5,3,3,3,3,2,5,75,668984
+EMP101223,Dimas Situmorang,,3,4,4,1,5,1,3,4,2,22,170570
+EMP101224,Rizka Indrawan,,3,3,5,2,2,3,2,1,4,34,866423
+EMP101225,Zahra Hidayat,,2,4,4,1,4,3,2,3,6,78,150409
+EMP101226,Yoga Erlangga Mahendra,,2,1,1,6,2,1,1,3,2,59,405193
+EMP101227,Fitri Dharma Ramadhan,,1,1,2,5,3,2,3,3,3,41,947246
+EMP101228,Satya Qolbi Anggara,,3,3,4,6,1,3,3,3,2,89,119101
+EMP101229,Ayu Putra,,1,3,4,6,5,3,1,2,2,61,475294
+EMP101230,Luthfi Handayani,,4,4,6,2,3,3,1,1,3,26,646313
+EMP101231,Sari Tri Wibowo,,4,3,6,2,1,1,2,1,1,66,249750
+EMP101232,Adi Rohman,,1,2,4,6,1,3,1,1,3,40,260055
+EMP101233,Kurnia Tri Pratomo,,3,4,1,4,4,2,2,3,5,56,845798
+EMP101234,Luthfi Ananda,,2,2,3,3,2,3,2,3,3,66,818082
+EMP101235,Cahyo Ganesha Situmorang,,2,4,6,4,2,2,1,2,3,15,932366
+EMP101236,Novi Baskara Fauziah,,4,3,2,5,4,3,3,3,6,16,722158
+EMP101237,Zahra Ridwan,,2,1,6,6,4,3,2,3,4,61,301932
+EMP101238,Rani Yulianto,,1,1,1,4,2,1,2,4,2,0,157183
+EMP101239,Bella Qolbi Simanjuntak,,4,4,4,3,1,2,3,2,1,37,449746
+EMP101240,Rifqi Nabila Nugroho,,1,2,4,3,3,2,1,2,3,26,739286
+EMP101241,Mahendra Wijaya,,2,1,5,3,4,1,3,4,1,48,604327
+EMP101242,Sari Saputra Tamba,,2,4,6,3,5,2,3,2,4,92,342822
+EMP101243,Nugroho Setiawan,,3,4,2,4,2,1,2,1,3,54,443039
+EMP101244,Evi Indrawan,,4,1,5,2,2,1,2,2,5,29,615430
+EMP101245,Fitri Salsabila,,4,1,4,1,1,1,1,2,4,89,106535
+EMP101246,Joko Pradana,,2,2,1,6,3,2,1,1,2,67,838477
+EMP101247,Iman Syahputra,,4,3,3,6,5,2,2,3,3,35,235296
+EMP101248,Cahyo Lestari,,3,2,3,3,1,1,1,4,3,85,215777
+EMP101249,Nurlita Erlangga Maulida,,3,4,2,3,2,2,3,3,2,49,961789
+EMP101250,Iman Wijaya,,4,4,2,3,2,2,1,1,3,69,557794
+EMP101251,Adit Pratama,,2,3,2,2,1,2,3,3,3,16,830554
+EMP101252,Vania Ginting,,3,2,5,3,5,1,3,3,4,47,908459
+EMP101253,Maya Baskara Ananda,,3,2,5,6,3,2,3,3,5,28,683070
+EMP101254,Luthfi Qolbi Sinaga,,1,2,1,3,3,2,2,4,1,57,575107
+EMP101255,Gita Handayani,,1,1,3,4,4,1,2,1,6,24,117348
+EMP101256,Ayu Pratama,,1,4,6,4,5,1,1,1,6,47,824113
+EMP101257,Rifqi Erlangga Pradana,,4,2,3,5,1,2,1,3,5,62,681974
+EMP101258,Cahyo Utami,,1,1,3,6,4,3,2,1,2,48,359334
+EMP101259,Rafa Qolbi Indrawan,,3,1,2,1,4,3,3,4,1,29,499021
+EMP101260,Satya Lestari,,2,2,3,4,3,1,3,3,5,78,301230
+EMP101261,Bayu Rachman Pratomo,,2,4,2,3,3,1,2,1,4,3,156534
+EMP101262,Ari Baskara Yulianto,,4,3,6,4,2,2,1,4,3,39,535735
+EMP101263,Intan Purnama,,4,3,5,4,4,3,2,2,4,20,441536
+EMP101264,Luthfi Pramudita Simanjuntak,,3,2,2,6,4,3,2,1,5,52,956623
+EMP101265,Umar Utami,,1,4,6,5,1,3,2,2,5,58,321163
+EMP101266,Joko Zulfikar Ginting,,2,3,5,1,4,2,3,4,4,58,358678
+EMP101267,Rani Herlambang,,1,4,1,3,4,2,1,3,6,101,329243
+EMP101268,Rani Lestari,,1,3,4,4,2,2,3,1,2,96,946433
+EMP101269,Rizky Jatmiko Herlambang,,2,1,2,6,5,2,1,3,4,61,566312
+EMP101270,Novi Permadi,,4,4,5,3,4,1,3,1,2,18,976457
+EMP101271,Nabila Adi Ananda,,4,3,5,6,3,2,2,2,3,32,377278
+EMP101272,Utami Baskara Lukman,,2,2,6,1,2,2,3,3,6,27,530143
+EMP101273,Bella Fadillah Fauziah,,1,4,6,1,1,2,2,3,1,53,835166
+EMP101274,Maya Nabila Ridwan,,2,4,6,2,1,2,2,4,3,49,630167
+EMP101275,Wulan Mahardika Salsabila,,1,4,6,2,3,2,2,4,4,134,849030
+EMP101276,Dinda Saputra,,4,3,1,5,5,3,2,3,1,68,524832
+EMP101277,Utami Fauziah,,2,1,3,4,3,1,3,2,4,88,460992
+EMP101278,Bella Maulana,,3,1,2,3,4,2,3,4,6,46,727558
+EMP101279,Fajar Utami,,2,3,3,4,2,1,1,4,3,31,842362
+EMP101280,Arif Saputra Handayani,,3,1,4,2,3,1,2,4,6,92,468388
+EMP101281,Wahyu Ramadhan,,4,1,3,2,2,3,1,3,2,67,580883
+EMP101282,Bella Lestari Herlambang,,1,2,2,4,4,2,2,2,6,36,933404
+EMP101283,Ayu Yulianto,,1,1,6,6,2,2,2,3,1,60,268552
+EMP101284,Nadia Mahardika Purnama,,1,3,4,2,4,3,1,2,1,30,225814
+EMP101285,Prasetyo Yudhistira Lukman,,3,3,4,5,2,1,1,2,6,38,420138
+EMP101286,Zaki Adi Permadi,,1,3,2,3,5,3,3,2,4,65,180926
+EMP101287,Fajar Putra,,3,2,5,2,1,2,2,2,3,75,300941
+EMP101288,Kurnia Zulfikar Maulida,,3,4,1,6,1,3,1,3,4,76,853834
+EMP101289,Evi Ramadhan,,2,1,3,1,4,3,1,2,5,21,663104
+EMP101290,Dinda Maulana,,1,3,4,3,2,1,1,1,4,64,683580
+EMP101291,Prasetyo Dharma Utami,,1,2,5,3,5,3,2,1,2,25,463319
+EMP101292,Maya Permadi,,3,1,5,4,1,2,2,3,1,58,921172
+EMP101293,Citra Suharto,,4,4,3,1,4,3,1,2,6,93,294810
+EMP101294,Nugroho Rahmawati,,3,2,6,2,1,3,3,2,3,23,651257
+EMP101295,Hana Dharma Handayani,,3,3,4,3,2,3,1,4,3,37,141920
+EMP101296,Umar Tamba,,2,3,1,3,2,1,3,1,3,30,890903
+EMP101297,Teguh Siregar,,1,4,6,5,2,2,3,1,5,52,433966
+EMP101298,Nurlita Halim,,3,1,2,6,5,2,1,2,4,43,592419
+EMP101299,Vania Candra Nugroho,,3,2,1,3,3,1,2,3,2,55,375019
+EMP101300,Eko Kurniawan,,4,2,6,6,3,3,1,1,2,12,163063
+EMP101301,Fajar Erlangga Maulana,,2,1,6,6,3,2,1,2,2,9,208192
+EMP101302,Hana Anugrah Subekti,,3,3,5,6,4,3,2,3,5,21,680688
+EMP101303,Kurnia Hartanto,,2,1,6,6,1,1,2,4,1,57,257146
+EMP101304,Iman Firmansyah,,3,1,6,4,4,1,2,3,1,48,290300
+EMP101305,Gita Wijaya Fauziah,,3,1,4,2,2,1,3,2,5,24,880878
+EMP101306,Dwi Zulfikar,,4,3,4,3,5,2,2,1,1,34,871710
+EMP101307,Iman Situmorang,,1,3,3,5,1,1,2,3,6,76,434568
+EMP101308,Prasetyo Saputra,,2,2,6,3,1,1,1,3,5,40,732788
+EMP101309,Rizka Hidayat,,3,1,4,4,2,1,1,2,2,89,900763
+EMP101310,Rizka Yudhistira Sinaga,,2,1,6,2,2,3,1,2,4,27,871502
+EMP101311,Teguh Wibowo,,1,3,6,5,4,2,1,4,4,57,686685
+EMP101312,Budi Syahputra,,3,3,2,1,5,2,3,4,1,44,322141
+EMP101313,Indra Mahardika Putra,,2,1,3,4,1,3,2,1,5,66,310136
+EMP101314,Umar Wijaya Salsabila,,1,4,6,2,1,1,3,2,1,60,491418
+EMP101315,Dwi Wibowo,,4,3,3,4,4,1,2,2,2,57,201968
+EMP101316,Nugroho Kusuma Hasibuan,,3,4,3,5,3,1,1,3,4,89,154505
+EMP101317,Nadia Qolbi Utami,,4,1,3,1,2,3,3,4,5,33,386220
+EMP101318,Nurlita Zulfikar Sinaga,,1,1,3,6,2,2,3,2,4,55,867466
+EMP101319,Budi Anugrah Syahputra,,2,4,4,2,2,2,2,1,6,48,867943
+EMP101320,Fajar Tamba,,3,4,5,5,5,3,2,3,4,76,226573
+EMP101321,Ari Wijaya,,3,1,3,4,4,3,1,3,1,67,173127
+EMP101322,Mahendra Sinaga,,4,4,5,5,4,1,2,2,2,54,184082
+EMP101323,Rendra Hartanto,,4,1,2,6,4,1,3,2,5,114,795970
+EMP101324,Teguh Lestari Saputra,,3,4,4,5,4,3,1,4,6,36,115322
+EMP101325,Gita Tri Siregar,,1,1,6,5,2,1,2,1,1,36,237369
+EMP101326,Satya Wibowo,,2,3,3,2,1,3,1,4,1,27,982029
+EMP101327,Rizka Suharto,,1,1,2,6,5,2,1,3,2,23,122706
+EMP101328,Maya Candra Maulana,,3,1,2,1,1,2,3,3,4,0,399779
+EMP101329,Galih Kusuma Ridwan,,2,3,2,4,2,2,1,2,6,29,463563
+EMP101330,Rizki Nugroho,,1,1,6,3,4,1,3,1,5,65,873276
+EMP101331,Zahra Setiawan,,3,3,3,5,4,1,3,4,6,38,675400
+EMP101332,Wahyu Sinaga,,1,3,6,1,1,2,3,2,3,40,711260
+EMP101333,Oka Gunawan,,4,4,3,5,4,2,3,2,2,79,426710
+EMP101334,Yuni Hartanto,,4,1,1,2,3,2,2,3,1,66,181409
+EMP101335,Tania Kusuma,,2,3,1,3,2,3,2,2,5,27,588253
+EMP101336,Rama Lestari Handayani,,1,2,6,1,4,3,2,2,2,54,719241
+EMP101337,Lestari Jatmiko Situmorang,,4,1,6,5,3,1,2,4,4,94,871264
+EMP101338,Oktavia Yulianto,,2,1,3,6,5,2,1,2,6,39,275899
+EMP101339,Ayu Subekti,,3,2,4,5,4,2,2,2,1,10,623997
+EMP101340,Ayunda Permadi,,4,3,3,2,4,2,3,1,5,32,783183
+EMP101341,Joko Putra,,2,1,6,2,2,3,2,4,4,28,258095
+EMP101342,Arif Pradana,,3,2,3,3,5,1,1,2,2,69,928173
+EMP101343,Anisa Anugrah Saputra,,3,1,3,2,5,2,2,1,4,19,941394
+EMP101344,Ayunda Anugrah Rahmawati,,1,4,5,1,2,1,3,3,2,60,802926
+EMP101345,Nadia Pramudita Gunawan,,4,1,5,2,3,2,1,1,2,66,275639
+EMP101346,Luthfi Tri Subekti,,2,3,1,6,1,3,3,4,5,75,881468
+EMP101347,Utami Adi Handayani,,2,3,3,2,3,2,2,4,3,71,159491
+EMP101348,Rendra Yudhistira Pradana,,2,1,4,4,5,3,1,3,3,34,483585
+EMP101349,Novi Kusuma,,4,2,4,5,2,1,2,4,3,62,146787
+EMP101350,Bella Dharma Maulida,,2,2,3,3,3,1,1,4,4,64,942075
+EMP101351,Dwi Tamba,,1,2,2,3,2,3,2,4,3,69,726333
+EMP101352,Dian Sinaga,,3,3,4,6,4,3,3,2,1,49,389620
+EMP101353,Prasetyo Halim,,1,1,4,1,4,1,3,1,6,42,622822
+EMP101354,Wulan Aji Rohman,,1,4,4,5,3,3,3,3,5,56,614747
+EMP101355,Utami Halim,,4,4,3,3,4,2,2,3,2,39,653137
+EMP101356,Yuni Ramadhan,,3,4,1,3,1,3,2,2,2,56,408262
+EMP101357,Bayu Zulfikar Hasibuan,,3,3,4,6,2,3,2,3,6,31,633810
+EMP101358,Kurnia Maulana,,3,4,6,5,5,1,2,2,6,30,591614
+EMP101359,Fajar Iqbal Simanjuntak,,2,4,5,6,1,3,2,1,2,92,897455
+EMP101360,Fitri Iqbal Lukman,,1,2,5,1,5,2,1,4,4,64,846588
+EMP101361,Adi Pratama,,2,2,3,1,1,3,3,2,3,77,710143
+EMP101362,Valdo Kusuma,,1,4,6,5,1,1,2,4,1,26,126509
+EMP101363,Rafa Gunawan,,1,2,4,2,4,3,2,4,5,28,442840
+EMP101364,Rizky Baskara Handayani,,1,1,5,4,2,3,3,4,3,74,212333
+EMP101365,Teguh Setiawan,,2,1,6,5,3,3,1,4,6,110,502864
+EMP101366,Rani Firmansyah,,3,2,4,2,5,3,2,4,3,67,293310
+EMP101367,Ahmad Nugroho,,4,2,2,3,4,2,2,1,3,73,994183
+EMP101368,Julia Herlambang,,3,1,3,3,1,3,1,3,3,48,645475
+EMP101369,Dimas Yudhistira Pratomo,,3,3,6,6,5,2,3,3,2,65,831723
+EMP101370,Iman Rachman Simanjuntak,,3,4,3,1,1,2,1,2,5,55,792395
+EMP101371,Anisa Kurniawan,,3,2,2,2,4,2,1,2,5,44,636494
+EMP101372,Adit Gunawan,,1,3,6,2,5,3,2,4,3,51,254668
+EMP101373,Hana Aji Sinaga,,2,4,3,2,3,1,3,1,3,40,146003
+EMP101374,Anisa Qolbi Kurniawan,,2,2,3,3,5,2,1,1,5,14,528126
+EMP101375,Lestari Salsabila,,3,2,3,1,3,3,3,3,4,71,932619
+EMP101376,Iman Tamba,,2,3,5,1,4,2,2,1,3,74,198368
+EMP101377,Dwi Utama Fauziah,,2,4,1,5,3,1,1,2,3,61,369853
+EMP101378,Joko Dharma Utami,,2,2,2,3,3,3,2,3,4,73,538168
+EMP101379,Oka Pamungkas,,3,4,5,6,1,3,1,4,3,21,398639
+EMP101380,Teguh Utama Pratomo,,2,4,4,2,2,3,3,3,1,45,967444
+EMP101381,Kurnia Ridwan,,4,4,3,1,4,1,3,1,5,47,485764
+EMP101382,Citra Zulfikar Siregar,,2,3,5,3,3,2,2,1,2,79,197674
+EMP101383,Rizky Ramadhan,,3,4,4,3,2,2,1,3,1,20,902995
+EMP101384,Indra Ginting,,2,1,6,6,5,1,1,2,1,62,481482
+EMP101385,Dian Yudhistira Lestari,,2,2,4,4,5,1,3,4,1,19,528277
+EMP101386,Rama Maulida,,4,4,3,2,5,2,1,1,4,7,634264
+EMP101387,Zahra Wibowo,,3,2,6,6,4,3,3,2,2,27,568802
+EMP101388,Ayunda Tri Hidayat,,3,1,3,6,1,2,3,3,6,59,799232
+EMP101389,Rizka Erlangga Siregar,,1,1,6,2,1,2,1,1,1,56,195760
+EMP101390,Wahyu Pramudita Gunawan,,4,1,1,1,3,1,3,4,5,64,717529
+EMP101391,Dewi Fauziah,,3,1,3,4,4,3,2,1,2,4,171144
+EMP101392,Yoga Siregar,,1,2,4,2,4,1,1,1,1,64,572418
+EMP101393,Evi Jatmiko Halim,,4,4,6,1,5,3,2,4,1,85,215857
+EMP101394,Ari Utami,,3,3,4,4,2,2,1,3,4,49,149080
+EMP101395,Nabila Saputra Setiawan,,1,4,3,4,2,2,1,1,1,111,765927
+EMP101396,Gita Ginting,,3,4,5,3,5,1,1,1,4,36,406239
+EMP101397,Gita Wijaya Setiawan,,4,2,4,1,2,2,2,1,3,53,754546
+EMP101398,Umar Kusuma,,4,4,3,1,4,1,3,3,2,42,418828
+EMP101399,Utami Rohman,,2,1,2,1,4,3,1,4,4,2,929387
+EMP101400,Rendra Rachman Wijaya,,1,2,2,1,3,3,3,3,4,18,659231
+EMP101401,Evi Situmorang,,2,3,1,1,4,1,3,1,2,74,437145
+EMP101402,Wulan Dharma Nugroho,,3,2,2,3,2,1,1,3,3,86,984541
+EMP101403,Oktavia Jatmiko Utami,,2,2,2,5,3,3,3,1,5,71,119343
+EMP101404,Rizky Salsabila,,4,3,5,3,2,1,2,3,6,43,775002
+EMP101405,Putri Purnama,,3,2,5,1,5,2,1,1,6,71,970175
+EMP101406,Ahmad Zulfikar Rohman,,2,1,5,1,3,3,1,2,3,82,797928
+EMP101407,Zahra Jatmiko Hartanto,,4,4,3,1,2,2,3,1,2,23,376772
+EMP101408,Vania Aji Ginting,,2,2,3,6,3,2,3,3,2,53,951474
+EMP101409,Rendra Utama Handayani,,1,3,3,5,4,2,3,4,4,58,265754
+EMP101410,Andi Ganesha Handayani,,2,4,3,5,3,1,3,3,1,46,346213
+EMP101411,Dwi Firmansyah,,3,1,5,6,1,1,2,2,1,73,333495
+EMP101412,Mahendra Kurniawan,,2,4,4,3,4,2,1,3,1,38,156500
+EMP101413,Nugroho Fadillah Rahmawati,,2,1,5,6,2,1,3,1,4,24,530852
+EMP101414,Rafa Lestari,,2,1,4,3,5,3,2,2,5,39,398371
+EMP101415,Hadi Adi Anggara,,2,1,6,3,1,3,2,2,2,58,709064
+EMP101416,Prasetyo Tri Halim,,1,2,1,4,1,2,1,1,1,1,932856
+EMP101417,Arif Halim,,1,1,3,6,5,1,3,1,6,34,796234
+EMP101418,Kartika Kurniawan,,4,4,6,1,4,1,2,4,5,3,147398
+EMP101419,Bella Siregar,,1,2,1,6,2,3,3,1,4,13,395992
+EMP101420,Cahyo Rachman Indrawan,,1,3,3,2,4,3,2,4,1,73,580080
+EMP101421,Galih Santoso,,2,2,3,6,4,1,3,2,6,81,340126
+EMP101422,Hana Pratomo,,3,1,4,5,2,3,1,4,2,33,352664
+EMP101423,Galih Gunawan,,2,3,2,1,3,3,2,3,5,69,960647
+EMP101424,Yoga Aji Hidayat,,3,1,6,3,3,1,3,3,6,78,322449
+EMP101425,Wahyu Aji Situmorang,,1,3,5,4,2,1,2,4,6,53,127983
+EMP101426,Utami Yulianto,,4,2,6,5,3,1,2,1,3,27,246002
+EMP101427,Arif Pratama,,3,4,5,4,1,2,3,3,5,53,201332
+EMP101428,Umar Wibowo,,1,2,2,3,4,2,3,1,3,90,102844
+EMP101429,Yoga Erlangga Hidayat,,3,4,4,1,5,3,1,1,6,40,826954
+EMP101430,Iman Fauziah,,4,1,4,6,5,1,1,2,1,22,775059
+EMP101431,Valdo Rahmawati,,4,1,1,4,4,1,2,1,2,68,836128
+EMP101432,Lestari Hasibuan,,3,2,5,4,3,2,2,1,5,45,256531
+EMP101433,Anisa Zulfikar Rohman,,2,1,2,3,2,3,2,4,6,61,243062
+EMP101434,Vania Rachman Gunawan,,3,4,6,4,4,1,3,1,6,55,322171
+EMP101435,Bayu Anggara,,2,1,3,4,4,1,2,1,4,25,324330
+EMP101436,Nabila Hartanto,,1,4,4,2,4,3,2,1,1,66,137169
+EMP101437,Kurnia Zulfikar Indrawan,,3,3,4,6,5,2,3,1,4,25,430009
+EMP101438,Kurnia Fauziah,,2,1,1,5,2,1,1,4,5,7,900204
+EMP101439,Oka Anugrah Hidayat,,1,4,5,5,1,1,2,3,3,57,316747
+EMP101440,Ari Lestari Fauziah,,1,2,1,2,5,2,2,2,3,62,970884
+EMP101441,Mahendra Pradana,,3,1,6,1,5,3,1,3,1,103,917908
+EMP101442,Valdo Saputra Fauziah,,4,4,2,5,1,1,1,4,1,65,408683
+EMP101443,Teguh Iqbal Siregar,,2,3,2,6,1,2,2,2,1,54,860755
+EMP101444,Rizky Siregar,,1,3,4,1,2,3,2,3,5,63,307091
+EMP101445,Ayunda Qolbi Hartanto,,1,1,2,3,5,1,3,1,5,45,427876
+EMP101446,Fitri Adi Pratomo,,2,4,4,1,2,2,1,4,3,67,779300
+EMP101447,Rendra Pramudita Situmorang,,3,3,4,6,5,1,1,4,1,52,242430
+EMP101448,Dewi Herlambang,,3,2,4,4,5,3,3,1,3,5,305213
+EMP101449,Bella Hidayat,,4,2,1,3,1,1,1,2,4,73,678396
+EMP101450,Fajar Iqbal Permadi,,3,4,4,2,5,1,2,3,4,42,446766
+EMP101451,Bayu Kusuma,,1,2,1,1,2,1,1,2,5,103,981956
+EMP101452,Dimas Wibowo,,2,3,3,1,2,2,2,2,6,25,149085
+EMP101453,Adi Saputra Pratomo,,3,4,4,6,4,3,1,2,3,68,939508
+EMP101454,Utami Adi Siregar,,1,3,5,1,3,2,2,1,2,45,312842
+EMP101455,Galih Mahardika Wibowo,,3,1,6,2,1,3,1,4,3,68,224922
+EMP101456,Nurlita Rachman Ramadhan,,3,1,4,5,4,3,3,4,1,59,823516
+EMP101457,Arif Simanjuntak,,3,1,5,6,5,3,2,3,1,93,105267
+EMP101458,Oktavia Kusuma Pratama,,3,4,4,1,5,2,2,3,2,22,761657
+EMP101459,Hadi Qolbi Ananda,,4,4,2,5,1,1,3,1,1,63,235841
+EMP101460,Zahra Fadillah Saputra,,1,4,4,6,1,3,1,2,6,66,748578
+EMP101461,Dimas Halim Wijaya,,4,1,5,5,1,1,1,3,2,76,643168
+EMP101462,Dwi Pratomo,,3,1,3,1,1,1,2,3,4,50,341362
+EMP101463,Budi Mahendra,,4,1,5,3,5,3,3,3,3,2,787531
+EMP101464,Arif Utami,,3,4,1,2,2,3,2,3,2,37,220959
+EMP101465,Oka Lestari Simanjuntak,,2,3,6,2,4,3,3,3,2,84,411583
+EMP101466,Kartika Ramadhan,,1,4,1,4,3,3,1,3,5,97,646496
+EMP101467,Bella Aji Siregar,,1,4,2,5,1,1,1,2,3,35,117243
+EMP101468,Yuni Nugroho,,4,4,6,5,1,2,1,4,6,10,465492
+EMP101469,Rizka Wijaya Kurniawan,,4,3,1,2,1,1,1,2,3,32,867698
+EMP101470,Citra Simanjuntak,,2,4,4,2,1,1,1,1,1,76,419209
+EMP101471,Rani Hidayat,,1,4,5,4,3,3,1,4,3,46,329381
+EMP101472,Mahendra Baskara Purnama,,2,1,5,5,2,1,1,2,4,41,165090
+EMP101473,Kurnia Lukman,,3,1,6,3,4,1,2,3,4,110,215548
+EMP101474,Hadi Ramadhan,,3,2,2,2,1,1,3,2,3,28,439908
+EMP101475,Rifqi Permadi,,1,1,5,1,1,2,1,2,3,51,196972
+EMP101476,Mahendra Wijaya Pamungkas,,2,2,2,2,2,2,1,1,4,95,520267
+EMP101477,Putri Indrawan,,4,3,1,3,2,3,2,3,2,16,114271
+EMP101478,Ayunda Wibowo,,3,1,3,5,1,2,3,1,2,79,785899
+EMP101479,Oka Wibowo,,2,4,3,5,2,3,3,4,1,9,868709
+EMP101480,Rizki Yudhistira Hartanto,,2,4,6,5,4,1,1,1,6,45,373519
+EMP101481,Bella Situmorang,,2,1,2,2,5,1,3,4,2,88,985645
+EMP101482,Dimas Suharto,,2,1,2,6,3,2,3,3,3,43,664313
+EMP101483,Ayunda Iqbal Fauziah,,3,4,2,5,4,2,1,2,6,79,835217
+EMP101484,Oka Qolbi Mahendra,,1,1,1,4,5,2,3,2,5,15,852731
+EMP101485,Maya Salsabila,,4,1,2,1,4,2,2,1,5,37,313525
+EMP101486,Yoga Utama Utami,,2,1,4,5,1,2,2,1,5,17,188617
+EMP101487,Rizka Siregar,,3,2,6,6,2,3,2,2,3,47,637865
+EMP101488,Yuni Tri Maulida,,4,3,4,4,1,1,2,1,2,13,174989
+EMP101489,Anisa Adi Anggara,,4,1,1,4,3,1,1,1,4,35,215547
+EMP101490,Rizki Nabila Utami,,4,1,2,4,5,1,1,3,3,81,219124
+EMP101491,Umar Yudhistira Maulida,,3,3,4,1,5,1,1,3,3,64,744739
+EMP101492,Bella Salsabila,,4,3,2,6,5,2,3,4,5,54,832106
+EMP101493,Rani Utama Nugroho,,2,4,1,1,1,2,1,2,4,45,588951
+EMP101494,Rafa Halim Maulida,,2,3,6,5,3,3,2,2,5,39,412724
+EMP101495,Gita Yudhistira Maulida,,3,4,2,5,2,3,2,1,5,13,202520
+EMP101496,Tania Zulfikar Kurniawan,,1,3,1,5,4,1,3,1,2,70,274914
+EMP101497,Bayu Santoso,,3,1,6,1,5,2,1,1,1,65,143513
+EMP101498,Luthfi Santoso,,3,3,1,4,1,3,1,2,6,82,783745
+EMP101499,Hadi Sinaga,,1,3,5,4,1,3,1,4,2,65,599805
+EMP101500,Joko Ganesha Pratomo,,3,1,2,6,5,2,1,1,3,48,170267
+EMP101501,Dinda Utama Salsabila,,2,1,3,6,1,2,3,1,3,35,623609
+EMP101502,Ayunda Gunawan,,2,4,1,3,5,3,3,3,2,28,657451
+EMP101503,Citra Indrawan,,3,2,2,1,1,3,2,3,4,54,867885
+EMP101504,Putri Lukman,,1,3,5,1,1,1,1,1,2,71,227854
+EMP101505,Vania Jatmiko Kusuma,,1,2,1,4,3,1,1,4,6,21,967464
+EMP101506,Putri Dharma Rahmawati,,2,2,3,1,4,3,2,3,5,77,573393
+EMP101507,Hadi Herlambang,,3,4,4,4,4,3,2,2,4,72,540413
+EMP101508,Iman Zulfikar,,3,3,5,6,3,2,2,1,5,78,940310
+EMP101509,Satya Tri Kusuma,,3,2,6,5,4,3,1,3,4,6,578955
+EMP101510,Fitri Rachman Gunawan,,1,1,6,3,4,2,3,1,3,32,234893
+EMP101511,Indra Rachman Siregar,,3,3,6,4,4,1,3,2,3,65,540317
+EMP101512,Vania Permadi,,3,1,5,1,4,3,2,2,2,24,932598
+EMP101513,Ayu Gunawan,,2,1,3,4,3,1,2,1,6,27,622286
+EMP101514,Julia Pramudita Situmorang,,4,1,5,6,3,2,1,4,5,65,516900
+EMP101515,Intan Indrawan,,4,3,5,3,2,3,1,3,3,59,496299
+EMP101516,Galih Pradana,,2,3,6,6,3,2,1,1,5,78,846272
+EMP101517,Galih Saputra Nugroho,,2,3,2,4,2,3,2,3,4,20,543863
+EMP101518,Ayunda Mahendra,,3,1,2,2,5,3,1,2,1,25,617477
+EMP101519,Rendra Baskara Pamungkas,,2,2,5,3,1,2,2,1,1,30,420053
+EMP101520,Dimas Tamba,,1,2,3,2,3,2,1,1,1,75,228900
+EMP101521,Utami Utami,,1,4,5,3,3,2,3,4,6,92,434338
+EMP101522,Lestari Permadi,,3,4,5,5,3,2,3,2,6,19,601587
+EMP101523,Maya Halim,,1,2,4,1,2,1,1,3,2,17,298254
+EMP101524,Putri Jatmiko Salsabila,,3,1,6,4,2,2,1,2,3,35,866782
+EMP101525,Rani Aji Indrawan,,3,3,3,5,1,2,2,4,4,74,695961
+EMP101526,Ayu Maulida,,1,1,6,4,2,2,2,2,6,43,786635
+EMP101527,Eko Nugroho,,2,3,4,6,4,3,3,3,4,20,315676
+EMP101528,Wahyu Nabila Anggara,,2,1,5,6,2,1,1,1,6,96,345469
+EMP101529,Dian Qolbi Santoso,,3,1,3,2,2,1,3,4,6,27,499052
+EMP101530,Bella Ananda,,2,4,1,2,3,2,2,1,6,37,818397
+EMP101531,Cahyo Firmansyah,,1,2,2,3,1,2,1,3,4,55,103251
+EMP101532,Nurlita Lestari,,4,3,2,2,3,2,3,2,4,17,832155
+EMP101533,Fajar Hasibuan,,3,2,1,5,4,1,2,1,3,25,607546
+EMP101534,Nadia Kusuma Zulfikar,,4,1,5,2,2,3,3,2,5,76,522473
+EMP101535,Dimas Halim,,2,1,2,5,4,2,2,1,3,47,633566
+EMP101536,Indra Syahputra,,2,4,5,5,5,3,1,2,3,25,690197
+EMP101537,Kartika Candra Firmansyah,,3,4,3,4,4,3,1,2,3,37,826768
+EMP101538,Satya Sinaga,,1,1,5,1,1,3,3,4,3,12,862919
+EMP101539,Intan Wijaya Ridwan,,2,3,5,3,4,3,2,1,1,87,819504
+EMP101540,Oktavia Herlambang,,4,3,3,1,3,1,1,2,1,82,423047
+EMP101541,Ayunda Adi Kurniawan,,4,2,6,6,3,3,1,1,5,47,125598
+EMP101542,Rama Firmansyah,,4,4,6,3,3,2,3,1,6,54,324502
+EMP101543,Iman Rahmawati,,4,2,2,2,1,3,3,4,2,91,461752
+EMP101544,Dewi Wibowo,,1,2,2,5,1,2,2,4,4,78,651639
+EMP101545,Fajar Santoso,,3,1,2,5,1,2,1,3,5,52,646909
+EMP101546,Zahra Candra Salsabila,,1,2,3,5,4,3,2,3,2,26,726563
+EMP101547,Iman Maulana,,4,1,5,5,3,1,2,3,1,12,736928
+EMP101548,Fitri Saputra Tamba,,3,4,4,3,2,1,3,4,2,43,768828
+EMP101549,Cahyo Zulfikar Utami,,4,2,1,1,2,1,2,2,4,13,538733
+EMP101550,Ayunda Firmansyah,,4,2,3,5,5,2,3,1,4,59,187663
+EMP101551,Hana Saputra Pamungkas,,2,1,5,6,2,3,1,4,3,39,618057
+EMP101552,Evi Dharma Pamungkas,,3,4,5,3,1,2,1,3,1,61,231002
+EMP101553,Oktavia Rohman,,4,4,4,4,5,3,2,1,5,42,716628
+EMP101554,Adit Jatmiko Setiawan,,2,2,4,5,5,3,3,1,3,61,500535
+EMP101555,Bayu Nabila Lestari,,2,1,2,3,2,3,2,1,4,32,127466
+EMP101556,Satya Pramudita Rahmawati,,2,2,6,1,3,3,3,4,3,64,665264
+EMP101557,Rendra Zulfikar Wijaya,,4,2,4,3,2,1,3,4,5,7,712253
+EMP101558,Novi Halim Ramadhan,,2,1,6,1,5,2,2,4,2,87,911728
+EMP101559,Hana Lestari Wijaya,,2,4,2,2,2,1,1,4,5,55,776080
+EMP101560,Gita Maulida,,1,1,2,6,4,3,2,2,3,84,893582
+EMP101561,Mahendra Qolbi Pamungkas,,4,3,5,3,3,3,1,2,3,82,942426
+EMP101562,Cahyo Lukman,,4,3,3,3,4,2,3,2,4,80,478050
+EMP101563,Nugroho Yudhistira Nugroho,,2,3,6,4,3,2,1,4,2,90,993560
+EMP101564,Prasetyo Pramudita Purnama,,1,1,6,1,1,3,3,1,3,37,752326
+EMP101565,Oka Subekti,,2,2,6,4,1,1,1,1,4,82,831764
+EMP101566,Iman Purnama,,4,4,2,2,3,2,3,1,3,39,155181
+EMP101567,Putri Santoso,,1,1,1,6,2,2,1,2,5,62,176518
+EMP101568,Anisa Setiawan,,1,4,2,1,3,2,3,1,3,35,476705
+EMP101569,Cahyo Pramudita Nugroho,,2,1,4,2,2,3,2,3,2,16,856132
+EMP101570,Putri Zulfikar Lukman,,1,3,5,6,4,1,3,3,4,52,685119
+EMP101571,Nurlita Pratomo,,3,4,3,5,5,1,1,3,4,56,930303
+EMP101572,Kartika Mahardika Sinaga,,4,2,5,5,3,1,2,3,6,49,108992
+EMP101573,Citra Aji Sinaga,,1,4,2,3,3,2,2,2,3,69,568044
+EMP101574,Nurlita Zulfikar Zulfikar,,1,2,2,2,3,2,3,2,4,90,420764
+EMP101575,Tania Halim Halim,,1,2,2,4,5,2,3,2,4,32,126357
+EMP101576,Putri Rachman Ginting,,3,2,4,6,3,3,2,3,5,46,358685
+EMP101577,Rifqi Ganesha Kusuma,,2,3,5,4,4,1,1,1,6,61,102495
+EMP101578,Adit Rahmawati,,2,4,3,5,5,2,3,1,4,48,210878
+EMP101579,Evi Lukman,,4,2,3,4,4,2,1,4,4,41,976486
+EMP101580,Wulan Iqbal Firmansyah,,4,1,3,4,2,2,3,3,3,20,471090
+EMP101581,Fitri Handayani,,4,4,1,5,1,1,2,4,1,69,981467
+EMP101582,Kartika Nabila Wibowo,,1,4,5,3,1,3,3,1,3,65,689473
+EMP101583,Rani Salsabila,,4,1,5,6,3,1,2,4,5,20,364254
+EMP101584,Dimas Saputra,,1,3,2,3,5,1,1,1,6,42,243207
+EMP101585,Yoga Hasibuan,,4,4,2,1,3,1,1,2,5,55,751181
+EMP101586,Kurnia Yulianto,,2,1,4,2,3,3,3,3,4,24,837058
+EMP101587,Rizki Dharma Lukman,,2,3,3,2,4,2,2,2,4,88,907379
+EMP101588,Joko Jatmiko Handayani,,4,3,5,1,5,2,1,2,2,108,382945
+EMP101589,Joko Adi Utami,,4,1,6,2,5,3,2,3,6,99,179217
+EMP101590,Citra Nugroho,,3,2,1,5,5,3,1,4,3,52,206900
+EMP101591,Andi Situmorang,,3,2,2,5,1,3,1,3,2,71,405627
+EMP101592,Luthfi Syahputra,,4,1,1,4,5,2,2,4,1,34,623834
+EMP101593,Citra Subekti,,4,1,1,6,4,3,3,1,3,45,453324
+EMP101594,Nugroho Rachman Pratomo,,4,2,6,4,3,3,2,1,6,61,951941
+EMP101595,Yoga Erlangga Pratomo,,4,4,4,1,5,2,1,4,1,41,291931
+EMP101596,Dimas Dharma Subekti,,1,2,3,2,4,1,3,1,1,50,845982
+EMP101597,Wahyu Hartanto,,3,2,5,3,3,3,3,4,5,52,147978
+EMP101598,Citra Halim,,4,1,2,4,5,3,1,3,1,18,673295
+EMP101599,Fitri Aji Permadi,,2,4,1,3,2,3,3,1,1,64,931175
+EMP101600,Ari Qolbi Simanjuntak,,3,2,6,2,2,1,3,4,5,54,512553
+EMP101601,Ayunda Pratama,,1,3,2,2,2,1,3,1,1,33,379000
+EMP101602,Zaki Erlangga Hartanto,,2,2,4,5,4,3,1,4,2,43,228317
+EMP101603,Andi Jatmiko Hidayat,,3,1,3,5,1,2,3,3,5,61,663627
+EMP101604,Anisa Anugrah Santoso,,4,2,5,3,1,2,1,1,5,43,553651
+EMP101605,Ahmad Nabila Wijaya,,4,4,2,2,2,3,3,2,2,57,284787
+EMP101606,Nugroho Siregar,,1,1,3,3,3,3,1,1,6,18,559032
+EMP101607,Rama Indrawan,,4,1,2,1,1,2,1,2,1,74,179895
+EMP101608,Budi Iqbal Pamungkas,,4,3,3,3,2,2,1,4,1,75,595681
+EMP101609,Zahra Erlangga Siregar,,4,3,2,3,2,3,1,3,4,68,819679
+EMP101610,Kartika Hasibuan,,2,1,6,1,3,1,3,2,3,20,309633
+EMP101611,Arif Setiawan,,4,3,2,3,2,2,3,2,3,96,518102
+EMP101612,Tania Situmorang,,2,3,6,2,2,1,3,4,3,37,156065
+EMP101613,Mahendra Saputra,,2,3,4,1,3,3,1,2,3,68,606176
+EMP101614,Rendra Rohman,,4,4,2,4,3,2,3,3,4,57,655316
+EMP101615,Gita Pamungkas,,3,1,3,5,5,2,1,4,5,23,258542
+EMP101616,Zaki Lestari,,1,3,1,3,4,1,1,3,3,97,998572
+EMP101617,Satya Dharma Sinaga,,2,2,4,4,5,1,1,1,1,43,422198
+EMP101618,Julia Wijaya Santoso,,3,4,5,5,5,1,1,2,5,88,312246
+EMP101619,Fitri Jatmiko Siregar,,4,2,5,3,4,3,1,4,5,4,258276
+EMP101620,Galih Salsabila,,1,3,1,2,2,2,1,1,1,61,308297
+EMP101621,Citra Lukman,,1,2,1,5,3,1,2,3,2,45,269155
+EMP101622,Joko Lestari Nugroho,,3,4,5,5,5,1,3,4,6,60,285013
+EMP101623,Mahendra Baskara Handayani,,2,1,5,2,4,1,3,2,2,24,849954
+EMP101624,Yoga Fauziah,,2,1,4,3,4,1,2,2,6,48,947363
+EMP101625,Rama Siregar,,1,3,6,5,1,3,2,4,2,28,667897
+EMP101626,Ahmad Purnama,,3,1,2,1,1,3,3,1,5,55,291123
+EMP101627,Zahra Ramadhan,,4,3,1,5,2,2,3,1,6,84,758311
+EMP101628,Arif Lestari Hartanto,,3,2,4,2,3,1,1,2,4,74,411457
+EMP101629,Wulan Indrawan,,3,4,2,3,4,3,3,4,3,37,216296
+EMP101630,Rendra Firmansyah,,2,3,3,3,2,3,2,2,5,34,509860
+EMP101631,Ari Halim Suharto,,3,4,5,6,1,2,3,4,5,73,706894
+EMP101632,Putri Ginting,,4,3,6,3,1,2,3,3,5,74,167042
+EMP101633,Intan Saputra Rohman,,3,1,4,1,1,3,3,3,6,27,834435
+EMP101634,Maya Hartanto,,2,2,1,4,4,2,2,3,3,53,641047
+EMP101635,Rama Erlangga Ginting,,2,4,5,1,2,3,1,1,4,64,736277
+EMP101636,Rizka Aji Putra,,2,1,2,3,1,2,1,2,2,32,176843
+EMP101637,Joko Maulana,,1,1,3,4,4,2,1,1,1,54,205763
+EMP101638,Prasetyo Rachman Halim,,3,2,5,1,4,3,3,4,4,48,525156
+EMP101639,Rani Dharma Sinaga,,1,1,4,5,5,1,3,1,6,65,559850
+EMP101640,Rendra Zulfikar,,1,1,5,6,1,1,2,4,3,54,175414
+EMP101641,Wahyu Herlambang,,4,2,6,4,3,2,1,3,6,46,675979
+EMP101642,Rani Iqbal Tamba,,3,2,4,3,5,2,1,1,6,28,966159
+EMP101643,Nurlita Santoso,,3,4,6,4,3,3,1,2,1,42,255062
+EMP101644,Hadi Purnama,,1,3,2,6,1,1,3,2,6,33,349173
+EMP101645,Bella Tri Wibowo,,1,1,3,2,3,2,3,1,5,57,436416
+EMP101646,Rizki Utama Permadi,,1,1,6,6,2,3,3,2,6,53,608602
+EMP101647,Nugroho Erlangga Wijaya,,2,4,1,1,2,2,3,1,6,38,133437
+EMP101648,Wulan Nabila Pratama,,3,1,4,3,2,2,3,3,4,51,452880
+EMP101649,Eko Ginting,,4,1,2,4,2,3,3,4,4,42,497808
+EMP101650,Adit Wibowo,,3,2,2,4,4,3,2,2,3,51,883091
+EMP101651,Hana Siregar,,1,1,6,4,1,1,2,2,4,20,468124
+EMP101652,Ayu Fauziah,,4,1,1,1,4,1,1,1,5,31,338921
+EMP101653,Kurnia Lestari Mahendra,,2,3,2,4,5,2,2,2,4,11,843460
+EMP101654,Bayu Pramudita Nugroho,,4,2,2,2,3,2,3,2,4,34,253789
+EMP101655,Dimas Zulfikar,,2,2,5,6,4,1,2,4,6,29,555153
+EMP101656,Vania Erlangga Ridwan,,3,3,5,6,2,2,3,4,3,63,450744
+EMP101657,Teguh Syahputra,,3,1,6,3,5,2,2,1,5,7,186165
+EMP101658,Yoga Halim Wijaya,,1,1,6,4,3,1,3,2,6,91,725845
+EMP101659,Iman Putra,,4,3,6,2,3,2,2,2,6,84,970342
+EMP101660,Rizka Yulianto,,4,3,4,5,2,2,2,2,1,64,386516
+EMP101661,Adit Yulianto,,3,1,3,5,2,1,3,2,2,20,423677
+EMP101662,Oktavia Rachman Wibowo,,4,4,6,3,3,1,1,2,3,49,736082
+EMP101663,Ahmad Lukman,,3,1,6,4,3,2,2,2,4,44,670441
+EMP101664,Oka Dharma Pamungkas,,4,1,6,1,2,2,2,2,2,54,562466
+EMP101665,Satya Salsabila,,2,4,4,1,1,1,1,1,2,48,757488
+EMP101666,Zahra Ganesha Hidayat,,3,2,4,6,1,3,2,4,3,63,364099
+EMP101667,Dinda Qolbi Siregar,,1,4,1,4,5,2,2,1,3,5,534505
+EMP101668,Hana Situmorang,,2,4,5,1,3,1,2,2,5,62,131765
+EMP101669,Dimas Rahmawati,,2,4,2,3,5,3,2,4,5,41,249672
+EMP101670,Mahendra Erlangga Lukman,,1,3,3,1,3,2,2,4,1,48,474788
+EMP101671,Fitri Ramadhan,,4,1,1,2,3,3,2,3,6,47,984758
+EMP101672,Iman Hasibuan,,2,2,2,5,2,1,3,2,2,52,160202
+EMP101673,Bayu Salsabila,,3,2,1,3,2,3,1,2,1,41,822625
+EMP101674,Ahmad Lestari,,3,2,5,4,4,1,1,1,5,78,850463
+EMP101675,Mahendra Indrawan,,1,4,4,1,1,3,2,3,2,43,631789
+EMP101676,Andi Pamungkas,,3,1,6,5,5,1,1,2,3,20,459925
+EMP101677,Sari Baskara Lestari,,4,3,1,4,3,2,1,4,6,89,502497
+EMP101678,Arif Indrawan,,2,3,3,5,3,1,2,2,3,26,106582
+EMP101679,Dinda Rohman,,1,1,3,4,2,2,2,2,3,52,336327
+EMP101680,Zaki Santoso,,1,3,2,4,1,2,1,2,5,26,183740
+EMP101681,Oktavia Fadillah Firmansyah,,1,4,3,5,2,1,1,4,6,49,229543
+EMP101682,Ayu Adi Putra,,4,2,4,3,1,2,2,3,3,72,303727
+EMP101683,Ahmad Firmansyah,,3,1,3,1,1,2,3,1,5,27,418747
+EMP101684,Bella Utama Ramadhan,,3,1,1,1,3,3,2,4,2,98,632379
+EMP101685,Zahra Saputra,,4,2,3,4,5,2,3,2,2,71,433954
+EMP101686,Prasetyo Suharto,,3,3,1,2,3,1,3,4,2,56,396418
+EMP101687,Rizka Wijaya Gunawan,,2,1,5,4,5,2,2,3,6,68,547515
+EMP101688,Intan Santoso,,4,1,1,5,5,3,3,3,4,67,376264
+EMP101689,Rendra Yudhistira Suharto,,1,2,6,3,4,2,2,2,3,79,745487
+EMP101690,Utami Gunawan,,4,2,4,3,2,1,1,1,2,27,742585
+EMP101691,Nabila Siregar,,2,3,2,4,3,3,3,3,4,55,707188
+EMP101692,Cahyo Aji Sinaga,,1,3,5,1,1,1,1,4,6,35,647566
+EMP101693,Hadi Kurniawan,,1,4,1,5,4,1,2,4,5,59,142680
+EMP101694,Intan Kusuma Wijaya,,3,3,6,3,4,3,2,1,5,41,788180
+EMP101695,Rama Nabila Ridwan,,3,3,3,2,4,2,2,3,1,65,860664
+EMP101696,Budi Lestari,,3,2,3,3,5,3,2,2,3,43,804911
+EMP101697,Nadia Pamungkas,,3,4,2,1,2,3,3,2,6,52,484105
+EMP101698,Adit Yudhistira Pratama,,2,4,4,1,1,3,2,1,6,56,586471
+EMP101699,Zaki Baskara Rahmawati,,2,1,4,5,2,1,2,2,4,34,732800
+EMP101700,Nabila Indrawan,,2,2,5,5,2,2,3,4,4,101,139865
+EMP101701,Mahendra Saputra Herlambang,,3,1,1,3,2,1,2,3,6,133,906745
+EMP101702,Fitri Mahardika Gunawan,,3,3,1,1,1,3,3,2,5,23,344484
+EMP101703,Ayunda Hasibuan,,3,1,4,5,1,3,3,1,2,1,546679
+EMP101704,Novi Ramadhan,,1,3,4,3,1,1,3,1,6,17,814933
+EMP101705,Lestari Purnama,,1,3,4,2,5,2,1,1,1,64,129606
+EMP101706,Lestari Utama Santoso,,4,4,5,4,3,3,2,2,3,56,701908
+EMP101707,Hana Maulida,,3,4,2,6,3,2,3,3,5,55,926498
+EMP101708,Rani Anugrah Maulana,,4,2,5,1,5,1,2,1,4,6,507472
+EMP101709,Dinda Ginting,,3,2,2,2,4,2,3,1,3,25,866038
+EMP101710,Arif Anggara,,3,1,5,2,4,3,1,4,4,128,860491
+EMP101711,Lestari Saputra Gunawan,,1,1,3,6,2,2,2,4,6,51,445834
+EMP101712,Luthfi Nugroho,,2,3,2,1,1,3,1,3,1,42,516552
+EMP101713,Nabila Yudhistira Kusuma,,2,3,4,5,2,1,1,4,2,69,171241
+EMP101714,Bella Setiawan,,1,4,5,6,5,3,2,2,1,52,577380
+EMP101715,Ayunda Rahmawati,,4,1,4,4,4,1,2,3,1,61,182952
+EMP101716,Kartika Handayani,,1,2,1,5,3,3,1,2,3,126,223879
+EMP101717,Fitri Zulfikar,,4,2,2,1,2,2,2,3,1,28,971588
+EMP101718,Intan Kurniawan,,3,4,4,3,1,2,2,2,1,28,726281
+EMP101719,Hadi Yudhistira Yulianto,,3,3,4,6,1,2,2,4,2,61,592707
+EMP101720,Teguh Dharma Wijaya,,3,2,2,5,3,2,3,3,4,48,407736
+EMP101721,Julia Halim Suharto,,1,1,6,3,2,1,2,1,6,35,206412
+EMP101722,Dian Indrawan,,2,1,3,3,2,1,2,4,2,46,676282
+EMP101723,Satya Rohman,,2,3,1,6,4,1,1,2,4,39,356520
+EMP101724,Dwi Tri Subekti,,2,4,2,5,2,3,3,1,1,2,178443
+EMP101725,Bayu Ganesha Ananda,,1,2,3,3,1,2,2,4,1,29,664507
+EMP101726,Dimas Anggara,,1,3,4,3,3,1,1,2,5,80,201608
+EMP101727,Rendra Kusuma Subekti,,1,1,4,4,4,3,1,2,2,26,833861
+EMP101728,Hana Ganesha Pradana,,1,2,1,1,5,3,1,1,5,56,189452
+EMP101729,Oktavia Wijaya,,2,3,5,6,4,3,2,4,4,32,156965
+EMP101730,Indra Salsabila,,2,4,6,3,2,1,2,4,1,38,817484
+EMP101731,Fajar Rohman,,2,1,3,2,5,1,3,4,6,85,634007
+EMP101732,Oka Siregar,,4,2,5,5,5,2,2,3,4,47,619282
+EMP101733,Galih Yudhistira Situmorang,,3,4,3,4,1,2,2,1,5,23,671861
+EMP101734,Utami Adi Setiawan,,1,2,5,1,5,2,2,1,6,62,294478
+EMP101735,Citra Fadillah Saputra,,2,2,6,4,4,2,3,1,4,66,697039
+EMP101736,Novi Lestari Pamungkas,,4,2,4,6,4,3,2,1,1,73,462905
+EMP101737,Oktavia Halim Lestari,,3,2,1,2,4,2,2,4,2,48,321101
+EMP101738,Anisa Kusuma Hidayat,,3,3,2,2,5,2,1,3,4,61,916519
+EMP101739,Wulan Rahmawati,,1,4,1,3,4,1,2,3,1,61,300794
+EMP101740,Hadi Setiawan,,3,4,5,1,3,1,2,4,6,56,853760
+EMP101741,Satya Indrawan,,2,2,4,5,5,3,2,2,4,113,764453
+EMP101742,Arif Ridwan,,1,1,2,6,4,2,1,1,5,43,765830
+EMP101743,Iman Setiawan,,3,3,2,1,5,1,2,2,3,12,539698
+EMP101744,Putri Saputra Saputra,,3,3,2,6,2,1,1,3,1,48,721837
+EMP101745,Utami Pramudita Kurniawan,,4,4,2,3,2,3,2,4,3,66,907564
+EMP101746,Rani Tri Kusuma,,2,1,2,1,5,2,2,2,6,44,627672
+EMP101747,Bayu Erlangga Permadi,,4,1,3,6,1,3,2,1,5,39,933348
+EMP101748,Wulan Rohman,,4,1,3,1,5,1,1,4,3,58,149449
+EMP101749,Novi Adi Subekti,,1,4,4,3,5,2,1,1,2,22,827493
+EMP101750,Oktavia Ridwan,,1,4,4,4,1,2,2,3,2,86,163771
+EMP101751,Ayu Salsabila,,4,2,4,6,2,2,2,2,1,43,431926
+EMP101752,Julia Dharma Situmorang,,2,4,1,1,4,1,3,4,1,72,439990
+EMP101753,Adi Tamba,,4,1,1,4,4,2,2,1,4,116,943954
+EMP101754,Luthfi Mahendra,,1,2,5,5,1,3,3,3,2,39,378778
+EMP101755,Rafa Utami,,1,3,2,5,2,3,2,1,5,10,754502
+EMP101756,Rendra Hasibuan,,3,2,2,5,3,1,1,2,4,48,512859
+EMP101757,Rifqi Mahendra,,1,3,3,6,5,3,3,4,5,67,500269
+EMP101758,Indra Kusuma,,1,3,2,1,2,2,2,4,5,40,145024
+EMP101759,Gita Mahardika Permadi,,3,1,3,5,4,3,2,2,1,32,389839
+EMP101760,Budi Putra,,3,2,4,2,2,3,1,3,4,40,880327
+EMP101761,Yoga Hidayat,,2,3,1,5,3,2,1,3,1,57,695775
+EMP101762,Fajar Saputra,,2,3,1,1,3,2,2,3,4,35,507860
+EMP101763,Dewi Tri Halim,,1,2,5,1,2,3,3,1,1,43,178892
+EMP101764,Luthfi Jatmiko Firmansyah,,2,3,3,6,3,1,1,3,3,20,838276
+EMP101765,Utami Erlangga Herlambang,,4,2,6,4,1,1,3,2,3,56,264710
+EMP101766,Kartika Aji Pradana,,4,2,5,3,4,2,2,1,3,41,465967
+EMP101767,Nadia Maulida,,4,4,3,5,1,1,1,3,3,36,898578
+EMP101768,Satya Yudhistira Saputra,,4,3,3,6,1,2,2,3,2,79,876951
+EMP101769,Ayunda Saputra Rohman,,4,2,6,4,3,2,1,4,3,44,766209
+EMP101770,Zaki Qolbi Gunawan,,3,1,3,4,3,3,1,2,6,19,738085
+EMP101771,Zahra Dharma Firmansyah,,2,1,4,1,4,1,2,3,1,37,917919
+EMP101772,Tania Rachman Lestari,,4,2,6,4,4,2,3,2,1,75,116115
+EMP101773,Lestari Lestari Salsabila,,3,3,4,4,5,3,3,4,4,68,612324
+EMP101774,Arif Anugrah Putra,,3,3,6,4,2,2,1,3,3,36,946556
+EMP101775,Dimas Ginting,,1,1,6,5,2,1,1,1,5,102,186552
+EMP101776,Dwi Wijaya,,1,2,1,1,4,2,2,3,3,86,174940
+EMP101777,Sari Lukman,,2,1,5,4,3,1,1,2,4,14,206027
+EMP101778,Dian Wijaya Setiawan,,1,4,4,1,5,3,3,1,2,58,632580
+EMP101779,Rifqi Kusuma Kusuma,,1,4,4,6,1,3,2,1,6,8,165207
+EMP101780,Vania Utama Zulfikar,,2,1,3,1,3,3,2,3,6,87,150888
+EMP101781,Bella Candra Zulfikar,,3,2,3,6,5,3,3,2,6,62,562501
+EMP101782,Prasetyo Mahardika Herlambang,,4,4,5,3,5,2,2,4,6,37,802264
+EMP101783,Nurlita Suharto,,1,4,4,6,5,1,2,3,4,11,487495
+EMP101784,Dwi Indrawan,,2,3,5,1,2,1,2,3,5,42,969922
+EMP101785,Wulan Qolbi Yulianto,,3,3,6,5,3,2,2,1,3,51,722667
+EMP101786,Citra Mahardika Halim,,4,2,2,5,3,1,3,1,2,48,231236
+EMP101787,Zaki Subekti,,1,3,3,5,4,3,2,3,3,37,691605
+EMP101788,Valdo Qolbi Utami,,4,2,1,3,1,2,3,2,1,56,973879
+EMP101789,Oktavia Siregar,,1,4,3,3,2,2,2,3,5,42,822964
+EMP101790,Valdo Suharto,,2,3,6,4,2,3,2,4,5,46,201995
+EMP101791,Luthfi Salsabila,,3,2,5,6,1,1,3,1,6,24,342023
+EMP101792,Nadia Kusuma,,4,3,3,3,2,2,3,2,4,77,151829
+EMP101793,Umar Nugroho,,1,4,2,6,3,1,2,2,2,41,760737
+EMP101794,Nadia Tamba,,2,1,1,5,4,1,1,1,4,45,599027
+EMP101795,Ayunda Tamba,,3,4,2,4,2,2,3,1,1,64,917237
+EMP101796,Bayu Rahmawati,,3,3,4,2,5,2,1,1,2,61,837374
+EMP101797,Rani Ananda,,4,3,1,5,5,1,2,3,5,52,944887
+EMP101798,Bayu Situmorang,,4,4,1,2,2,2,3,1,6,69,980490
+EMP101799,Rani Ganesha Rohman,,1,2,6,4,1,1,1,1,5,116,316762
+EMP101800,Eko Fadillah Halim,,1,1,4,3,2,2,1,1,1,42,625732
+EMP101801,Cahyo Wibowo,,2,4,2,4,2,2,2,4,3,77,425810
+EMP101802,Tania Wijaya Lukman,,4,1,4,1,1,1,1,1,1,39,800688
+EMP101803,Bella Rachman Hidayat,,4,4,1,6,3,2,1,4,2,106,553339
+EMP101804,Nurlita Baskara Sinaga,,4,4,4,3,4,2,2,2,6,40,949324
+EMP101805,Evi Putra,,4,4,2,6,3,3,3,3,5,34,481290
+EMP101806,Indra Iqbal Lukman,,3,4,4,2,4,2,3,4,1,33,723724
+EMP101807,Satya Fauziah,,1,3,5,1,2,1,1,3,1,5,287440
+EMP101808,Dewi Rachman Simanjuntak,,2,4,6,2,3,1,2,3,5,64,785659
+EMP101809,Dinda Suharto,,1,2,4,6,3,1,3,4,2,17,971179
+EMP101810,Dwi Tri Hartanto,,1,3,5,6,4,3,1,1,4,85,455536
+EMP101811,Adit Yudhistira Putra,,1,2,4,5,5,1,3,2,6,8,648105
+EMP101812,Prasetyo Sinaga,,1,1,3,3,1,3,1,4,6,38,629943
+EMP101813,Julia Fauziah,,3,4,3,1,1,2,1,3,5,30,152294
+EMP101814,Rendra Wijaya Ramadhan,,2,4,3,1,1,3,3,1,3,7,204301
+EMP101815,Valdo Setiawan,,3,3,1,1,3,1,2,2,6,27,187717
+EMP101816,Rani Anugrah Zulfikar,,4,2,1,5,1,3,1,4,1,62,550793
+EMP101817,Luthfi Pramudita Pradana,,1,2,2,6,4,3,2,1,1,51,381920
+EMP101818,Oka Anugrah Kusuma,,2,3,2,2,2,2,1,2,5,67,441653
+EMP101819,Tania Ananda,,1,4,1,5,5,2,3,3,5,11,110064
+EMP101820,Dinda Zulfikar Rahmawati,,3,1,5,2,4,1,2,3,6,46,496132
+EMP101821,Umar Halim,,2,2,2,3,1,1,3,2,5,59,915156
+EMP101822,Nadia Anugrah Lestari,,1,2,2,3,3,3,1,4,5,61,216313
+EMP101823,Prasetyo Jatmiko Rohman,,4,4,5,1,2,1,3,1,4,56,486924
+EMP101824,Galih Zulfikar Permadi,,1,3,4,4,2,3,1,3,6,45,793411
+EMP101825,Adit Iqbal Santoso,,1,2,5,4,3,3,3,4,1,45,497158
+EMP101826,Yuni Situmorang,,1,2,5,2,5,2,1,4,2,47,967919
+EMP101827,Fajar Candra Zulfikar,,4,1,1,1,2,2,3,2,1,55,351399
+EMP101828,Eko Halim,,4,1,5,4,5,2,3,1,3,80,839190
+EMP101829,Umar Ganesha Maulida,,2,2,1,3,3,3,3,1,2,51,788522
+EMP101830,Umar Setiawan,,3,3,5,2,5,3,2,2,5,76,164533
+EMP101831,Cahyo Wijaya Lukman,,1,1,5,2,1,1,1,4,3,100,841435
+EMP101832,Eko Putra,,3,4,1,6,4,2,2,3,1,72,231089
+EMP101833,Zaki Lukman,,2,4,2,5,2,3,2,4,6,69,740526
+EMP101834,Fitri Subekti,,4,4,6,1,3,1,1,2,4,28,507441
+EMP101835,Yoga Kusuma,,2,1,6,6,5,3,3,1,3,55,281358
+EMP101836,Luthfi Ramadhan,,4,1,6,6,4,3,3,2,5,56,809600
+EMP101837,Zahra Iqbal Pradana,,1,4,1,2,3,2,1,3,2,37,443746
+EMP101838,Intan Aji Simanjuntak,,3,1,4,4,5,3,3,3,2,55,617712
+EMP101839,Rendra Mahendra,,2,4,3,2,4,2,2,4,2,53,662043
+EMP101840,Rizka Erlangga Ananda,,4,4,5,6,4,1,1,3,3,105,329348
+EMP101841,Bella Lukman,,4,3,2,6,3,2,1,1,3,25,479406
+EMP101842,Luthfi Baskara Saputra,,2,2,3,4,4,2,2,3,3,6,206415
+EMP101843,Ayunda Halim,,3,3,2,1,5,3,1,3,3,49,951577
+EMP101844,Dimas Wijaya,,3,4,1,2,1,3,3,2,1,63,817457
+EMP101845,Ahmad Salsabila,,4,1,3,3,3,1,3,2,1,49,946709
+EMP101846,Arif Suharto,,1,2,4,3,3,3,1,1,3,53,535995
+EMP101847,Sari Utama Maulida,,1,1,1,4,1,1,2,2,5,39,439573
+EMP101848,Yuni Pamungkas,,1,2,6,3,2,2,2,3,6,0,122715
+EMP101849,Teguh Tri Pratama,,1,3,3,3,2,2,2,2,2,83,894899
+EMP101850,Kartika Saputra Kusuma,,3,2,5,1,3,3,3,1,5,34,325705
+EMP101851,Yuni Aji Purnama,,4,4,5,5,3,2,2,2,5,38,509618
+EMP101852,Nugroho Dharma Mahendra,,4,2,4,1,2,1,2,2,2,13,822667
+EMP101853,Kurnia Suharto,,1,2,1,4,3,2,3,2,6,56,409000
+EMP101854,Joko Mahendra,,4,4,1,6,5,3,1,2,6,40,487974
+EMP101855,Rizki Pratama,,3,4,2,6,5,1,3,1,5,71,631739
+EMP101856,Hadi Jatmiko Subekti,,2,4,5,1,1,2,2,2,2,33,994257
+EMP101857,Andi Hartanto,,2,3,4,1,2,3,3,1,1,92,460779
+EMP101858,Intan Candra Siregar,,4,4,6,2,4,1,3,1,3,5,669233
+EMP101859,Ayunda Lestari Ridwan,,4,3,6,1,3,3,1,1,1,56,117844
+EMP101860,Putri Pamungkas,,4,3,1,1,1,2,1,2,4,16,997390
+EMP101861,Fajar Saputra Kurniawan,,1,3,5,5,3,2,3,2,3,12,917133
+EMP101862,Rendra Sinaga,,1,4,2,5,1,3,2,3,1,31,468344
+EMP101863,Wahyu Lestari,,4,2,4,2,2,3,1,3,3,29,531823
+EMP101864,Putri Utama Siregar,,2,1,5,1,1,1,1,2,6,59,258622
+EMP101865,Anisa Qolbi Setiawan,,3,3,2,2,5,2,2,4,5,27,544582
+EMP101866,Julia Tri Wibowo,,4,3,1,5,2,2,2,2,1,28,856732
+EMP101867,Rizki Rahmawati,,3,4,4,2,3,3,1,3,5,36,418808
+EMP101868,Dinda Hidayat,,3,4,1,5,4,2,1,4,6,45,592002
+EMP101869,Mahendra Nugroho,,3,3,3,3,1,3,1,3,6,4,998516
+EMP101870,Ayu Wijaya Putra,,3,3,6,2,5,2,1,3,5,53,685740
+EMP101871,Zaki Tamba,,1,3,5,1,4,3,2,2,5,78,619892
+EMP101872,Ahmad Erlangga Maulida,,4,1,2,2,5,3,3,3,6,71,872437
+EMP101873,Ahmad Tamba,,3,3,4,3,3,1,2,1,3,81,434439
+EMP101874,Nadia Siregar,,3,3,5,4,1,1,1,2,4,61,262245
+EMP101875,Rendra Santoso,,2,2,5,2,2,3,2,3,1,75,149644
+EMP101876,Tania Saputra,,4,1,5,5,5,3,3,1,3,32,315725
+EMP101877,Iman Suharto,,3,2,3,2,5,3,1,2,6,14,672436
+EMP101878,Teguh Herlambang,,1,4,3,5,2,1,2,4,1,12,948709
+EMP101879,Rani Handayani,,2,3,5,5,2,2,3,1,6,26,837192
+EMP101880,Nadia Nabila Pradana,,2,4,4,5,2,3,3,4,3,29,676170
+EMP101881,Dewi Dharma Ramadhan,,2,1,1,2,4,2,3,2,6,45,218553
+EMP101882,Vania Rachman Anggara,,2,2,1,5,5,1,1,2,4,48,859556
+EMP101883,Rama Baskara Ramadhan,,3,2,1,1,2,3,1,1,6,42,409798
+EMP101884,Novi Anugrah Nugroho,,1,1,1,4,2,2,2,1,6,75,888627
+EMP101885,Gita Utami,,2,3,3,5,1,3,2,3,4,111,707906
+EMP101886,Joko Saputra Salsabila,,1,4,5,4,5,3,1,4,5,23,189884
+EMP101887,Bella Nabila Utami,,3,1,1,5,2,3,2,1,1,90,462797
+EMP101888,Citra Mahendra,,4,2,4,4,3,1,3,2,5,84,710364
+EMP101889,Julia Kusuma,,1,3,3,6,4,1,3,1,5,20,665939
+EMP101890,Prasetyo Qolbi Maulida,,3,2,1,4,4,2,3,1,4,58,904270
+EMP101891,Budi Nugroho,,2,3,5,2,5,1,2,4,5,15,718542
+EMP101892,Evi Pratama,,4,4,1,1,3,3,3,4,1,79,218886
+EMP101893,Julia Situmorang,,1,3,4,4,5,3,3,3,4,35,528933
+EMP101894,Tania Nugroho,,2,4,3,5,1,1,2,1,5,16,226261
+EMP101895,Yuni Saputra Wibowo,,3,4,3,6,5,3,3,1,5,86,612175
+EMP101896,Bayu Lestari Subekti,,3,2,5,4,2,3,2,4,1,20,229514
+EMP101897,Vania Utama Lestari,,3,1,3,2,4,1,3,1,6,62,680545
+EMP101898,Joko Candra Purnama,,2,1,2,4,1,1,2,4,4,52,694123
+EMP101899,Hana Aji Maulana,,1,4,3,6,4,3,2,2,4,54,372460
+EMP101900,Bella Lestari Simanjuntak,,3,1,6,6,2,2,3,3,2,39,472182
+EMP101901,Julia Putra,,3,1,3,5,5,1,2,2,5,77,731862
+EMP101902,Citra Anugrah Purnama,,4,2,6,6,5,3,3,2,5,54,914488
+EMP101903,Kartika Fadillah Yulianto,,1,3,3,4,1,3,2,3,5,28,733124
+EMP101904,Eko Subekti,,3,3,4,4,1,3,2,4,4,52,797988
+EMP101905,Wulan Utama Wibowo,,1,1,6,3,5,2,2,1,4,61,828425
+EMP101906,Arif Saputra,,3,1,2,4,2,1,1,2,5,108,940959
+EMP101907,Fitri Fauziah,,2,2,3,4,1,2,3,3,4,36,919159
+EMP101908,Adi Candra Indrawan,,3,2,4,2,3,2,2,1,6,66,268240
+EMP101909,Kurnia Kusuma,,4,4,3,5,5,3,2,1,5,59,253114
+EMP101910,Fitri Saputra Firmansyah,,3,3,6,4,4,3,1,1,3,36,158162
+EMP101911,Lestari Ganesha Zulfikar,,3,4,1,5,2,2,2,2,2,68,108670
+EMP101912,Umar Ramadhan,,4,2,4,4,1,3,1,4,5,40,583501
+EMP101913,Anisa Baskara Maulida,,3,2,6,6,4,3,2,1,3,25,836469
+EMP101914,Wulan Ramadhan,,2,2,2,3,1,3,1,4,1,31,252103
+EMP101915,Dewi Candra Lukman,,3,4,2,1,4,3,3,4,3,62,466866
+EMP101916,Adit Zulfikar Siregar,,4,4,3,1,3,2,1,2,1,91,542407
+EMP101917,Bella Ginting,,3,2,4,3,4,3,2,3,3,82,113890
+EMP101918,Nabila Yudhistira Pradana,,4,3,5,2,5,3,2,1,1,66,605485
+EMP101919,Wulan Rachman Ginting,,1,2,4,5,1,1,3,1,2,58,515189
+EMP101920,Nurlita Sinaga,,4,1,6,2,2,1,1,1,2,88,427998
+EMP101921,Dian Adi Tamba,,4,4,6,5,1,2,2,2,3,13,560549
+EMP101922,Bayu Mahardika Handayani,,2,2,2,2,2,2,3,1,5,71,856950
+EMP101923,Vania Fadillah Mahendra,,3,2,4,2,5,3,3,2,2,14,931717
+EMP101924,Dian Anggara,,2,4,2,5,3,1,1,3,4,52,360450
+EMP101925,Rizka Iqbal Nugroho,,1,4,1,3,4,1,2,3,4,3,952793
+EMP101926,Zahra Maulida,,3,4,5,5,3,1,3,2,4,47,189417
+EMP101927,Eko Ganesha Handayani,,2,2,4,5,5,1,1,2,2,102,495048
+EMP101928,Mahendra Pratomo,,3,4,5,5,1,3,3,2,6,3,121010
+EMP101929,Ayunda Pratomo,,3,4,5,5,5,3,2,4,2,53,356186
+EMP101930,Budi Ramadhan,,3,3,5,4,4,2,1,3,2,47,279112
+EMP101931,Ayu Sinaga,,2,3,4,3,3,1,2,4,2,34,587405
+EMP101932,Wahyu Saputra Fauziah,,3,3,5,4,5,1,3,3,2,84,876248
+EMP101933,Dwi Lestari Lestari,,1,1,5,1,2,1,2,4,5,50,651800
+EMP101934,Yoga Halim Syahputra,,2,4,4,5,5,1,1,2,3,63,367182
+EMP101935,Hadi Maulida,,4,4,5,1,5,2,1,1,2,83,876704
+EMP101936,Dwi Syahputra,,1,2,2,3,5,2,2,2,4,5,115709
+EMP101937,Joko Anugrah Suharto,,4,1,5,1,4,2,3,2,4,84,747747
+EMP101938,Oka Halim Purnama,,4,3,1,2,5,2,2,1,1,66,506060
+EMP101939,Rafa Syahputra,,1,4,3,3,1,3,3,4,3,108,548105
+EMP101940,Rani Sinaga,,3,1,3,4,5,3,3,3,4,109,854784
+EMP101941,Hana Halim Wijaya,,1,3,2,1,5,2,2,4,2,5,207751
+EMP101942,Evi Rachman Pamungkas,,2,2,6,3,1,2,1,2,1,42,936297
+EMP101943,Rama Rachman Ginting,,3,3,4,4,5,1,3,3,4,71,449502
+EMP101944,Dewi Utami,,3,1,4,1,2,3,1,3,5,4,368838
+EMP101945,Mahendra Wibowo,,4,1,6,2,4,3,3,3,3,96,522357
+EMP101946,Putri Maulida,,1,2,5,4,3,2,3,3,6,61,108026
+EMP101947,Gita Lukman,,3,4,4,2,3,3,1,4,1,58,715261
+EMP101948,Utami Lestari Indrawan,,2,2,5,6,1,1,2,4,3,36,955832
+EMP101949,Nugroho Dharma Indrawan,,2,4,6,5,2,3,3,2,1,47,940189
+EMP101950,Teguh Rachman Salsabila,,3,1,3,3,1,3,2,2,4,49,220970
+EMP101951,Putri Firmansyah,,2,2,5,3,3,2,1,2,6,52,550104
+EMP101952,Bayu Setiawan,,1,3,2,3,5,3,2,1,2,70,712745
+EMP101953,Wulan Wijaya Ginting,,2,4,6,6,5,3,2,3,3,11,475454
+EMP101954,Rizki Indrawan,,3,4,6,3,1,3,2,2,6,37,478164
+EMP101955,Budi Salsabila,,2,2,2,2,2,1,1,3,5,57,723827
+EMP101956,Julia Ridwan,,4,2,5,6,4,2,1,2,5,35,399138
+EMP101957,Hadi Jatmiko Zulfikar,,2,2,6,5,4,2,3,3,5,74,821460
+EMP101958,Hadi Utama Hidayat,,4,4,3,2,2,1,1,4,4,31,515655
+EMP101959,Anisa Qolbi Fauziah,,1,1,6,3,5,3,3,2,2,88,483202
+EMP101960,Kurnia Sinaga,,1,1,5,5,1,1,2,2,1,18,863299
+EMP101961,Indra Kusuma Purnama,,1,3,6,2,1,3,1,3,5,55,526439
+EMP101962,Rani Yudhistira Anggara,,1,3,2,3,3,2,2,4,4,61,521850
+EMP101963,Zahra Mahendra,,4,1,1,2,3,1,3,4,5,52,621989
+EMP101964,Joko Handayani,,4,2,1,6,3,1,2,3,6,58,420507
+EMP101965,Dimas Candra Ramadhan,,4,2,2,1,5,2,1,4,2,52,870784
+EMP101966,Dewi Wijaya,,2,4,1,3,5,2,3,4,1,88,665863
+EMP101967,Tania Halim Zulfikar,,3,4,1,4,5,1,1,2,4,26,899491
+EMP101968,Lestari Siregar,,3,3,5,1,4,1,1,2,6,24,182270
+EMP101969,Budi Aji Simanjuntak,,3,4,5,4,1,3,1,1,4,44,703432
+EMP101970,Rizky Hidayat,,2,4,2,1,4,2,2,2,6,87,668690
+EMP101971,Utami Hasibuan,,4,3,2,5,5,1,2,1,5,48,403125
+EMP101972,Evi Wijaya,,2,4,6,5,1,1,2,2,3,38,699740
+EMP101973,Putri Siregar,,1,1,2,1,3,3,3,3,6,29,324933
+EMP101974,Yoga Dharma Salsabila,,2,4,2,4,3,2,2,2,3,40,392195
+EMP101975,Fajar Nugroho,,2,1,5,1,5,2,3,4,1,67,745319
+EMP101976,Prasetyo Utami,,2,2,4,4,2,1,3,3,6,118,205334
+EMP101977,Teguh Zulfikar,,1,1,6,3,1,3,3,2,6,50,782869
+EMP101978,Yuni Erlangga Pratama,,3,3,2,2,5,3,1,3,4,9,786958
+EMP101979,Prasetyo Pramudita Saputra,,3,4,5,3,3,3,1,3,5,37,941332
+EMP101980,Valdo Ganesha Handayani,,1,4,2,6,2,2,1,1,2,81,560544
+EMP101981,Novi Aji Suharto,,3,2,6,4,3,1,1,4,4,89,812259
+EMP101982,Joko Santoso,,3,2,6,6,3,1,3,4,3,53,981696
+EMP101983,Dinda Qolbi Fauziah,,4,3,6,5,4,3,1,3,2,86,211945
+EMP101984,Putri Utami,,3,2,2,6,2,3,3,4,4,57,164699
+EMP101985,Dwi Kusuma,,2,4,2,6,5,1,1,4,5,31,463869
+EMP101986,Wahyu Pratomo,,2,3,3,3,1,3,1,2,4,7,889823
+EMP101987,Ahmad Herlambang,,4,4,6,3,4,1,3,3,2,77,462437
+EMP101988,Wulan Tri Pratama,,2,2,3,5,5,3,3,3,3,33,919916
+EMP101989,Gita Tri Gunawan,,4,1,4,5,1,1,1,2,1,27,897663
+EMP101990,Adi Subekti,,2,3,3,4,2,2,2,3,3,53,644792
+EMP101991,Dian Erlangga Yulianto,,3,1,6,5,1,3,2,1,1,37,180750
+EMP101992,Maya Anugrah Hasibuan,,2,4,6,5,5,2,1,3,1,42,505313
+EMP101993,Rani Utama Simanjuntak,,2,4,6,3,4,2,1,2,6,24,439432
+EMP101994,Rani Indrawan,,4,4,6,2,5,1,2,1,4,14,856308
+EMP101995,Utami Kusuma Hidayat,,4,4,5,2,2,1,2,3,3,50,791731
+EMP101996,Adit Maulana,,4,2,2,5,1,2,3,2,1,53,361572
+EMP101997,Satya Halim Putra,,1,3,1,4,3,3,2,4,4,16,465240
+EMP101998,Kurnia Subekti,,3,3,5,5,5,3,1,1,1,64,577048
+EMP101999,Adit Mahendra,,1,4,2,6,5,3,1,2,1,58,432959

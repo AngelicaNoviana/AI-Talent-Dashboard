@@ -96,5 +96,4 @@ st.subheader("Score Distribution")
 fig2 = px.histogram(df, x="final_competency_match", nbins=12)
 st.plotly_chart(fig2, use_container_width=True)
 
-st.success("Dashboard Loaded Successfully!")
 st.caption("Final Dashboard • AI Talent Competency • 2025")

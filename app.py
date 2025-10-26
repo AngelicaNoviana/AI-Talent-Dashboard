@@ -21,6 +21,12 @@ def load_data():
     emp_file = "employees_rows.csv"
     str_file = "strengths_rows.csv"  # adjust if your file has slightly different name
 
+    print("✅ CSV files loaded:", employees_df.shape, competency_df.shape, strengths_df.shape)
+    print("Columns in employees_df:", employees_df.columns.tolist())
+    print("Columns in competency_df:", competency_df.columns.tolist())
+    print("Columns in strengths_df:", strengths_df.columns.tolist())
+
+
     # read safely (if file not found, raise friendly error)
     for f in [score_file, emp_file]:
         if not os.path.exists(f):
@@ -188,4 +194,5 @@ fig2 = px.histogram(df, x="final_competency_match", nbins=15)
 st.plotly_chart(fig2, use_container_width=True)
 
 st.caption("Final Dashboard")
+
 

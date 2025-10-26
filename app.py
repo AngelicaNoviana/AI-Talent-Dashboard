@@ -1,8 +1,13 @@
 # app.py (robust version)
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 import os
+try:
+    import plotly.express as px
+except:
+    import plotly.express as px
+    print("Plotly import workaround triggered")
+
 
 st.set_page_config(page_title="AI Talent Dashboard", layout="wide")
 
@@ -183,3 +188,4 @@ fig2 = px.histogram(df, x="final_competency_match", nbins=15)
 st.plotly_chart(fig2, use_container_width=True)
 
 st.caption("Final Dashboard")
+
